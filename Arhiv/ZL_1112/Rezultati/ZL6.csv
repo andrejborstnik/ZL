@@ -1,0 +1,44 @@
+﻿@SI
+Surname;First name;Time;Pl;Classifier;Cl.name;City;Short;km;m;Course controls
+Rojc;Iztok;0:32:40;1;0;OK Polaris;;A;3,8;160;19
+Mrak;Tibor;0:33:28;2;0;OK Azimut;;A;3,8;160;19
+Tušar;Peter;0:35:39;3;0;OK Azimut;;A;3,8;160;19
+Eržen;Valentin;0:35:58;4;0;OK Azimut;;A;3,8;160;19
+Močnik;Rok;0:36:10;5;0;OK Azimut;;A;3,8;160;19
+Čelik;Matija;0:36:30;6;0;OK Azimut;;A;3,8;160;19
+Jazbar;Jožko;0:38:28;7;0;OK Azimut;;A;3,8;160;19
+Jeram;Nuša;0:39:20;8;0;OK Azimut;;A;3,8;160;19
+Čelik;Patrik;0:39:22;9;0;OK Azimut;;A;3,8;160;19
+Čufer;David;0:40:04;10;0;PD Ajdovščina;;A;3,8;160;19
+Kenda;Klemen;0:40:08;11;0;OK Azimut;;A;3,8;160;19
+Čufer;Stanko;0:40:28;12;0;PD Ajdovščina;;A;3,8;160;19
+Knap;Franc;0:40:38;13;0;OK Azimut;;A;3,8;160;19
+Poljanšek;Aleš;0:41:11;14;0;OK Azimut;;A;3,8;160;19
+Hvala;Gregor;0:42:30;15;0;OK Azimut;;A;3,8;160;19
+Vodopivec;Samo;0:44:23;16;0;OK Azimut;;A;3,8;160;19
+Lapajne;Jošt;0:45:45;17;0;OK Azimut;;A;3,8;160;19
+Bončina;Igor;0:45:52;18;0;OK Azimut;;A;3,8;160;19
+Cimerman;Janez;0:47:25;19;0;OK Azimut;;A;3,8;160;19
+Rupnik;Tilen;0:47:49;20;0;OK Azimut;;A;3,8;160;19
+Koprivc;Matjaž;0:51:48;21;0;OK Azimut;;A;3,8;160;19
+Štalekar;Maja;0:54:13;22;0;OK Slovenj Gradec;;A;3,8;160;19
+Kacin;Vojko;0:57:28;23;0;OK Azimut;;A;3,8;160;19
+Dućak;Igor;1:03:40;24;0;ind.;;A;3,8;160;19
+Rejec;Gašper;1:10:50;25;0;OK Azimut;;A;3,8;160;19
+Krivičić;Dragan;1:26:00;26;0;OK Perkmandeljc;;A;3,8;160;19
+Poljanšek;Katjuša;0:25:28;1;0;OK Azimut;;B;;;
+Lampič;Zala;0:35:43;2;0;OK Azimut;;B;;;
+Vukajlovič;Vladan;0:43:24;3;0;OK Azimut;;B;;;
+Rupnik;Andraž;0:44:04;4;0;OK Azimut;;B;;;
+Demir;Rafaela;0:45:24;5;0;ind.;;B;;;
+Rejec;Pavel;0:45:55;6;0;OK Azimut;;B;;;
+Škvarč;Teja;0:49:55;7;0;PD Ajdovščina;;B;;;
+Rejec;Marjana;0:54:12;8;0;OK Azimut;;B;;;
+Škvarč;Sašo;0:18:35;1;0;PD Ajdovščina;;C;;;
+Praprotnik;Deja;0:19:18;2;0;OK Azimut;;C;;;
+Poljanšek;Nika;0:21:12;3;0;OK Azimut;;C;;;
+Sever;Matic;0:22:36;4;0;PD Ajdovščina;;C;;;
+Koradin;Elena;0:25:25;5;0;PD Ajdovščina;;C;;;
+Eržen;Nea;0:26:28;6;0;OK Azimut;;C;;;
+Črnigoj;Nina;0:29:10;7;0;PD Ajdovščina;;C;;;
+Zajc;Maja;0:55:45;8;0;OK Azimut;;C;;;
