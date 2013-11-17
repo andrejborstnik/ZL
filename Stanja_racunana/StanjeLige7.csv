@@ -1,169 +1,186 @@
-Surname;First name;Cl.name;Class;Time;Pl;Points;ZL1;ZL2;ZL3;ZL4;ZL5;ZL6;ZL7;Sum;Average
-Mrak;Tibor;OK Azimut;A;1:05:05;5;1063;1116;1294;1172;974;;1077;1063;4659;1165
-Borštnik;Andrej;OK Tivoli;A;0:59:58;2;1126;1164;897;1013;965;966;;1126;4269;1067
-Pretnar;Janez;OK Azimut;A;;;;1154;1011;981;;1055;;;4201;1050
-Eržen;Valentin;OK Azimut;A;1:18:21;15;899;;1104;992;932;966;1000;899;4062;1016
-Kenda;Klemen;OK Azimut;A;1:12:51;10;967;;906;964;922;;872;967;3759;940
-Lapajne;Jošt;OK Azimut;A;1:01:39;3;1105;948;;936;;;700;1105;3689;922
-Čelik;Patrik;OK Azimut;A;;;;674;810;992;952;;896;;3650;912
-Petrovič;Blaž;OK Polaris;A;1:12:29;9;972;864;;;969;822;;972;3627;907
-Petrovič;Dušan;OK Polaris;A;1:18:56;16;892;836;816;;967;900;;892;3595;899
-Knap;Franc;OK Azimut;A;;;;946;;935;769;;857;;3507;877
-Zmrzlikar;Jure;OK Komenda;A;;;;1175;1254;;1054;;;;3483;1161
-Borštnik;Aljaž;OK Tivoli;A;1:15:22;14;936;;685;926;-;907;;936;3454;864
-Pribaković Borštnik;Ana;OK Tivoli;A;1:29:48;23;759;844;887;;920;716;;759;3410;852
-Hvala;Gregor;OK Azimut;A;1:36:29;26;676;943;;;932;;800;676;3351;838
-Cimerman;Janez;OK Azimut;A;1:30:07;24;755;738;831;673;857;780;649;755;3223;806
-Rupnik;Tilen;OK Azimut;A;1:43:57;29;584;-;;1026;958;;637;584;3205;801
-Čufer;David;PD Ajdovščina;A;;;;759;603;;845;;874;;3081;770
-Čufer;Stanko;PD Ajdovščina;A;1:24:36;19;823;423;509;;614;;862;823;2808;702
-Bončina;Igor;OK Azimut;A;1:28:51;22;770;;;;653;653;697;770;2773;693
-Udovič;Metka;SCOM Mendriso;A;;;;711;;834;335;616;;;2496;624
-Kacin;Vojko;OK Azimut;A;1:45:30;30;565;293;678;722;-;518;342;565;2483;621
-Sladič;Roman;OK Perkmandeljc;A;1:43:37;28;589;566;450;766;;547;;589;2468;617
-Foški;Tajda;OK Polaris;A;1:22:40;18;846;;;825;740;-;;846;2411;804
-Burič;Uroš;RJZ Velenje;A;;;;409;190;867;;933;;;2399;600
-Alewijnse;Feike;OK Trzin;A;;;;;;910;887;587;;;2384;795
-Bartulovich;Lorenzo;SSD Gaja;A;;;;753;;;858;756;;;2367;789
-Borštnik;Aleš;OK Tivoli;A;1:40:13;27;630;;417;686;-;611;;630;2344;586
-Jeram;Nuša;OK Azimut;A;;;;;787;647;;;897;;2331;777
-Zorman;Jernej;OK Komenda;A;1:02:26;4;1095;1163;;;;;;1095;2258;1129
-Bosisio;Kristian;SCOM Mendriso;A;;;;;;887;416;810;;;2113;704
-Rojc;Iztok;OK Polaris;A;1:10:44;8;993;;;;;;1101;993;2094;1047
-Anderluh;Gregor;OK Polaris;A;1:10:03;7;1002;;;;969;;;1002;1971;986
-Tušar;Peter;OK Azimut;A;;;;;;;893;;1010;;1903;952
-Pobežin;Robert;OK Polaris;A;1:14:11;13;951;;;;939;;;951;1890;945
-Bernik;Jerca;ŠOK;A;1:13:25;11;960;;;897;;;;960;1857;928
-Kmetič;Sandi;OK Polaris;A;;;;;929;;898;;;;1827;914
-Sušnik;Rok;OK Azimut;A;;;;401;;680;734;;;;1815;605
-Jazbar;Jožko;OK Azimut;A;;;;;;883;;;923;;1806;903
-Čelik;Matija;OK Azimut;A;;;;;797;;;;984;;1781;890
-Maček;Marjan;ind.;A;;;;840;;;915;-;;;1755;878
-Foški;Valter;OK Polaris;A;1:24:39;20;822;;;;923;-;;822;1745;872
-Kodrič;Nejc;PD Ajdovščina;A;;;;;;947;754;;;;1701;850
-Česnik;Martin;RKV Postojna;A;;;;;;;789;904;;;1693;846
-Štalekar;Maja;ind.;A;1:51:02;33;497;;;;;590;441;497;1528;509
-Vodopivec;Samo;OK Azimut;A;;;;;;761;;;742;;1503;752
-Zupan;Aleš;OK Polaris;A;;;;;;684;750;;;;1434;717
-Clemente;Mauro;SSD Gaja;A;;;;836;;;561;;;;1397;698
-Bartulovich;Antenore;SSD Gaja;A;;;;-;;;654;711;;;1365;682
-Hribar;Andraž;OK Brežice;A;0:48:54;1;1262;;;;;;;1262;1262;1262
-Radovan;Dalibor;OK Polaris;A;;;;;;;644;563;;;1207;604
-Kete;Ivo;PD Ajdovščina;A;;;;301;;873;;;;;1174;587
-Krivičić;Dragan;OK Prekmandeljc;A;1:47:45;31;538;;-831;607;28;-;-532;538;1173;391
-Koprivc;Matjaž;OK Azimut;A;;;;;;;;619;515;;1134;567
-Hošek;Radim;KOB Dobruska;A;;;;1059;;;;;;;1059;1059
-Bogovič;Vid;OK Brežice;A;;;;1027;;;;;;;1027;1027
-Šalamun;Miro;OK Polaris;A;1:07:59;6;1027;;;;;;;1027;1027;1027
-Močnik;Rok;OK Azimut;A;;;;;;;;;994;;994;994
-Dovč;Jan;OK Tivoli;A;1:13:55;12;954;;;;;;;954;954;954
-Oetnik;Siegfried;HSV Bleiburg;A;1:20:04;17;878;;;;;;;878;878;878
-Petrovič;Uroš;OK Polaris;A;;;;861;;;;;;;861;861
-Pretnar;Tanja;OK Azimut;A;;;;859;;;;;;;859;859
-Poljanšek;Aleš;OK Azimut;A;;;;;;;;;840;;840;840
-Cukjati;Tobija;OK Polaris;A;;;;;;;;816;;;816;816
-Šegula;Aljaž;OK Polaris;A;1:28:14;21;778;-;;;;;;778;778;778
-Flerin;Mojca;OK Komenda;A;;;;;;;-;755;;;755;755
-Pizzamus;Paolo;SSD Gaja;A;;;;752;;;;;;;752;752
-Kette;Ivo;PD Ajdovščina;A;1:32:06;25;730;;;;;;;730;730;730
-Cvek;Manca;OK Azimut;A;mp;;;709;-;-;;;;-;709;709
-Kolman;Miran;OK Azimut;A;;;;;;;;661;;;661;661
-Keresteš;Krešo;OK Trzin;A;;;;;;657;;;;;657;657
-Plavčak;Ana;OK Azimut;A;;;;;;;644;;;;644;644
-Leoni;Gianluca;SSD Gaja;A;;;;558;;;;;;;558;558
-Čebašek;Jure;OK Polaris;A;1:50:05;32;509;;;;;;;509;509;509
-Pacor;Fulvio;SSD Gaja;A;;;;488;;;;;;;488;488
-Pestotnik;Rok;Pustolovec Rajd;A;;;;405;;;;;;;405;405
-Smolej;Katarina;OK Azimut;A;;;;;;374;;;;;374;374
-Mirnik;Jona;OK Komenda;A;;;;309;;;;;;;309;309
-Dučak;Igor;ind.;A;;;;;;;;;152;;152;152
-De Luisa;Andraž;SSD Gaja;A;2:26:15;34;64;;;;;;;64;64;64
-Rejec;Gašper;OK Azimut;B;;;;366;330;354;339;;;;1389;347
-Slapničar;Anja;RJZ Velenje;B;;;;220;323;265;;266;;;1074;268
-Vukajlovič;Vladan;DGN SP;B;;;;291;126;194;224;;;;835;209
-Škarabot;Matej;OK Polaris;B;0:26:04;2;322;;273;229;;;;322;824;275
-Petrovic;Gašper;OK Polaris;B;0:33:48;6;246;;241;;183;142;;246;812;203
-Štor;Luka;PD Ajdovščina;B;0:36:50;8;222;;;320;231;;;222;773;258
-Poljanšek;Katjuša;OK Azimut;B;;;;287;;268;206;;;;761;254
-Črnigoj;Nina;PD Ajdovščina;B;;;;-;236;235;243;;;;714;238
-Pretnar;Irma;OK Azimut;B;;;;193;250;202;;;;;645;215
-Šalamun;Jan;OK Polaris;B;0:29:40;4;282;330;;;;;;282;612;306
-Škvarč;Teja;PD Ajdovščina;B;;;;114;184;158;127;;;;583;146
-Volčič;Maša;OK Tivoli;B;0:28:57;3;291;276;;;;;;291;567;284
-Bukovnik;Tina;RJZ Velenje;B;;;;;222;154;;176;;;552;184
-Mirnik;Jona;OK Komenda;B;;;;;278;;265;;;;543;272
-Rejec;Pavel;DGN SP;B;;;;-;256;279;-;;;;535;268
-Zupan;Polona;OK Polaris;B;0:37:37;9;215;;;276;-;;;215;491;246
-Hrovat;Maj;OK Trzin;B;;;;249;;;228;;;;477;238
-Anderluh;Marija;OK Polaris;B;0:33:39;5;250;;;;217;;;250;467;234
-Rupnik;Andraž;OK Azimut;B;;;;;;246;212;;;;458;229
-Špendl;Martin;OK Trzin;B;;;;197;;;257;;;;454;227
-Rejec;Marjana;DGN SP;B;;;;110;144;123;-;;;;377;126
-Humar;Matjaž;ind.;B;;;;;345;;;;;;345;345
-Zupan;Aleš;OK Polaris;B;0:24:18;1;345;;;;;;;345;345;345
-Zabukovec;Klemen;PD Ajdovščina;B;0:39:07;11;201;;;139;;;;201;340;170
-Jeram;Nuša;OK Azimut;B;;;;337;;;;;;;337;337
-Keresteš;Mateja;OK Trzin;B;;;;;;172;165;;;;337;168
-Tumpej;Jure;Taborniki;B;;;;;;;;336;;;336;336
-Foški;Tajda;OK Polaris;B;;;;324;;;;;;;324;324
-De Luisa;Andraž;SSD Gaja;B;;;;316;;;;;;;316;316
-Jerman;Lara;OK Trzin;B;;;;299;;;;;;;299;299
-Ravnikar;Monika;OK Komenda;B;;;;295;;;;;;;295;295
-Dremel;Ula;OK Trzin;B;;;;284;;;;;;;284;284
-Burger;Veronika;OK Polaris;B;;;;273;;;;;;;273;273
-Škvarč;Dejan;PD Ajdovščina;B;;;;;;272;;;;;272;272
-Foški;Brina;OK Polaris;B;0:34:46;7;237;;;;;;;237;237;237
-Kristan;Martin;OK Komenda;B;;;;;;;;220;;;220;220
-Kolar;Ana Marija;RJZ Velenje;B;;;;;;;;216;;;216;216
-Lipužič;Marjeta;OK Komenda;B;;;;213;;;;;;;213;213
-Petkovšek;Gal;OK Azimut;B;;;;;212;;;;;;212;212
-Čufer;Ana;PD Ajdovščina;B;;;;209;;;;;;;209;209
-Černigoj;Nina;PD Ajdovščina;B;0:38:31;10;207;;;;;;;207;207;207
-Bratina;Kaja;PD Ajdovščina;B;0:40:27;12;192;;;;;;;192;192;192
-Cigoj;Jure;PD Ajdovščina;B;;;;;;190;;;;;190;190
-Krhlikar;Denis;OK Azimut;B;;;;;187;;;;;;187;187
-Foški;Mojca;OK Polaris;B;0:41:50;13;183;;;;;;;183;183;183
-Robida;Denis;RJZ Velenje;B;;;;;;;;181;;;181;181
-Pobežin;Katarina;OK Polaris;B;0:42:45;14;177;;;;-;;;177;177;177
-Novak;Anže Gorjan;OK Komenda;B;;;;;;;;173;;;173;173
-Volk;Žiga;RJZ Velenje;B;;;;;;;;158;;;158;158
-Sepin;Claudio;SSD Gaja;B;;;;143;;;;;;;143;143
-Triglav;S S K;ind.;B;0:52:54;15;141;;;;;;;141;141;141
-De Luisa;Marko;SSD Gaja;B;;;;139;;;;;;;139;139
-Mirnik;Pia;RJZ Velenje;B;;;;;;;;137;;;137;137
-Drev;Jernej;RJZ Velenje;B;;;;;;;;112;;;112;112
-Koželjnik;Kaja;RJZ Velenje;B;;;;;;;;96;;;96;96
-Škvarč;Sašo;PD Ajdovščina;C;;;;59;;118;113;102;;;392;98
-Zupan;Peter;OK Polaris;C;0:09:32;4;101;;;96;90;;;101;287;96
-Kmetič;Zarja;PD Ajdovščina;C;0:14:04;7;67;;;69;41;93;;67;270;68
-Pahor;Maj Peter;PD Ajdovščina;C;;;;-;50;103;86;-;;;239;80
-Rijavec;Jure;PD Ajdovščina;C;;;;60;;54;93;-;;;207;69
-Bratina;Kaja;PD Ajdovščina;C;;;;;91;;114;;;;205;102
-Slejko;Nik;PD Ajdovščina;C;;;;;37;80;79;;;;196;65
-Harej;Daša;PD Ajdovščina;C;0:10:31;5;91;;39;56;;;;91;186;62
-Škarabot;Anja;OK Polaris;C;0:12:58;6;74;;41;64;;;;74;179;60
-Anderluh;Luka;OK Polaris;C;0:09:02;1;109;;;;67;;;109;176;88
-Kete;Jana;PD Ajdovščina;C;;;;-;;86;77;;;;163;82
-Pahor;Nejc;PD Ajdovščina;C;;;;;;75;74;;;;149;74
-Bizjak;Žan;PD Ajdovščina;C;;;;;58;82;-;-;;;140;70
-Simonič;Matjaž;PD Ajdovščina;C;;;;;;115;;;;;115;115
-Štor;Luka;PD Ajdovščina;C;;;;;109;;;;;;109;109
-Petrovič;Filip;OK Polaris;C;;;;;;;108;;;;108;108
-Škarabot;Matej;OK Polaris;C;;;;106;;;;;;;106;106
-Ukmar;Anže;PD Ajdovščina;C;0:09:21;2;105;;;;;;;105;105;105
-Borštnik;Anže;OK Tivoli;C;0:09:22;3;103;;;;;;;103;103;103
-Bizjak;Žiga;PD Ajdovščina;C;;;;58;-;41;;;;;99;50
-Koradin;Rene;PD Ajdovščina;C;;;;;;;91;;;;91;91
-Remškar;Žan;PD Ajdovščina;C;;;;;;83;-;;;;83;83
-Bone;Matevž;PD Ajdovščina;C;;;;;;71;;;;;71;71
-Petrovič;Domenin Filip;OK Polaris;C;;;;68;;;;;;;68;68
-Petrovič;Gašper;OK Polaris;C;;;;61;;;;;;;61;61
-Matic Sever;Jure Podgornik;PD Ajdovščina;C;;;;;;51;;;;;51;51
-Foški;Oskar;OK Polaris;C;0:19:11;8;49;;;;;;;49;49;49
-Rijavec;Manca;PD Ajdovščina;C;;;;;47;;;;;;47;47
-Budihna;Jon;OK Polaris;C;0:19:28;9;47;;;;;;;47;47;47
-Benčina;Metka;DGNSP;C;;;;;;43;;;;;43;43
-Elena Koradin;Gaja Podgornik;PD Ajdovščina;C;;;;;;40;;;;;40;40
-Podgornik Koradin;Gaja Elena;PD Ajdovščina;C;;;;;;;39;;;;39;39
-Cigoj;Jure;PD Ajdovščina;C;;;;;35;;;-;;;35;35
-Čebron Golob Bole;Nuša Ana Anja;PD Ajdovščina;C;;;;;;;31;;;;31;31
+Surname;First name;City;Class;Time;Pl;Points;ZL1;ZL2;ZL3;ZL4;ZL5;ZL6;ZL7;Sum;Average
+Kenda;Klemen;OK Azimut;A;;;;931;941;888;865;941;982;;4683;937
+Primožič;Aljoša;OK Azimut;A;;;;970;799;851;866;902;982;;4571;914
+Cimerman;Janez;OK Azimut;A;;;;869;862;817;;905;834;;4287;857
+Tušar;Peter;OK Azimut;A;0:23:39;9;964;1073;;;;1051;1056;964;4144;1036
+Borštnik;Aleš;OK Tivoli;A;mp;;;;893;757;831;725;751;-;3957;791
+Šumečki;Žan Luka;RJZ Velenje;A;;;;839;817;-;1018;865;;;3539;885
+Pribaković Borštnik;Ana;OK Tivoli;A;;;;;895;;864;918;840;;3517;879
+Jazbar;Jožko;OK Azimut;A;;;;865;880;798;;;969;;3512;878
+Čufer;David;PD Ajdovščina;A;;;;;767;895;;972;869;;3503;876
+Piltaver;Jaka;OK Brežice;A;;;;1146;;1214;;1137;;;3497;1166
+Anderluh;Gregor;OK Polaris;A;0:21:48;6;1010;;1036;;;984;;1010;3030;1010
+Kmetič;Sandi;OK Polaris;A;0:22:27;7;994;1010;;;;963;;994;2967;989
+Foški;Valter;OK Polaris;A;0:34:49;17;690;;;562;831;862;;690;2945;736
+Petrovič;Blaž;OK Polaris;A;0:21:15;5;1023;;904;;991;;;1023;2918;973
+Petrovič;Dušan;OK Polaris;A;0:20:21;3;1045;;;;958;890;;1045;2893;964
+Flerin;Mojca;OK Komenda;A;0:18:53;2;1081;;;;857;897;;1081;2835;945
+Burič;Uroš;RJZ Velenje;A;;;;;970;856;;923;;;2749;916
+Borštnik;Aljaž;OK Tivoli;A;0:25:30;11;919;;-;;;712;977;919;2608;869
+Rupnik;Andraž;OK Azimut;A;;;;860;;-;;792;922;;2574;858
+Čufer;Stanko;PD Ajdovščina;A;;;;;939;;;827;787;;2553;851
+Zmrzlikar;Jure;OK Komenda;A;;;;;1074;;;1091;;;2165;1082
+Rojc;Iztok;OK Polaris;A;0:18:22;1;1094;;;;;;1047;1094;2141;1070
+Zorman;Jernej;OK Komenda;A;;;;;1100;;1002;;;;2102;1051
+Škarabot;Miha;OK Polaris;A;0:28:26;13;847;;;;;938;;847;1785;892
+Kacin;Vojko;OK Azimut;A;;;;714;;;;516;555;;1785;595
+Omersa;Dane;ind.;A;;;;;872;895;;-;;;1767;884
+Hvala;Gregor;OK Azimut;A;;;;;;;;918;836;;1754;877
+Foški;Tajda;OK Polaris;A;;;;;;;800;889;;;1689;844
+Kete;Ivo;PD Ajdovščina;A;;;;416;530;;;;727;;1673;558
+Flašker;Ajda;OK Komenda;A;0:33:25;16;724;;;;881;;;724;1605;802
+Drevenšek;Suzana;OK Komenda;A;0:40:55;19;540;;;;578;461;;540;1579;526
+Zupan;Aleš;OK Polaris;A;;;;754;725;;;;;;1479;740
+Lazar;Nejc;OK Azimut;A;0:33:02;14;734;;;;;;725;734;1459;730
+Bernik;Jerca;ŠOK;A;0:33:03;15;733;;715;;;;;733;1448;724
+Sladič;Roman;OK Perkmandeljc;A;;;;;;;642;610;;;1252;626
+Borštnik;Andrej;OK Tivoli;A;0:20:54;4;1032;;;;;;;1032;1032;1032
+Šalamun;Miro;OK Polaris;A;0:23:15;8;974;;;;;;;974;974;974
+Lapajne;Jošt;OK Azimut;A;0:24:31;10;943;;;;;;;943;943;943
+Studen;Andrej;OK Polaris;A;;;;;943;;;;;;943;943
+Eržen;Valentin;OK Azimut;A;;;;;;;;;917;;917;917
+Močnik;Silvij;OK Azimut;A;;;;;907;;;;;;907;907
+Pisljar;Jaka;OK Komenda;A;;;;;;;;902;;;902;902
+Casagrande;Marko;OK Tivoli;A;;;;;891;;;;;;891;891
+Bogovič;Vid;OK Brežice;A;0:27:58;12;858;;;;;;;858;858;858
+Podobnik;Matjaž;OK Azimut;A;;;;;;;;;848;;848;848
+Pizzamus;Paolo;SSD Gaja;A;;;;801;;;;;;;801;801
+Leoni;Gianluca;SSD Gaja;A;;;;799;;;;;;;799;799
+Kolner;Blaž;OK Komenda;A;;;;;;;;788;;;788;788
+Bartulovich;Antenore;SSD Gaja;A;;;;780;;;;;;;780;780
+Vukajlovič;Vladan;OK Azimut;A;;;;752;;;;;;;752;752
+Alewijnse;Feike;OK Trzin;A;;;;;;;740;;;;740;740
+Radovan;Dalibor;OK Polaris;A;;;;;;;;736;;;736;736
+Korošec;Janez;OK Komenda;A;;;;;;;725;-;;;725;725
+Miheljak;Blaž;OK Slovenj Gradec;A;;;;;692;;;;;;692;692
+Pacor;Fulvio;SSD Gaja;A;;;;678;;;;;;;678;678
+Cimerman;Martin;KRK Sova Scott Team;A;;;;;662;;;;;;662;662
+Foški;Mojca;OK Polaris;A;0:37:30;18;624;;;;;;;624;624;624
+Šmit;Žiga;OK Polaris;A;;;;;574;;;;;;574;574
+Krivičić;Dragan;OK Prekmandeljc;A;;;;569;;;;;;;569;569
+Frankovic;Samo;RJZ Velenje;A;;;;;;;;567;;;567;567
+Rejec;Pavel;OK Azimut;A;;;;563;;;;;;;563;563
+Germani;Marko;SSD Gaja;A;;;;510;;;;;;;510;510
+Sušnik;Rok;OK Azimut;A;;;;;;;;;490;;490;490
+Černe;Aljaž;KRK Sova Scott Team;A;;;;;449;;;;;;449;449
+Rejec;Gašper;OK Azimut;B;;;;304;226;333;235;322;336;;1530;306
+Blaž;Matic;OK Komenda;B;;;;;387;324;279;373;;;1363;341
+Ravnikar;Žan;OK Komenda;B;0:09:37;2;286;;356;341;;268;;286;1251;313
+Rejec;Pavel;OK Azimut;B;;;;;324;;253;242;242;;1061;265
+Ravnikar;Monika;OK Komenda;B;0:45:40;8;59;;337;;226;387;;59;1009;252
+Petrovic;Gašper;OK Polaris;B;;;;;221;;259;340;;;820;273
+Rejec;Marjana;OK Azimut;B;;;;160;152;;145;189;174;;820;164
+Čerin;Boštjan;ind.;B;;;;;217;245;333;;;;795;265
+Škarabot;Matej;OK Polaris;B;0:08:30;1;324;;393;;;;;324;717;358
+Črnigoj;Nina;PD Ajdovščina;B;;;;261;;176;;;268;;705;235
+Radovan;Ema;OK Polaris;B;;;;186;349;169;;;;;704;235
+Pahor;Nejc;PD Ajdovščina;B;;;;191;309;172;;;;;672;224
+Čerin;Aleš;ind.;B;;;;;141;214;142;162;;;659;165
+Lapajne;Janko;OK Azimut;B;;;;;304;;;298;;;602;301
+Pogačar;Aljoša;OK Komenda;B;0:36:47;7;75;;-;315;;198;;75;588;196
+Lipužič;Marjeta;OK Komenda;B;;;;;;;214;361;;;575;288
+Vukajlovič;Vladan;OK Azimut;B;;;;;279;;;279;;;558;279
+Boncina;Igor;OK Azimut;B;;;;;;280;269;;;;549;274
+Koprivc;Matjaz;OK Azimut;B;;;;;;240;;303;;;543;272
+Zupan;Polona;OK Polaris;B;;;;215;299;;;;;;514;257
+Zajc;Maja;OK Azimut;B;;;;267;;;;;233;;500;250
+Šiler;Petra;ind.;B;;;;;285;;;181;;;466;233
+Zupan;Peter;OK Polaris;B;;;;239;206;;;;;;445;222
+Petkovšek;Gal;OK Azimut;B;;;;;;;;209;203;;412;206
+Rijavec;Jure;PD Ajdovščina;B;;;;96;;165;;;146;;407;136
+Kotar;Dušan;ind.;B;;;;;232;;;173;;;405;202
+Poljanec;Suzana;OK Azimut;B;0:29:08;5;100;285;;;;;-;100;385;192
+Kavcic;Matjaz;OK Komenda;B;;;;;;;203;178;;;381;190
+Štor;Luka;PD Ajdovščina;B;;;;363;;;;;;;363;363
+Anderluh;Marija;OK Polaris;B;0:27:49;4;107;;240;;;;;107;347;174
+Kerestes;Kreso;OK Trzin;B;;;;;;;;345;;;345;345
+Flasker;Ajda;OK Komenda;B;;;;;;345;;;;;345;345
+Foški;Tajda;OK Polaris;B;;;;;;338;;;;;338;338
+Radovan;Dalibor;OK Polaris;B;;;;;332;;;;;;332;332
+Foški;Brina;OK Polaris;B;;;;;;;-;303;;;303;303
+Nelson;Charles;Harlequins OC;B;;;;291;;;;;;;291;291
+Casagrande;Eva;OK Tivoli;B;;;;;289;;;;;;289;289
+Flašker;Ana;ind.;B;;;;;;;;;285;;285;285
+Stanonik;Simon;OK Azimut;B;;;;;;;;;273;;273;273
+Žižek;Saša;OK Azimut;B;;;;;273;;;;;;273;273
+Pretnar;Tanja;OK Azimut;B;;;;;268;;;;;;268;268
+Zager;Miha;RJZ Velenje;B;;;;153;114;;;;;;267;134
+Špenko;Magda;OK Komenda;B;;;;;;;;257;;;257;257
+Simonič;Matjaž;PD Ajdovščina;B;;;;255;;;;;;;255;255
+Močnik;Matic;OK Azimut;B;;;;;;;;;252;;252;252
+Pretnar;Irma;OK Azimut;B;;;;;246;;;;;;246;246
+Škvarč;Dejan;PD Ajdovščina;B;;;;242;;;;;;;242;242
+Ursa;Begus;OK Azimut;B;;;;;;;;238;;;238;238
+Frankovic;Samo;RJZ Velenje;B;;;;;;234;;;;;234;234
+Keresteš;Mateja;OK Trzin;B;;;;;;;;226;;;226;226
+Aljančič;Nataša;OK Komenda;B;;;;;;;;221;;;221;221
+Beguš;Urša;OK Azimut;B;;;;;;;;;217;;217;217
+Bonfiglioli;Leonardo;SSD Gaja;B;;;;211;;;;;;;211;211
+Stres;Špela;Carpe Diem;B;;;;;198;;;;;;198;198
+Frankovic;Ajda;RJZ Velenje  KT;B;;;;;;-;;194;;;194;194
+Zabukovec;Klemen;PD Ajdovščina;B;;;;;190;;;;;;190;190
+Soklič;Franci;ind.;B;;;;;175;;;;;;175;175
+Slejko;Nik;PD Ajdovščina;B;;;;173;;;;;;;173;173
+Petkovič;Tanja;OK Polaris;B;;;;;170;;;;;;170;170
+Kete;Jana;PD Ajdovščina;B;;;;-;166;;;;;;166;166
+Matic;Mocnik;OK Azimut;B;;;;;;;;165;;;165;165
+Moravec;Gašper;OK Azimut;B;;;;164;;;;;;;164;164
+Babic;Anja;OK Trzin;B;;;;;;;;156;;;156;156
+Pahor;Maj Peter;PD Ajdovščina;B;;;;;;;;;150;;150;150
+Belc;Sabina;ind.;B;;;;;145;;;;;;145;145
+Šalamun;Jan;OK Polaris;B;0:20:40;3;141;;;;;;;141;141;141
+Rijavec;Andraž;PD Ajdovščina;B;;;;138;;;;;;;138;138
+Bohinc;Vanja;OK Komenda;B;;;;;;;;129;;;129;129
+Strnad;Urska;ind.;B;;;;;;;;117;;;117;117
+Remškar;Žan;PD Ajdovščina;B;;;;113;;;;;;;113;113
+Volkar;Druzina;ind.;B;;;;;;;;111;;;111;111
+Burger;Veronika;OK Polaris;B;0:32:17;6;88;;;;;;;88;88;88
+Peter Pahor;Maj;PD Ajdovščina;B;;;;88;;;;;;;88;88
+Jerman;Lara;OK Trzin;B;mp;;;;;;;;;-;0;0
+Mirnik;Jona;OK Komenda;B;mp;;;;;;;;;-;0;0
+Harej;Daša;PD Ajdovščina;C;;;;60;116;94;;;84;;354;88
+Pogačar;Ana Pia;OK Komenda;C;;;;;95;;99;76;;;270;90
+Zavrl;Zala;OK Komenda;C;;;;;102;;71;68;;;241;80
+Soban;Matic;PD Ajdovščina;C;;;;68;107;64;;;;;239;80
+Ravnikar;Nika;OK Komenda;C;;;;;-;88;105;42;;;235;78
+Petkovšek;Gal;OK Azimut;C;;;;88;;108;;;;;196;98
+Podgornik;Eva;PD Ajdovščina;C;;;;66;105;;;;;;171;86
+Beguš;Urša;OK Azimut;C;;;;47;;106;;;;;153;76
+Zupan;Neža;OK Polaris;C;;;;55;79;;;;;;134;67
+Stanovnik;Simon;OK Azimut;C;;;;118;;;;;;;118;118
+Kovač;Marija;PD Ajdovščina;C;;;;;118;;;;;;118;118
+Mc Quarrie;Nina;OK Komenda;C;;;;;;;;110;;;110;110
+Primožič;An;OK Azimut;C;;;;;;;;;104;;104;104
+Mcquarrie;Nina;OK Komenda;C;;;;;;101;;;;;101;101
+Krhlikar;Denis;OK Azimut;C;;;;95;;;;;;;95;95
+Skusek;Mark;OK Komenda;C;;;;;;55;;39;;;94;47
+Anderluh;Luka;OK Polaris;C;;;;;92;;;;;;92;92
+Mlekuž;Gorazd;PD Ajdovščina;C;;;;90;;;;;;;90;90
+Makovec;Uršula;Planinsko Društvo Ajdovščina;C;;;;;89;;;;;;89;89
+Ferenc;Tinka;ind.;C;;;;;;;89;;;;89;89
+Podobnik;Leja;OK Azimut;C;;;;;;;;;89;;89;89
+Ferenc;Zala;OK Tivoli;C;;;;;;;84;;;;84;84
+Špenko;Jure;ind.;C;;;;;;;;84;;;84;84
+Bohinc;Vesna;OK Komenda;C;;;;;;;;83;;;83;83
+Šumečki;Janez;RJZ Velenje;C;;;;;;;;80;;;80;80
+Svit;Pestotnik Stres;ind.;C;;;;79;;;;;;;79;79
+Fučka;Sara;PD Ajdovščina;C;;;;36;42;;;;;;78;39
+Kavčič;Sara;Planinsko Društvo Ajdovščina;C;;;;;77;;;;;;77;77
+Petrovič;Filip;OK Polaris;C;;;;77;;;;;;;77;77
+Keresteš;Vid;OK Trzin;C;;;;;;;;74;;;74;74
+Primožič;Družina;OK Azimut;C;;;;;;;;;74;;74;74
+Škrjanc;Petra;ind.;C;;;;;68;;;;;;68;68
+Štremfelj;Anže;OK Azimut;C;;;;66;;;;;;;66;66
+Škarabot;Anja;OK Polaris;C;;;;;65;;;;;;65;65
+Bone;Matevž;PD Ajdovščina;C;;;;;;62;;;;;62;62
+Pestotnik Stres;Luna;Carpe Diem;C;;;;;62;;;;;;62;62
+Sedej;David;ind.;C;;;;;60;;;;;;60;60
+Kavčič;Domen;OK Azimut;C;;;;58;;;;;;;58;58
+Anderluh;Katarina Eva;OK Polaris;C;;;;;57;;;;;;57;57
+Špenko;Zala;ind.;C;;;;;;;;55;;;55;55
+Premrl;Nika;PD Ajdovščina;C;;;;50;;;;;;;50;50
+Petrovič;Domen;OK Polaris;C;;;;49;;;;;;;49;49
+Bratina;Kaja;PD Ajdovščina;C;;;;;39;;;;;;39;39
+Dora;Pestotnik Stres;ind.;C;;;;33;;;;;;;33;33
+Miheljak;Tevž;OK Slovenj Gradec;C;;;;;28;;;;;;28;28
+Medvešček;Ana;PD Ajdovščina;C;;;;27;;;;;;;27;27

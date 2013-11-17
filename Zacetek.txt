@@ -1,181 +1,377 @@
-Jure Zmrzlikar	1475
-Tibor Mrak	1108
-Janez Pretnar	1318
-Andrej Borštnik	1056
-Ana Pribaković-Borštnik	750
-Dušan Petrovič	1005
-Janez Cimerman	667
-Patrik Čelik	600
-David Čufer	766
-Jernej Zorman	1031
-Valentin Eržen	695
-Roman Sladič	599
-Radim Hošek	0
-Vojko Kacin	400
-Stanko Čufer	644
-Sandi Kmetič	1055
-Vid Bogovič	877
-Jošt Lapajne	900
-Klemen Kenda	1033
-Franc Knap	864
-Gregor Hvala	800
-Blaž Petrovič	800
-Uroš Petrovič	800
-Tanja Pretnar	733
-Matija Čelik	0
-Nuša Jeram	0
-Marjan Maček	877
-Mauro Clemente	306
-Aljaž Borštnik	500
-Lorenzo Bartulovich	800
-Paolo Pizzamus	561
-Uroš Burič	500
-Metka Udovič	221
-Manca Cvek	600
-Leoni Gianluca	394
-Aleš Borštnik	750
-Fulvio Pacor	736
-Rok Pestotnik	400
-Rok Sušnik	400
-Jona Mirnik	0
-Ivo Kete	0
-Janko Lapajne	25
-Žan Luka Šumečki	0
-Robert Pobežin	993
-Andraž Hribar	1406
-Iztok Rojc	1059
-Aleš Zupan	719
-Miha Škarabot	949
-Gregor Anderluh	1021
-Feike Alewijnse	980
-Aljaž Šegula	965
-Matjaž Pahor	788
-Franco Vaccari	500
-Valter Foški	838
-Livio Predonzani	786
-Igor Mandič	591
-Jaka Piltaver	1263
-Sigi Opetnik	1066
-Primož Mikložič	1056
-Rok Močnik	998
-Daniel Lebar	1319
-Drago Peternelj	956
-Boris Bauman	936
-Jožko Jazbar	950
-David Andrejc	889
-Martin Fuernkrantz	882
-Jaka Pišljar	874
-Alessandro Chiandetti	835
-Anže Ivančič	781
-Silvij Močnik 	768
-Cesare Tarabocchia	764
-Andrea Rivetta	720
-Mirko Montbellier	710
-Diego Roveri	687
-Andrea Foschian	745
-Fulvio Apolonio	667
-Nicolas Vanek	644
-Massimo Mosca	643
-Antenore Bartulovich	630
-Andrea Margiore	790
-Peter Vujevič	601
-Samo Vodopivec	599
-Clizia Zambiasi	503
-Marco Ongaro	470
-Mojca Foški	464
-Matej Pistor	461
-Marco Dorigo	458
-Kuzmin Anka	426
-Marirosa Hechich	420
-Cristina Grabar	353
-Krešo Keresteš	325
-Marco Obersnel	272
-Nejc Močnik	248
-Alberto Fortunati	247
-Piero Guidici	222
-Davide Chiocca	190
-Giuseppe Specogna	170
-Paolo Viviani	160
-Fiorenzo Ruzzier	150
-Andrej Marušič	140
-Franco Obersnel	130
-Serena Zacchigna	120
-Giancarlo Gozzer	110
-Borut Bogatec	100
-Chiara Sepin	90
-Suzana Drevenšek 	90
-Matteo Sturni	80
-Marin Christian	60
-Gianfranco Siega	50
-Flavio Mattioni	40
-Annamaria Abram	20
-Dragan Krivičić	10
-Donatella Gratton	10
-Marko Orešnik	948
-Martin Česnik	665
-Mojca Flerin	653
-Igor Bončina	589
-Davor Kacin	577
-Eneja Osterman	715
-Andraž Ravnikar	970
-Marta Pacor	184
-Eva Kailbauer	579
-Matej Gojčič	509
-Ezio Grego Mayer	437
-Igor Dučak	407
-Sergiy Mukhidinov	1400
-Ivan Nagy	1049
-Aleš Poljanšek	496
-Antonella Mantovani	-129
-Nina Rudolf	367
-Jassica Limpach	-141
-Klemen Verbovšek	328
-Renato Pelessoni	-154
-Cristina Ruini	-313
-Peter Ferluga	285
-Matjaž koprivc	124
-Sara Gaion	-269
-Katarina Bremšak	-450
-Franco Valli	0
-Matej Škarabot	0
-Alessio Roveri	601
-Aleš Makuc	28
-Aljoša Pečar	567
-Andraž Drešček	221
-Andreja Anžur	0
-Anica Hribar	485
-Anže Virk	0
-Blaž Grah	956
-Blaž Kovačič	568
-Blaž Vončina	0
-Bogomir Trontelj	355
-Bojan Jevševar	1017
-Bojan Kavčič	680
-Boštjan Bohinc	0
-Dalibor Radovan	242
-Denis Kokelj	467
-Domen Seljak	355
-Gašper Petrovič	0
-Giacomo Barbone	0
-Giulio Olenik	461
-Gregor Vinder	0
-Janja Avbelj	611
-Janko Bačnar	655
-Jerca Bernik	0
-Jernej Podobnik	0
-Jure Gawel	0
-Tilen Rupnik	0
-Ajda Flašker	0
-Martin Kristan	0
-Matej Sedej	746
-Miro Cvirn	0
-Nejc Smolej	0
-Nicholas Sbrizzi	0
-Pavel Ptáček	1330
-Jan Dovč	697
-Samo Kofol	633
-Marko Germani	171
-Tobija Cukjati	563
-Ula Dremelj	0
-Vinko Pernek	520
-Vlado Sedej	120
+﻿bla'\n'
+Piltaver;Jaka;OK Brežice;A;1250
+Mrak;Tibor;OK Azimut;A;1153
+Borštnik;Andrej;OK Tivoli;A;1063
+Zorman;Jernej;OK Komenda;A;1055
+Pretnar;Janez;OK Azimut;A;1026
+Eržen;Valentin;OK Azimut;A;1011
+Lapajne;Jošt;OK Azimut;A;1003
+Kenda;Klemen;OK Azimut;A;985
+Petrovič;Dušan;OK Polaris;A;982
+Petrovič;Blaž;OK Polaris;A;971
+Čelik;Patrik;OK Azimut;A;908
+Čufer;David;PD Ajdovščina;A;902
+Hvala;Gregor;OK Azimut;A;900
+Burič;Uroš;RJZ Velenje;A;894
+Knap;Franc;OK Azimut;A;881
+Pribaković Borštnik;Ana;OK Tivoli;A;876
+Alewijnse;Feike;OK Trzin;A;872
+Bartulovich;Lorenzo;SSD Gaja;A;860
+Cimerman;Janez;OK Azimut;A;857
+Čufer;Stanko;PD Ajdovščina;A;852
+Rupnik;Tilen;OK Azimut;A;840
+Foški;Valter;OK Polaris;A;829
+Borštnik;Aljaž;OK Tivoli;A;821
+Pobežin;Robert;OK Polaris;A;952
+Foški;Tajda;OK Polaris;A;759
+Zupan;Aleš;OK Polaris;A;744
+Tušar;Peter;OK Azimut;A;924
+Kete;Ivo;PD Ajdovščina;A;729
+Bosisio;Kristian;SCOM Mendriso;A;720
+Udovič;Metka;SCOM Mendriso;A;720
+Jeram;Nuša;OK Azimut;A;712
+Kacin;Vojko;OK Azimut;A;708
+Pizzamus;Paolo;SSD Gaja;A;708
+Bernik;Jerca;ŠOK;A;884
+Zmrzlikar;Jure;OK Komenda;A;1161
+Sladič;Roman;OK Perkmandeljc;A;696
+Borštnik;Aleš;OK Tivoli;A;692
+Flerin;Mojca;OK Komenda;A;820
+Sušnik;Rok;OK Azimut;A;616
+Vodopivec;Samo;OK Azimut;A;767
+Anderluh;Gregor;OK Polaris;A;1021
+Pacor;Fulvio;SSD Gaja;A;717
+Bončina;Igor;OK Azimut;A;693
+Clemente;Mauro;SSD Gaja;A;680
+Poljanšek;Aleš;OK Azimut;A;897
+Bartulovich;Antenore;SSD Gaja;A;668
+Ravnikar;Andraž;OK Polaris;A;881
+Jazbar;Jožko;OK Azimut;A;880
+Maček;Marjan;ind.;A;829
+Koprivc;Matjaž;OK Azimut;A;613
+Rojc;Iztok;OK Polaris;A;1047
+Rivetta;Andrea;Semiperdo Maniago;A;695
+Cvek;Manca;OK Azimut;A;691
+Šalamun;Miro;OK Polaris;A;968
+Hošek;Radim;KOB Dobruska;A;963
+Ongaro;Marco;US Primiero;A;615
+Kmetič;Sandi;OK Polaris;A;914
+Grabar;Cristina;US Primiero ;A;607
+Čelik;Matija;OK Azimut;A;890
+Cukjati;Tobija;OK Polaris;A;890
+De Luisa;Andraž;SSD Gaja;A;445
+Krivičić;Dragan;OK Prekmandeljc;A;346
+Margiore;Andrea;Orienteering Trieste;A;856
+De Luisa;Marko;SSD Gaja;A;427
+Kodrič;Nejc;PD Ajdovščina;A;850
+Česnik;Martin;RKV Postojna;A;846
+Ruini;Cristina;CAI XXX Ottobre;A;562
+Sedej;Vlado;OK Azimut;A;532
+Leoni;Gianluca;SSD Gaja;A;516
+Štalekar;Maja;ind.;A;509
+Corredig;Antonino;Semiperdo Maniago;A;471
+Viviani;Paolo Daniele;CAI XXX Ottobre;A;695
+Hechich;Marirosa;Semiperdo Maniago;A;694
+Drevenšek;Suzana;;A;690
+Gramaccia;Danilo;Semiperdo Maniago;A;663
+Dorigo;Marco;CAI XXX Ottobre;A;654
+Pacasso;Alessandro;Semiperdo Maniago;A;430
+Hribar;Andraž;OK Brežice;A;1262
+Cignini;Enrico;CAI XXX Ottobre;A;625
+Radovan;Dalibor;OK Polaris;A;604
+Seppi;Marco;CUS Bologna;A;1205
+Pestotnik;Rok;Pustolovec Rajd;A;602
+Lapajne;Janko;OK Azimut;A;579
+Barbone;Giacomo;CAI XXX Ottobre;A;1068
+Bogovič;Vid;OK Brežice;A;1027
+Radovanovic;Slobodan;Magicmap;A;1009
+Guizzardi;Michela;CUS Bologna;A;1000
+Močnik;Rok;OK Azimut;A;994
+Jokolar;Zdenek;Noclub;A;987
+Dovč;Jan;OK Tivoli;A;954
+Rozzi;Alessio;SSD Gaja;A;454
+Škarabot;Miha;OK Polaris;A;898
+Mosca;Massimo;CAI XXX Ottobre;A;884
+Oetnik;Siegfried;HSV Bleiburg;A;878
+Bohinc;Boštjan;;A;877
+Bettin;Renato;Swallows;A;869
+Petrovič;Uroš;OK Polaris;A;861
+Pretnar;Tanja;OK Azimut;A;859
+Hauptman;Matej;RJZ Velenje;A;835
+Predonzani;Livio;CAI XXX Ottobre;A;814
+Hvala;Tomaž;OK Azimut;A;785
+Šegula;Aljaž;OK Polaris;A;778
+Obersnel;Marco;Semiperdo Maniago;A;736
+Tremul;Michael;CAI XXX Ottobre;A;730
+Roveri;Alessio;SSD Gaja;A;718
+Plavčak;Ana;OK Azimut;A;356
+Kolner;Blaž;;A;701
+Sylvester;Mark;CAI XXX Ottobre;A;698
+Palusa;Sergio;CAI XXX Ottobre;A;690
+Ruzzier;Fiorenzo;SSD Gaja;A;340
+Zambiasi;Clizia;Semiperdo Maniago;A;674
+Kolman;Miran;OK Azimut;A;661
+Keresteš;Krešo;OK Trzin;A;657
+Dragarin;Meta;;A;655
+Kolar;Ana Marija;OK RJZ;A;644
+Apollonio;Fulvio;Corivorivo;A;616
+Germani;Marko;SSD Gaja;A;601
+Rejec;Gašper;OK Azimut;A;562
+Bukovnik;Tina;OK RJZ;A;546
+Majnik;Tilen;OK Azimut;A;533
+Almerigogna;Guido;SSD Gaja;A;525
+Čebašek;Jure;OK Polaris;A;509
+Zupančič;Maja;;A;434
+Vecchies;Donatella;Semiperdo Maniago;A;421
+Siega;Gianfranco;SSD Gaja;A;375
+Smolej;Katarina;OK Azimut;A;374
+Gaion;Sara;Orienteering Trieste;A;186
+Toffanin;Fabio;Cai xxx ottobre;A;328
+Ruzzier;Margherita;CAI XXX Ottobre;A;322
+Xausa;Gabriella;Friuli MTB;A;321
+Mirnik;Jona;OK Komenda;A;309
+Gajon;Sara;Orienteering Trieste;A;296
+Vlahovič;Živa;;A;255
+Pelessoni;Renato;SSD Gaja;A;217
+Cereatti;Roberto;Friuli MTB;A;162
+Dučak;Igor;ind.;A;152
+Luin;Rinaldo;SSD Gaja;A;120
+Rejec;Gašper;OK Azimut;B;355
+Poljanšek;Katjuša;OK Azimut;B;308
+Petrovic;Gašper;OK Polaris;B;301
+Slapničar;Anja;RJZ Velenje;B;278
+Štor;Luka;PD Ajdovščina;B;277
+Zupan;Polona;OK Polaris;B;275
+Vukajlovič;Vladan;OK Azimut;B;269
+Foschian;Andrea;Semiperdo Maniago;B;429
+Šalamun;Jan;OK Polaris;B;310
+Škarabot;Matej;OK Polaris;B;304
+Kristan;Martin;OK Komenda;B;296
+Črnigoj;Nina;PD Ajdovščina;B;227
+Rejec;Pavel;DGN SP;B;225
+Ravnikar;Monika;OK Komenda;B;276
+Ferluga;Peter;SSD Gaja;B;353
+Rupnik;Andraž;OK Azimut;B;240
+Ravnikar;Žan;OK Komenda;B;294
+Škvarč;Teja;PD Ajdovščina;B;174
+Pretnar;Irma;OK Azimut;B;216
+Fortunati;Alberto;Orienteering Trieste;B;287
+Sergas;Mauro;CAI XXX Ottobre;B;404
+Sepin;Chiara;SSD Gaja;B;265
+Anderluh;Marija;OK Polaris;B;265
+Rejec;Marjana;DGN SP;B;158
+Cibin;Irene;CAI XXX Ottobre;B;258
+Germani;Marko;SSD Gaja;B;247
+Aljančič;Eva;ind.;B;366
+Sinigaglia;Antonella;SSD Gaja;B;170
+Zupan;Aleš;OK Polaris;B;339
+Mattioni;Flavio;Semiperdo Maniago;B;326
+Scolini;Camilla;CAI XXX Ottobre;B;326
+Kovač;Marija;PD Ajdovščina;B;211
+Specogna;Giuseppe;Friuli MTB;B;314
+Zabukovec;Klemen;PD Ajdovščina;B;156
+Močnik;Griša;OK Polaris;B;310
+Sturni;Matteo;Orienteering Trieste;B;297
+Sedej;Vlado;OK Azimut;B;292
+Foški;Tajda;OK Polaris;B;288
+Volčič;Maša;OK Tivoli;B;284
+Cafagna;Michele;Orienteering Trieste;B;280
+Bertoni;Mario;Orienteering Trieste;B;279
+Salaris;Lisa;Orienteering Trieste;B;277
+Bukovnik;Tina;RJZ Velenje;B;184
+Mirnik;Jona;OK Komenda;B;272
+Bratina;Kaja;PD Ajdovščina;B;268
+Aljančič;Nataša;;B;260
+Kuzmin;Anka;Semiperdo Maniago;B;259
+Selem;Luca;Malipiero;B;251
+Foški;Brina;OK Polaris;B;248
+Predonzan;Roberto;Orienteering Trieste;B;245
+Lipužič;Marjeta;OK Komenda;B;240
+Hrovat;Maj;OK Trzin;B;238
+Xausa;Gabriella;Friuli MTB;B;238
+De Cristini;Chiara;SSD Gaja;B;236
+Bolzonella;Manuela;Malipiero;B;235
+Pobežin;Katarina;OK Polaris;B;230
+Špendl;Martin;OK Trzin;B;227
+Visintin;Federica;Semiperdo Maniago;B;226
+Cereatti;Roberto;Friuli MTB;B;224
+Sepin;Claudio;SSD Gaja;B;210
+Tomažin;Urša;OK Azimut;B;416
+Viviani;Irene;CAI XXX Ottobre;B;200
+Strukel;Giuliana;CAI XXX Ottobre;B;131
+Nardi;Mauro;Semiperdo Maniago;B;385
+Tonolo;Silvano;EREBUS;B;377
+Zanardi;Stefano;Swallows;B;354
+Krhlikar;Denis;OK Azimut;B;176
+Venir;Raffaele;Semiperdo Maniago;B;350
+Albano;Alessia;CAI XXX Ottobre;B;347
+Humar;Matjaž;ind.;B;345
+Takala;Piia;Ylistaron KilpaVeljet;B;340
+Lapajne;Janko;OK Azimut;B;339
+Jeram;Nuša;OK Azimut;B;337
+Sbrizzi;Paolo;Friuli MTB;B;168
+Keresteš;Mateja;OK Trzin;B;168
+Tumpej;Jure;Taborniki;B;336
+Ferenc;Julija;OK Tivoli;B;331
+Felchero;Mauro;Friuli orienteering;B;326
+Lenarduzzi;Fulvio;ORSCHOOL;B;326
+Zupin;Maddalena;CAI XXX Ottobre;B;323
+Insigna;Livio;SSD Gaja;B;322
+De Luisa;Andraž;SSD Gaja;B;316
+Kremžar Pančur;Kim;OK Komenda;B;304
+Jerman;Lara;OK Trzin;B;299
+Debeljak;Maruša;OK Polaris;B;286
+Dremel;Ula;OK Trzin;B;284
+Ghersi;Giorgio;Orienteering Trieste;B;284
+Mešinovič;Rahmo;OK Tivoli;B;275
+Poljanšek;Marjanca;OK Azimut;B;274
+Burger;Veronika;OK Polaris;B;273
+Škvarč;Dejan;PD Ajdovščina;B;272
+Ghersi;Alice;Orienteering Trieste;B;263
+Vergerio;Pierpaolo;SSD Gaja;B;129
+Giudici;Piero;Orienteering trieste;B;256
+Ferro;Marisa;Semiperdo Maniago;B;121
+Koradin;Rene;PD Ajdovščina;B;239
+Lampič;Zala;OK Azimut;B;235
+Favretto;Luana;Orienteering Trieste;B;235
+Bambič;Urša;ind.;B;233
+Mandič;Igor;OK Polaris;B;230
+Kolar;Ana Marija;RJZ Velenje;B;216
+Petkovšek;Gal;OK Azimut;B;212
+Cereser;Elvio;Corivorivo;B;209
+Čufer;Ana;PD Ajdovščina;B;209
+Černigoj;Nina;PD Ajdovščina;B;207
+Salaris;Gianni;Orienteering Trieste;B;207
+Modic;Gašper R;;B;207
+Pavan;Marco;Semiperdo Maniago;B;199
+Sovran;Francesca Ssd Gaja;Semiperdo Maniago;B;199
+Cigoj;Jure;PD Ajdovščina;B;190
+Ukmar;Anže;PD Ajdovščina;B;188
+Mantovani;Antonella;Cai xxx ottobre;B;188
+Foški;Mojca;OK Polaris;B;183
+Robida;Denis;RJZ Velenje;B;181
+Demir;Rafaela;ind.;B;180
+Gratton;Donatella;CAI XXX Ottobre;B;178
+Ruzzier;Margherita;Cai xxx ottobre;B;176
+Krivičič;Dragan;;B;173
+Novak;Anže Gorjan;OK Komenda;B;173
+Palusa;Martina;CAI XXX Ottobre;B;172
+Kop;Eva;ind.;B;170
+Zager;Živa;RJZ Velenje;B;158
+Volk;Žiga;RJZ Velenje;B;158
+Endler;Adriano;Cai xxx ottobre;B;157
+Lin;Fiorella;Semiperdo Maniago;B;156
+De Monte;Tiziana;CAI XXX Ottobre;B;75
+Jordan;Paolo;CAI XXX Ottobre;B;148
+Triglav;S S K;ind.;B;141
+Dobelšek;Simon;;B;139
+De Luisa;Marko;SSD Gaja;B;139
+Mirnik;Pia;RJZ Velenje;B;137
+Špenko;Jure;;B;132
+Colombo;Cristiano;Cai xxx ottobre;B;125
+Crevatin;Patrizia;SSD Gaja;B;124
+Ruini;Marco;CAI XXX Ottobre;B;118
+Drev;Jernej;RJZ Velenje;B;112
+Novak;Maurizio;SSD Gaja;B;103
+Koželjnik;Kaja;RJZ Velenje;B;96
+Schiavuzzi;Fulvia;Cai xxx ottobre;B;96
+Loi;Corrado;SSD Gaja;B;96
+Vukajloviè;Vladan;OK Azimut;B;89
+Poldrugo;Pierpaolo;CAI XXX Ottobre;B;81
+Škvarč;Sašo;PD Ajdovščina;C;118
+Zupan;Peter;OK Polaris;C;106
+Harej;Daša;PD Ajdovščina;C;89
+Slejko;Nik;PD Ajdovščina;C;74
+Kete;Jana;PD Ajdovščina;C;70
+Rijavec;Jure;PD Ajdovščina;C;63
+Sever;Matic;PD Ajdovščina;C;61
+Kmetič;Zarja;OK Polaris;C;68
+Vojvoda;Maks;OK Komenda;C;82
+Pahor;Maj Peter;PD Ajdovščina;C;80
+Kavčič;Matjaž;ind.;C;117
+Pahor;Nejc;PD Ajdovščina;C;76
+Škarabot;Anja;OK Polaris;C;57
+Simonelli;Maria Elena;Semiperdo Maniago;C;104
+Anderluh;Luka;OK Polaris;C;69
+Bratina;Kaja;PD Ajdovščina;C;102
+Koradin;Elena;PD Ajdovščina;C;66
+Poljanšek;Nika;OK Azimut;C;95
+Remškar;Žan;PD Ajdovščina;C;88
+Tarabocchia;Francesca;CAI XXX Ottobre;C;82
+Lin;Fiorella;Semiperdo Maniago;C;76
+Eržen;Nea;OK Azimut;C;74
+Bizjak;Žan;PD Ajdovščina;C;70
+Mc Querrie;Nina;;C;66
+Močnik;Saš;OK Polaris;C;130
+Zupan;Neža;OK Polaris;C;65
+Štremfelj;Anže;OK Azimut;C;65
+Visintin;Giulia;SSD Gaja;C;126
+Koradin;Rene;PD Ajdovščina;C;62
+Donini;Adriana;SSD Gaja;C;42
+Ravnikar;Nika;;C;60
+Simonič;Matjaž;PD Ajdovščina;C;115
+;Ivan;Magicmap;C;113
+Štor;Luka;PD Ajdovščina;C;109
+Petrovič;Filip;OK Polaris;C;108
+Pestotnik Stres;Svit;;C;106
+Škarabot;Matej;OK Polaris;C;106
+Ukmar;Anže;PD Ajdovščina;C;105
+Simonelli;Mariaelena;Semiperdo Maniago;C;104
+Praprotnik;Deja;OK Azimut;C;103
+Borštnik;Anže;OK Tivoli;C;103
+Bizjak;Žiga;PD Ajdovščina;C;50
+Grgič;Jan;SSD Gaja;C;97
+Lakovic;Paolo;Triathlon gorizia;C;96
+Pogačar;Ana Pia;ind.;C;48
+Kunc;Gregor;;C;95
+Zavrl;Zala;OK Komenda;C;92
+Cafagna;Michele;Orienteering Trieste;C;91
+Giannini;Emanuela;SSD Gaja;C;91
+Stres;Luna;;C;89
+Mc Querrie;Andreja;;C;88
+Fontanot;Luca;CAI XXX Ottobre;C;74
+Almerigogna;Giusto;SSD Gaja;C;73
+Močnik;Fedja;OK Polaris;C;73
+Bone;Matevž;PD Ajdovščina;C;71
+Petrovič;Domenin Filip;OK Polaris;C;68
+Pasquotto;Gianfranco;SSD Gaja;C;67
+Črnigoj;Nina;PD Ajdovščina;C;66
+Kop;Bor;ind.;C;66
+De Luisa;Tjaša;SSD Gaja;C;65
+Krhlikar;Denis;OK Azimut;C;63
+Valente;Gianpiero;Cai xxx ottobre;C;62
+Petrovič;Gašper;OK Polaris;C;61
+Nardi;Cecilia;Semiperdo Maniago;C;61
+Pasquotto;Giancarlo;SSD Gaja;C;60
+Ferenc;Zala;OK Tivoli;C;59
+Sparti;Lia;Semiperdo Maniago;C;59
+Fattor;Fabio;CAI XXX Ottobre;C;58
+Valente;Sebastiano;Cai xxx ottobre;C;55
+Gelsomino;Franco;Orienteering Trieste;C;55
+Chierego;Beatrice;CAI XXX Ottobre;C;54
+Matic Sever;Jure Podgornik;PD Ajdovščina;C;51
+Podgornik;Jure;ind.;C;51
+Russi;Gigliola;SSD Gaja;C;51
+De Cristini;Paolo;SSD Gaja;C;50
+Foški;Oskar;OK Polaris;C;49
+Mcquerrie;Andreja;OK Komenda;C;49
+Pust;Matic;ind.;C;47
+Rijavec;Manca;PD Ajdovščina;C;47
+Anderluh;Katarina;OK Polaris;C;47
+Budihna;Jon;OK Polaris;C;47
+Koradin;Andrej;PD Ajdovščina;C;47
+Kovač;Marija;PD Ajdovščina;C;44
+Obersnel;Lorenzo;CAI Monfalcone;C;44
+Sladič;Irena;OK Perkmandeljc;C;44
+Benčina;Metka;DGNSP;C;43
+Elena Koradin;Gaja Podgornik;PD Ajdovščina;C;40
+Podgornik Koradin;Gaja Elena;PD Ajdovščina;C;39
+Progar;Ana;ind.;C;39
+Poldrugo;Pierpaolo;Cai xxx ottobre;C;36
+Bratos;Paolo;Orienteering Trieste;C;35
+Cigoj;Jure;PD Ajdovščina;C;35
+Zajc;Maja;OK Azimut;C;34
+Čebron Golob Bole;Nuša Ana Anja;PD Ajdovščina;C;31
+Di Mille;Cristina;SSD Gaja;C;28
+Toncich;Monica;SSD Gaja;C;27
+Mocor;;KSB;C;19
