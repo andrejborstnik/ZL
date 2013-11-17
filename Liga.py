@@ -196,8 +196,7 @@ def rezultati(st_lige,stanjeLige):
     rezultatiTekmeB={}
     rezultatiTekmeC={}
     import csv
-    kodiranje='utf-8'
-    with open('./Rezultati/ZL'+str(st_lige)+'.csv',encoding=kodiranje) as f:
+    with open('./Rezultati/ZL'+str(st_lige)+'.csv',encoding='utf-8') as f:
         reader=csv.reader(f)
         rownum=0
         for row in reader:
@@ -218,7 +217,7 @@ def rezultati(st_lige,stanjeLige):
                     elif header[colnum]=='Short':
                         kategorija=col
                     elif header[colnum]=='Time':
-                        if col==''or col =='\"\"' or col=='mp':
+                        if col==''or col =='\"\"':
                             cas1=False
                         else:
                             cas1=col
@@ -306,8 +305,6 @@ def rezultati(st_lige,stanjeLige):
                 klub1=klub
                 if ime1=='Nejc'and priimek1=='Zorman':
                     ime1='Jernej'
-                elif ime1=='Ivo'and priimek1=='Kette':
-                    priimek1='Kete'
                 a={'scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ind':'ind.','ssdgaja':'SSD Gaja','okkomenda':'OK Komenda','pdajdovscina':'PD Ajdovščina','okazimut':'OK Azimut', 'okbrezice':'OK Brežice','okperkmandeljc':'OK Perkmandeljc','okpolaris':'OK Polaris','okslovenjgradec':'OK Slovenj Gradec','okslovenskekonjice':'OK Slovenske Konjice','oktivoli':'OK Tivoli','oktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sok':'ŠOK'}
                 if presledki(sumniki(klub1).lower()) in a.keys():
                     klub1=a[presledki(sumniki(klub1).lower())]

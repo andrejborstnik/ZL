@@ -1,24 +1,31 @@
 from Liga import *
 from os import path
+from bla import mankajociKlubi
 import csv
 stanjeLigeA={}
 stanjeLigeB={}
 stanjeLigeC={}
 with open('zacetek.txt',encoding='utf-8') as f:
     for line in f:
-        a=line.split(';')
-        ime=a[0]
-        priimek=a[1]
-        klub=a[2]
-        kat=a[3]
-        tocke=a[4][:-1]
-        if kat=='A':
-            stanjeLigeA[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,int(tocke)]}
-        elif kat=='B':
-            stanjeLigeB[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,int(tocke)]}
-        elif kat=='C':
-            stanjeLigeC[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,int(tocke)]}
-
+        a=str(line).split()
+        b=True
+        ime=''
+        priimek=''
+        for i in a[0]:
+            if i==' ':
+                pass
+            else:
+                if ime=='Žan':
+                    ime+=' '
+                ime+=i
+        for i in a[1:]:
+            for j in i:
+                if j!=' ' and not j.isnumeric():
+                    priimek+=j
+            if b and len(a[1:])>2:
+                priimek+=' '
+                b=not b
+        stanjeLigeA[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,0:[0,int(a[len(a)-1])]}
 st_tekem=0
 for st_lige in range(1,20):
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):

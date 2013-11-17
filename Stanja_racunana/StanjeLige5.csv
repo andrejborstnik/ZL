@@ -1,13 +1,13 @@
 Surname;First name;Cl.name;Class;Time;Pl;Points;ZL1;ZL2;ZL3;ZL4;ZL5;Sum;Average
-Borštnik;Andrej;OK Tivoli;A;0:56:00;2;966;1164;897;1013;965;966;5005;1001
 Mrak;Tibor;OK Azimut;A;;;;1116;1294;1172;974;;4556;1139
 Pretnar;Janez;OK Azimut;A;0:50:20;1;1055;1154;1011;981;;1055;4201;1050
+Borštnik;Andrej;OK Tivoli;A;0:56:00;2;966;1164;897;1013;965;966;4108;1027
 Eržen;Valentin;OK Azimut;A;0:56:01;3;966;;1104;992;932;966;3994;998
-Cimerman;Janez;OK Azimut;A;1:07:52;11;780;738;831;673;857;780;3879;776
 Petrovič;Dušan;OK Polaris;A;1:00:12;7;900;836;816;;967;900;3519;880
 Zmrzlikar;Jure;OK Komenda;A;;;;1175;1254;;1054;;3483;1161
 Čelik;Patrik;OK Azimut;A;;;;674;810;992;952;;3428;857
 Pribaković Borštnik;Ana;OK Tivoli;A;1:11:54;14;716;844;887;;920;716;3367;842
+Cimerman;Janez;OK Azimut;A;1:07:52;11;780;738;831;673;857;780;3206;802
 Kenda;Klemen;OK Azimut;A;;;;;906;964;922;;2792;931
 Petrovič;Blaž;OK Polaris;A;1:05:12;8;822;864;;;969;822;2655;885
 Knap;Franc;OK Azimut;A;;;;946;;935;769;;2650;883
@@ -118,7 +118,7 @@ Koželjnik;Kaja;RJZ Velenje;B;2:36:56;12;96;;;;;96;96;96
 Pahor;Maj Peter;PD Ajdovščina;C;mp;;;-;50;103;86;-;239;80
 Rijavec;Jure;PD Ajdovščina;C;mp;;;60;;54;93;-;207;69
 Bratina;Kaja;PD Ajdovščina;C;;;;;91;;114;;205;102
-Kmetič;Zarja;OK Polaris;C;0:46:03;2;93;;;69;41;93;203;68
+Kmetič;Zarja;PD Ajdovščina;C;0:46:03;2;93;;;69;41;93;203;68
 Slejko;Nik;PD Ajdovščina;C;;;;;37;80;79;;196;65
 Zupan;Peter;OK Polaris;C;;;;;;96;90;;186;93
 Kete;Jana;PD Ajdovščina;C;;;;-;;86;77;;163;82
