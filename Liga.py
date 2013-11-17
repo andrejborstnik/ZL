@@ -1,3 +1,6 @@
+indeksi=[2]#V indeksi zapiši zaporedne številke tekem, pri katereih točke
+#ne štejejo v povprečje za računanje novih rezultatov.
+
 def sumniki(niz):
     #Vrne enak niz, brez sumnikov.
     sumniki=['š','č','ž','Š','Č','Ž','ć','Ć']
@@ -79,17 +82,23 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
                 stanjeLigeA[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],'-']
             
             
-            if stanjeLigeA[(sumniki(x),sumniki(y))][0][2]:#Naj ostanejo točke iz začetka leta, če obstajajo
-                k=0
-                vsota_=0
+            if stanjeLigeA[(sumniki(x),sumniki(y))][0][2]:#Naj ostanejo točke iz začetka leta, če obstajajo (tam je true/false), sicer zračunamo povprečje.
+                #k=0
+                l=0
+                #vsota_=0
+                vsota2=0 #Vsota za povprečje.
                 for i,j in stanjeLigeA[(x,y)].items():
                     if i not in ['sestevek','povprecje','klub','ime','priimek'] and j[1]!='-' and j[1]>0:
-                        vsota_+=round(j[1])
-                        k+=1
+                        #vsota_+=round(j[1])
+                        print(i,j)
+                        if i not in indeksi:
+                            vsota2+=round(j[1])
+                            l+=1
+                        #k+=1
                     else:
                         pass
-                if k!=0:
-                    stanjeLigeA[(sumniki(x),sumniki(y))][0]=[0,round(vsota_/k),True]
+                if l!=0:
+                    stanjeLigeA[(sumniki(x),sumniki(y))][0]=[0,round(vsota2/l),True]
 
             
         #Računamo skupni seštevek lige.
