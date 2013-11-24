@@ -90,7 +90,6 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
                 for i,j in stanjeLigeA[(x,y)].items():
                     if i not in ['sestevek','povprecje','klub','ime','priimek'] and j[1]!='-' and j[1]>0:
                         #vsota_+=round(j[1])
-                        print(i,j)
                         if i not in indeksi:
                             vsota2+=round(j[1])
                             l+=1
