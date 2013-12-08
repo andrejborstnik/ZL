@@ -1,0 +1,52 @@
+﻿@SI
+Surname;First name;Time;Pl;Classifier;Cl. name;City;Short;km;m;Course controls
+Tušar;Peter;0:38:32;1;0;OK Azimut;OK Azimut;A;;;13
+Dovč;Jan;0:40:14;2;0;OK Tivoli;OK Tivoli;A;;;13
+Flerin;Mojca;0:44:32;3;0;Individual;Individual;A;;;13
+Zorman;Nejc;0:45:01;4;0;OK Komenda;OK Komenda;A;;;13
+Kenda;Klemen;0:46:04;5;0;OK Azimut;OK Azimut;A;;;13
+Borštnik;Andrej;0:50:12;6;0;OK Tivoli;OK Tivoli;A;;;13
+Poljanšek;Aleš;0:54:13;7;0;OK Azimut;OK Azimut;A;;;13
+čerin;Boštjan;0:57:05;8;0;OK Tivoli;OK Tivoli;A;;;13
+Pribaković Borštnik;Ana;0:59:54;9;0;OK Tivoli;OK Tivoli;A;;;13
+Kos;Janez Elija;1:00:01;10;0;OK Tivoli;OK Tivoli;A;;;13
+Omersa;Dane;1:02:04;11;0;OK Azimut;OK Azimut;A;;;13
+Vukajlović;Vladan;1:02:38;12;0;OK Azimut;OK Azimut;A;;;13
+Kacin;Vojko;1:02:47;13;0;OK Azimut;OK Azimut;A;;;13
+Zupan;Aleš;1:04:55;14;0;OK Polaris;OK Polaris;A;;;13
+Jeram;Nuša;1:08:43;15;0;OK Azimut;OK Azimut;A;;;13
+Sladič;Roman;1:12:17;16;0;OK Perkmandeljc;OK Perkmandeljc;A;;;13
+čerin;Aleš;1:22:53;17;0;OK Tivoli;OK Tivoli;A;;;13
+Blaž;Matic;0:45:08;1;0;OK Komenda;OK Komenda;B;;;0
+Strnad;Andreja;0:47:20;2;0;Individual;Individual;B;;;0
+Nelson;Charlie;0:47:25;3;0;OK Azimut;OK Azimut;B;;;0
+Lapajne;Janko;0:48:33;4;0;OK Azimut;OK Azimut;B;;;0
+Zavrl;Zala;0:49:22;5;0;OK Komenda;OK Komenda;B;;;0
+Ravnikar;Monika;0:50:26;6;0;OK Komenda;OK Komenda;B;;;0
+Juvan;Neža;0:50:32;7;0;Individual;Individual;B;;;0
+Krhlikar;Denis;0:50:41;8;0;OK Azimut;OK Azimut;B;;;0
+Bogataj;Mark;0:51:11;9;0;OK Azimut;OK Azimut;B;;;0
+Zavrl;Janez;0:52:28;10;0;OK Komenda;OK Komenda;B;;;0
+Gantar;Lara;0:53:17;11;0;OK Azimut;OK Azimut;B;;;0
+Močnik;Matic;0:53:21;12;0;OK Azimut;OK Azimut;B;;;0
+Kavčič;Matjaž;0:54:29;13;0;OK Komenda;OK Komenda;B;;;0
+Kavčič;Domen;0:55:23;14;0;OK Azimut;OK Azimut;B;;;0
+Drevenšek;Suzana;0:56:08;15;0;Individual;Individual;B;;;0
+Verbič;Primož;0:57:06;16;0;Individual;Individual;B;;;0
+Pavšič;Aljaž;0:57:25;17;0;OK Azimut;OK Azimut;B;;;0
+černe;Aljaž;1:00:45;18;0;KRK Sova Scott;KRK Sova Scott;B;;;0
+Ravnikar;Nika;1:01:49;19;0;OK Komenda;OK Komenda;B;;;0
+Kos;Virgil;1:02:08;20;0;Individual;Individual;B;;;0
+Škvarč;Sašo;1:03:02;21;0;PD Ajdovščina;PD Ajdovščina;B;;;0
+Harej;Daša;1:25:24;22;0;PD Ajdovščina;PD Ajdovščina;B;;;0
+Urbanija;Julija;1:53:51;23;0;Amfibija;Amfibija;B;;;0
+Ravnikar;Žan;mp;24;1;OK Komenda;OK Komenda;B;;;0
+Trček;Petra;MP;25;1;OK Azimut;OK Azimut;B;;;0
+Rupnik;Blažka;MP;26;1;OK Azimut;OK Azimut;B;;;0
+Kofol;Tristan;0:29:12;1;0;Individual;Individual;C;;;0
+Dovč;Rebeka;0:45:27;2;0;Individual;Individual;C;;;0
+Repinc Kofol;Polona;0:48:20;3;0;OK Tivoli;OK Tivoli;C;;;0
+Mužina;Ivana;0:54:40;4;0;PD Ajdovščina;PD Ajdovščina;C;;;0
+Snoj;Veronika;1:17:54;5;0;Individual;Individual;C;;;0
+Kogovšek;Tjaša;1:24:34;6;0;OK Azimut;OK Azimut;C;;;0
+Slamič;Borja;1:29:52;7;0;PD Ajdovščina;PD Ajdovščina;C;;;0
