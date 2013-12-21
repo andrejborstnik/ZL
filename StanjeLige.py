@@ -33,9 +33,13 @@ st_tekem=0
 for st_lige in range(1,20):
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
         c=rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
-        stanjeLigeA=izracunLigeA(c['A'],st_lige,stanjeLigeA)
-        stanjeLigeB=izracunLigeB(c['B'],st_lige,stanjeLigeB)
-        stanjeLigeC=izracunLigeC(c['C'],st_lige,stanjeLigeC)
+        if st_lige == 14:
+            IP = 1.15
+        else:
+            IP = 1
+        stanjeLigeA=izracunLigeA(c['A'],st_lige,stanjeLigeA,IP)
+        stanjeLigeB=izracunLigeB(c['B'],st_lige,stanjeLigeB,IP)
+        stanjeLigeC=izracunLigeC(c['C'],st_lige,stanjeLigeC,IP)
         st_tekem+=1
         #mankajociKlubi(stanjeLigeA)
         #mankajociKlubi(stanjeLigeB)
