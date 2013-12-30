@@ -13,7 +13,7 @@ with open('zacetek.txt',encoding='utf-8') as f:
             priimek=a[0]
             klub=a[2]
             kat=a[3]
-            tocke=round(int(a[4][:-1]) + (int(a[4][:-1])-900)/10)
+            tocke=round(int(a[4][:-1]) + (int(a[4][:-1])-900)/4)
             if priimek=='Piltaver' and ime=='Jaka':
                 tocke=1250
             elif priimek=='Hribar' and ime =='Andraž':
