@@ -4,7 +4,7 @@ Pretnar;Janez;OK Azimut;A;0:52:52;1;962;1066;962;2028;1014
 Čerin;Boštjan;OK Tivoli;A;0:54:09;4;954;1042;954;1996;998
 Čufer;David;PD Ajdovščina;A;1:00:44;7;911;858;911;1769;884
 Ravnikar;Žan;OK Komenda;A;1:11:54;16;840;900;840;1740;870
-Kos;Janez Elija;MIX;A;1:02:42;10;899;805;899;1704;852
+Kos;Janez Elija;OK Tivoli;A;1:02:42;10;899;805;899;1704;852
 Čufer;Stanko;PD Ajdovščina;A;1:00:44;7;911;785;911;1696;848
 Ravnikar;Monika;OK Komenda;A;1:11:54;16;840;824;840;1664;832
 Šumečki;Janez;RJZ Velenje;A;1:02:42;10;899;520;899;1419;710
@@ -28,7 +28,7 @@ Borštnik;Aljaž;OK Tivoli;A;0:54:09;4;954;;954;954;954
 Kölner;Blaž;OK Komenda;A;;;;942;;942;942
 Škarabot;Miha;OK Polaris;A;;;;941;;941;941
 Petrovič;Blaž;OK Polaris;A;;;;923;;923;923
-Hribernik;Matej;ind.;A;;;;912;;912;912
+Hribernik;Matej;IndividualsNo Club;A;;;;912;;912;912
 Čufer;Ana;PD Ajdovščina;A;1:00:44;7;911;;911;911;911
 Kmetič;Sandi;OK Polaris;A;1:02:42;10;899;;899;899;899
 Stanonik;Simon;OK Azimut;A;1:06:47;13;873;;873;873;873
@@ -55,7 +55,7 @@ Korošec;Janez;OK Komenda;A;;;;613;;613;613
 Urbanija;Blaž;Hopla Konopla;A;;;;567;;567;567
 Čerin;Aleš;OK Tivoli;A;2:10:01;34;468;;468;468;468
 Rejec;Pavel;OK Azimut;A;;;;462;;462;462
-Kos;Virgil;Ljubljana ;A;2:11:03;37;461;;461;461;461
+Kos;Virgil;OK Tivoli;A;2:11:03;37;461;;461;461;461
 Vratuša Globočnik;Uršula;Ljubljana ;A;2:11:07;40;461;;461;461;461
 Glavan;Tina;Ljubljana ;A;2:11:03;37;461;;461;461;461
 Krafogel;Jure;Ljubljana ;A;2:11:07;40;461;;461;461;461
@@ -98,7 +98,7 @@ Primožič;An;OK Azimut;C;0:49:29;2;95;;95;95;95
 Ferenc;Zala;OK Tivoli;C;;;;79;;79;79
 Hernec;Rok;OK Tivoli;C;;;;74;;74;74
 Kunc;Matevž;OK Tivoli;C;;;;69;;69;69
-Špenko;Zala;ind.;C;;;;66;;66;66
+Špenko;Zala;IndividualsNo Club;C;;;;66;;66;66
 Kosovel;Lana;PD Ajdovščina;C;1:12:10;5;64;;64;64;64
 Gregorc;Denis;OK Komenda;C;1:15:11;7;60;;60;60;60
 Miklavec;Maj Jurij;OK Tivoli;C;;;;57;;57;57
