@@ -50,6 +50,7 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
         #Sestavljamo seznam z časi in točkami.
         seznamCasov=[]
         seznamTock=[]
+        #print(rezultatiTekme)
         for (a,b) in rezultatiTekme.keys():
             x=sumniki(a)
             y=sumniki(b)
@@ -68,6 +69,8 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
         for (x,y) in rezultatiTekme.keys():
             if rezultatiTekme[(x,y)]not in ['mp','dns']:
                 seznamCasov.append((rezultatiTekme[(x,y)][0])*3600+(rezultatiTekme[(x,y)][1])*60+rezultatiTekme[(x,y)][2])
+        if ST == 0:
+            ST = standardnaDeviacija(seznamCasov)
         seznamCasov.sort()
         for x,y in rezultatiTekme.keys():
             if rezultatiTekme[(x,y)]not in ['mp','dns']:
