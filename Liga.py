@@ -1,4 +1,4 @@
-indeksi=[2,7]#V indeksi zapiši zaporedne številke tekem, pri katereih točke
+indeksi=[2,7,12]#V indeksi zapiši zaporedne številke tekem, pri katereih točke
 #ne štejejo v povprečje za računanje novih rezultatov.
 
 def sumniki(niz):
