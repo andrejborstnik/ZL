@@ -341,6 +341,7 @@ def rezultati(st_lige,stanjeLige):
                     klub1='OK Azimut'
                 elif ime1=='Ivo'and priimek1=='Kette':
                     priimek1='Kete'
+                #print(ime, priimek, klub)
                 a={'scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sok':'ŠOK'}
                 ind=[' ','','ind','ind.','individual','Individuals/No Club', 'Individual', 'Individuals']
                 for kl in a.keys():
