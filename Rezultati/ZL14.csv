@@ -1,41 +1,18 @@
 ﻿@SI
-Pl;First name;Surname;City;Time;Short;Classifier;
-1;Tajda;Foški;OK Polaris;0:38:47;A;0;
-1;Elio;Golja;OK Polaris;0:38:47;A;0;
-2;Blaž;Petrovič;OK Polaris;0:39:59;A;0;
-2;Dušan;Petrovič;OK Polaris;0:39:59;A;0;
-3;Virgil;Kos;OK Tivoli;0:41:29;A;0;
-3;Janez;Elija Kos;OK Tivoli;0:41:29;A;0;
-4;Brina;Foški;OK Polaris;0:51:47;A;0;
-4;Aljoša;Rebolj;OK Polaris;0:51:47;A;0;
-5;Daša;Harej;Ajdovščina;0:53:18;A;0;
-5;Ivo;Kete;Ajdovščina;0:53:18;A;0;
-6;Jan;Šalamun;OK Polaris;0:54:23;A;0;
-6;Miro;Šalamun;OK Polaris;0:54:23;A;0;
-7;Katarina;Smolej;;1:08:57;A;0;
-7;Helena;Ločniškar;;1:08:57;A;0;
-8;Bogo;Trontelj;;1:09:13;A;0;
-8;Janez;Korošec;Pustolovec Rajd;1:09:13;A;0;
-9;Dušan;Kotar;;1:16:58;A;0;
-9;Jan;Kotar;;1:16:58;A;0;
-10;Saš;Močnik;OK Polaris;1:26:38;A;0;
-10;Griša;Močnik;OK Polaris;1:26:38;A;0;
-;Mojca;Flerin;OK Kamnik;mp;A;3;
-;Klemen;Kenda;OK Azimut;mp;A;3;
-;Gašper;Petrovič;OK Polaris;mp;A;3;
-;Matej;Škarabot;OK Polaris;mp;A;3;
-;Barbara;Kušar;;mp;A;3;
-;Žiga;Kušar;;mp;A;3;
-;David;Čufer;Ajdovščina;mp;A;3;
-;Stanko;Čufer;Ajdovščina;mp;A;3;
-;Aleš;Zupan;OK Polaris;mp;A;3;
-;Miha;Škarabot;OK Polaris;mp;A;3;
-;Aljaž;Černe;OK Tivoli;mp;A;3;
-;Andreja;Strnad;;mp;A;3;
-;Ivana;Možina;;mp;A;3;
-;Lara;Bratina;;mp;A;3;
-;Ana;Šalamun;OK Polaris;mp;A;3;
-;Rok;Tepeš;;dnf;A;2;
-;Neja;Tepeš;;dnf;A;2;
-;Zarja;Kmetič;OK Polaris;dnf;A;2;
-;Sandi;Kmetič;OK Polaris;dnf;A;2;
+First name;Surname;City;Short;zbrane tocke;minute;Time;Pl;Classifier
+Dušan;Petrovic;Orientacijski Klub Polaris;A;440;1;40:00;1;0
+Edi;Ocvirk;OK Japetic;A;440;1;40:00;1;0
+Ivan;Boyadzhiev ml.;Mariborski OK;A;410;0;42:26;3;0
+Miha;Škarabot;Orientacijski Klub Polaris;A;360;0;48:20;4;0
+Blaž;Petrovic;Orientacijski Klub Polaris;A;330;4;48:20;5;0
+Aleš;Furlan;Mariborski OK;A;200;0;87:00;6;0
+Ivan;Boyadzhiev;Mariborski OK;A;210;6;96:40;7;0
+Andrej;Žnidaric;Individuals/No club;A;180;13;151:18;8;0
+Gašper;Petrovic;Orientacijski Klub Polaris;A;110;0;158:11;9;0
+Matej;Škarabot;Orientacijski Klub Polaris;A;110;0;158:11;10;0
+Herwig;Allwinger;Mariborski OK;B;30:00;5;30:00;1;0
+Herwig Jr.;Allwinger;Mariborski OK;B;30:00;5;30:00;1;0
+Gerhard;Jöbstl;OLC Graz;B;200;3;44:00;3;0
+Janez;Šumecki;Rod Jezerski zmaj Velenje;B;48:00;5;50:00;4;0
+Pia;Ocvirk;OK Japetic;B;140;0;58:00;5;0
+Marko & Gang;Uranjek;Mariborski OK;C;120;0;20:00;1;0
