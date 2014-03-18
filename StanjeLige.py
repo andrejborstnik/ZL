@@ -30,12 +30,15 @@ with open('zacetek.txt',encoding='utf-8') as f:
 
 #print(stanjeLigeA)
 st_tekem=0
+IP = 1
 for st_lige in range(1,20):
+    if st_lige == 17:
+        IP = 1.15
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
         c=rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
-        stanjeLigeA=izracunLigeA(c['A'],st_lige,stanjeLigeA)
-        stanjeLigeB=izracunLigeB(c['B'],st_lige,stanjeLigeB)
-        stanjeLigeC=izracunLigeC(c['C'],st_lige,stanjeLigeC)
+        stanjeLigeA=izracunLigeA(c['A'],st_lige,stanjeLigeA, IP)
+        stanjeLigeB=izracunLigeB(c['B'],st_lige,stanjeLigeB, IP)
+        stanjeLigeC=izracunLigeC(c['C'],st_lige,stanjeLigeC, IP)
         st_tekem+=1
         #mankajociKlubi(stanjeLigeA)
         #mankajociKlubi(stanjeLigeB)

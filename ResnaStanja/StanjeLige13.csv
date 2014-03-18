@@ -1,4 +1,4 @@
-﻿Surname;First name;City;Class;Time;Pl;Points;ZL1;ZL2;ZL3;ZL4;ZL5;ZL6;ZL7;ZL8;ZL9;ZL10;ZL11;ZL12;ZL13;Sum;Average
+Surname;First name;City;Class;Time;Pl;Points;ZL1;ZL2;ZL3;ZL4;ZL5;ZL6;ZL7;ZL8;ZL9;ZL10;ZL11;ZL12;ZL13;Sum;Average
 Dovč;Jan;OK Tivoli;A;0:23:33;1;1118;1151;954;1168;;1076;1110;1196;1147;1182;1001;;;1118;5844;1169
 Tušar;Peter;OK Azimut;A;0:27:12;6;1008;;;1107;;1097;1048;;;1071;-;;;1008;5331;1066
 Zorman;Jernej;OK Komenda;A;0:24:16;2;1096;;787;;1059;1017;;;;1136;925;;;1096;5233;1047
@@ -36,7 +36,7 @@ Kos;Virgil;OK Tivoli;A;;;;;461;-;;;865;;;;;;925;;2251;750
 Petrovič;Gašper;OK Polaris;A;0:39:11;21;646;839;;742;;;;;;;;;-;646;2227;742
 Plavčak;Ana;OK Azimut;A;0:48:30;28;365;566;739;;478;;;;-;;;;;365;2148;537
 Foški;Mojca;OK Polaris;A;0:39:13;22;645;;;;636;;;747;;-;;;;645;2028;676
-Černe;Aljaž;OK Tivoli;A;0:35:58;18;743;;;;;;;401;;;881;;-;743;2025;675
+Černe;Aljaž;KRK Sova Scott Team;A;0:35:58;18;743;;;;;;;401;;;881;;-;743;2025;675
 Lapajne;Janko;OK Azimut;A;mp;;;568;620;-;;;;;;;805;;;-;1993;664
 Nagy;Ivan;DROT;A;;;;1014;;;975;;;;;;;;;;1989;994
 Bogovič;Vid;OK Brežice;A;;;;1008;;;871;;;;;;;;;;1879;940
@@ -121,7 +121,7 @@ Ongaro;Marco;US Primiero;A;;;;;;;;;;;;;;679;;;679;679
 Sepin;Chiara;SSD Gaja  Sezione Orientamento;A;;;;;;;;;;;;;;667;;;667;667
 Giudici;Piero;ORIENTEERING TRIESTE  ASD;A;;;;;;;;;;;;;;662;;;662;662
 Zacchigna;Serena;ORIENTEERING TRIESTE  ASD;A;;;;;;;;;;;;;;650;;;650;650
-Allwinger;Herwig;MOK;A;;;;;;;;;;;642;;;;;;642;642
+Allwinger;Herwig;Mariborski OK;A;;;;;;;;;;;642;;;;;;642;642
 Viviani;Paolo Daniele;CAI XXX Ottobre;A;;;;;;;;;;;;;;634;;;634;634
 Cafagna;Michele;ORIENTEERING TRIESTE  ASD;A;;;;;;;;;;;;;;630;;;630;630
 Smolej;Katarina;ind.;A;;;;;;;;;;;;;;;630;;630;630
@@ -150,7 +150,7 @@ Erzin;Boris;OK Polaris;A;;;;;;;;;;;;;;425;;;425;425
 Pipolo;Silverio;SSD Gaja  Sezione Orientamento;A;;;;;;;;;;;;;;421;;;421;421
 Hacin Kölner;Irena;OK Komenda;A;0:48:38;29;361;;;;;;;;;;;;;361;361;361
 Krivčič;Dragan;OK Perkmandeljc;A;;;;;;;;;;;;;;321;;;321;321
-Maršiæ;Vedrana;OK Brežice;A;0:58:46;31;55;;;;;;;;;;;;;55;55;55
+Maršić;Vedrana;OK Brežice;A;0:58:46;31;55;;;;;;;;;;;;;55;55;55
 Burič;Uroš;RJZ Velenje;A;mp;;;;;;;;;;;;;;;-;0;0
 Jevševar;Martin;OK Brežice;A;mp;;;;;;;;;;;;;;;-;0;0
 Jevševar;Jedert;OK Brežice;A;mp;;;;;;;;;;;;;;;-;0;0
@@ -241,7 +241,7 @@ Korelc;Mihala;OK Komenda;B;;;;;;;-;;198;;;;-;;;;198;198
 Simonelli;Maria Elena;ASD SEMIPERDO ORIENTEERING MANIAGO;B;;;;;;;;;;;;;;198;;;198;198
 Anderluh;Marija;OK Polaris;B;;;;;;;;;;;;188;;;;;188;188
 Mantovani;Antonella;SCI CLUB UDINE ASD;B;;;;;;;;;;;;;;187;;;187;187
-Boyadzhiev;Ivan;MOK;B;;;;;;;;;;;183;;;;;;183;183
+Boyadzhiev;Ivan;Mariborski OK;B;;;;;;;;;;;183;;;;;;183;183
 Sepin;Claudio;SSD Gaja  Sezione Orientamento;B;;;;;;;;;;;;;;180;;;180;180
 Černigoj;Nina;PD Ajdovščina;B;;;;;;;175;;;;;;;;;;175;175
 Bertoni;Mario;ORIENTEERING TRIESTE  ASD;B;;;;;;;;;;;;;;175;;;175;175
@@ -332,5 +332,5 @@ Geo Luca;Luca;GR OR CAI XXX OTTOBRE ASD;C;;;;;;;;;;;;;;25;;;25;25
 Zgonec;Gašper;OK Tivoli;C;mp;;;;;;;;25;;;;;;;-;25;25
 Zgonec;Katja;OK Tivoli;C;;;;;;;;;23;;;;;;;;23;23
 Premrov;Patricija;IndividualsNo Club;C;mp;;;;;;;;;;;;;;;-;0;0
-Šehoviæ;Edin;IndividualsNo Club;C;mp;;;;;;;;;;;;;;;-;0;0
+Šehović;Edin;IndividualsNo Club;C;mp;;;;;;;;;;;;;;;-;0;0
 Žorž;Alja;IndividualsNo Club;C;mp;;;;;;;;;;;;;;;-;0;0
