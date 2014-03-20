@@ -1,9 +1,7 @@
 from Liga import *
 from os import path
 import csv
-stanjeLigeA={}
-stanjeLigeB={}
-stanjeLigeC={}
+stanjeLige={}
 with open('zacetek.txt',encoding='utf-8') as f:
     k=0
     for line in f:
@@ -20,12 +18,10 @@ with open('zacetek.txt',encoding='utf-8') as f:
                 tocke=1400
             elif ime=='Peter' and priimek=='Tušar':
                 tocke=1150  
-            if kat=='A':
-                stanjeLigeA[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
-            elif kat=='B':
-                stanjeLigeB[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
-            elif kat=='C':
-                stanjeLigeC[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
+            try:
+                stanjeLige[kat][(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
+            except:
+                stanjeLige[kat] = {(sumniki(ime),sumniki(priimek)):{'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}}
         k=1
 
 #print(stanjeLigeA)
@@ -35,16 +31,11 @@ for st_lige in range(1,20):
     if st_lige == 17:
         IP = 1.15
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
-        c=rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
-        stanjeLigeA=izracunLigeA(c['A'],st_lige,stanjeLigeA, IP)
-        stanjeLigeB=izracunLigeB(c['B'],st_lige,stanjeLigeB, IP)
-        stanjeLigeC=izracunLigeC(c['C'],st_lige,stanjeLigeC, IP)
+        c=rezultati(st_lige,stanjeLige)
+        for kat in c[1]:
+            stanjeLige[kat]=izracunLigeA(c[0][kat],st_lige,stanjeLige[kat], IP)
         st_tekem+=1
-        #mankajociKlubi(stanjeLigeA)
-        #mankajociKlubi(stanjeLigeB)
-        #mankajociKlubi(stanjeLigeC)
-        stanjeLige={'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC}
-        vCsv(stanjeLige,st_tekem)
+        vCsv(stanjeLige,st_tekem,c[1])
 
 if path.isfile('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv'):
     g=open('SOL_test.csv','w+',encoding='utf-8')

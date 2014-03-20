@@ -79,7 +79,10 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
                     if seznamCasov[i]==RT:
                         mesto=i+1
                         break
-                RP=(MP+SP*(MT-RT)/ST)*IP
+                if ST == 0:
+                    RP = 1200#??? Če je človek sam na tekmi dobi veliko točk -> spodbuja udeležbo
+                else:  
+                    RP=(MP+SP*(MT-RT)/ST)*IP
                 stanjeLigeA[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],round(RP),mesto]
             else:
                 stanjeLigeA[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],'-']
@@ -213,9 +216,8 @@ def izracunLigeC(rezultatiTekme,st_tekme,stanjeLigeC={},IP=1):
 
 def rezultati(st_lige,stanjeLige):
     #Vrne rezultate tekme v slovarju oblike {'A':rezultatiTekmeA,...}.
-    rezultatiTekmeA={}
-    rezultatiTekmeB={}
-    rezultatiTekmeC={}
+    rezultatiTekme={}
+    kategorije = set()
     import csv
     kodiranje='utf-8'
     with open('./Rezultati/ZL'+str(st_lige)+'.csv',encoding=kodiranje) as f:
@@ -230,167 +232,153 @@ def rezultati(st_lige,stanjeLige):
                 colnum=0
                 a=True
                 g=True
-                for col in row[0].split(';'):
-                    if colnum>=len(header):
-                        break
-                    if header[colnum]=='First name':
-                        ime=col
-                    elif header[colnum]=='Surname':
-                        priimek=col
-                    elif header[colnum]=='Short':
-                        kategorija=col
-                    elif header[colnum]=='Time':
-                        if col==''or col =='\"\"' or col in ['mp']:
-                            cas='mp'
-                            cas1=False
-                        elif col in ['dns']:
-                            cas='dns'
-                            cas1=False
-                        else:
-                            cas1=col
-                    elif header[colnum]=='City':
-                        if g:
-                            klub=col
-                            g=False
-                    elif header[colnum]=='Classifier':
-                        ok=col
-                    else:
-                        pass            
-                    colnum+=1
-                ok=int(ok)
-                if cas1:
-                    if ok in [2,3,4]:
-                        cas='mp'
-                    elif ok==1:
-                        cas='dns'
-                    else:
-                        cas=['','','']
-                        st_dvopicij=0
-                        for y in cas1:
-                            if y!=':'and y!='"':
-                                cas[st_dvopicij]+=str(y)
-                            elif y=='"':
-                                pass
+                try:
+                    for col in row[0].split(';'):
+                        if colnum>=len(header):
+                            break
+                        if header[colnum]=='First name':
+                            ime=col
+                        elif header[colnum]=='Surname':
+                            priimek=col
+                        elif header[colnum]=='Short':
+                            kategorija=col
+                        elif header[colnum]=='Time':
+                            if col==''or col =='\"\"' or col in ['mp']:
+                                cas='mp'
+                                cas1=False
+                            elif col in ['dns']:
+                                cas='dns'
+                                cas1=False
                             else:
-                                st_dvopicij+=1
-                        if cas[2]=='':
-                            cas[2]=cas[1]
-                            cas[1]=cas[0]
-                            cas[0]=str(0)
-                        cas=[int(cas[0]),int(cas[1]),int(cas[2])]
-                if cas1 and cas not in ['mp','dns']:
-                    for i in range(2,0,-1):
-                        if cas[i]>=60:
-                            cas[i-1]=cas[i-1]+cas[i]//60
-                            cas[i]=cas[i]%60                       
-                a=''
-                for i in klub:
-                    if i.isalpha() or i==' ':
-                        a+=i
-                klub=a
-                
-                a=''
-                b=0
-                for i in ime:
-                    if i.isalpha():
-                        if b==0:
-                            i=i.upper()
-                        a+=i
-                    b+=1
-                ime=a
-                a=''
-                b=0
-                for i in ime:
-                    if i.isupper()and b!=0:
-                        a+=' '
-                        a+=i
-                    else:
-                        a+=i
-                    b+=1
-                ime=a
-                a=''
-                b=0
-                for i in priimek:
-                    if i.isalpha():
-                        if b==0:
-                            i=i.upper()
-                        a+=i
-                    b+=1
-                priimek=a
-                a=''
-                b=0
-                for i in priimek:
-                    if i.isupper() and b!=0:
-                        a+=' '
-                        a+=i
-                    else:
-                        a+=i
-                    b+=1
-                priimek=a
-                a=''
-                for i in kategorija:
-                    if i!='"':
-                        a+=i
-                kategorija=a
-                ime1=sumniki(ime)
-                priimek1=sumniki(priimek)
-                klub1=klub
-                if ime1=='Nejc'and priimek1=='Zorman':
-                    ime1='Jernej'
-                elif priimek=='Rejec':
-                    klub1='OK Azimut'
-                elif ime1=='Ivo'and priimek1=='Kette':
-                    priimek1='Kete'
-                #print(ime, priimek, klub)
-                a={'mokmariborskiok':'Mariborski OK','kamniskiokkok': 'Kamniški OK','scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sok':'ŠOK'}
-                ind=[' ','','ind','ind.','individual','Individuals/No Club', 'Individual', 'Individuals']
-                for kl in a.keys():
-                    if presledki(sumniki(klub1).lower()) in kl and presledki(sumniki(klub1).lower()):
-                        klub1=a[kl]
-                        break
-                if kategorija== "A":
+                                cas1=col
+                        elif header[colnum]=='City':
+                            if g:
+                                klub=col
+                                g=False
+                        elif header[colnum]=='Classifier':
+                            ok=col
+                        else:
+                            pass            
+                        colnum+=1
+                    ok=int(ok)
+                    if cas1:
+                        if ok in [2,3,4]:
+                            cas='mp'
+                        elif ok==1:
+                            cas='dns'
+                        else:
+                            cas=['','','']
+                            st_dvopicij=0
+                            for y in cas1:
+                                if y!=':'and y!='"':
+                                    cas[st_dvopicij]+=str(y)
+                                elif y=='"':
+                                    pass
+                                else:
+                                    st_dvopicij+=1
+                            if cas[2]=='':
+                                cas[2]=cas[1]
+                                cas[1]=cas[0]
+                                cas[0]=str(0)
+                            cas=[int(cas[0]),int(cas[1]),int(cas[2])]
+                    if cas1 and cas not in ['mp','dns']:
+                        for i in range(2,0,-1):
+                            if cas[i]>=60:
+                                cas[i-1]=cas[i-1]+cas[i]//60
+                                cas[i]=cas[i]%60                       
+                    a=''
+                    for i in klub:
+                        if i.isalpha() or i==' ':
+                            a+=i
+                    klub=a
+                    
+                    a=''
+                    b=0
+                    for i in ime:
+                        if i.isalpha():
+                            if b==0:
+                                i=i.upper()
+                            a+=i
+                        b+=1
+                    ime=a
+                    a=''
+                    b=0
+                    for i in ime:
+                        if i.isupper()and b!=0:
+                            a+=' '
+                            a+=i
+                        else:
+                            a+=i
+                        b+=1
+                    ime=a
+                    a=''
+                    b=0
+                    for i in priimek:
+                        if i.isalpha():
+                            if b==0:
+                                i=i.upper()
+                            a+=i
+                        b+=1
+                    priimek=a
+                    a=''
+                    b=0
+                    for i in priimek:
+                        if i.isupper() and b!=0:
+                            a+=' '
+                            a+=i
+                        else:
+                            a+=i
+                        b+=1
+                    priimek=a
+                    a=''
+                    for i in kategorija:
+                        if i!='"':
+                            a+=i
+                    kategorija=a
+                    ime1=sumniki(ime)
+                    priimek1=sumniki(priimek)
+                    klub1=klub
+                    if ime1=='Nejc'and priimek1=='Zorman':
+                        ime1='Jernej'
+                    elif priimek=='Rejec':
+                        klub1='OK Azimut'
+                    elif ime1=='Ivo'and priimek1=='Kette':
+                        priimek1='Kete'
+                    #print(ime, priimek, klub)
+                    a={'mokmariborskiok':'Mariborski OK','kamniskiokkok': 'Kamniški OK','scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sok':'ŠOK'}
+                    ind=[' ','','ind','ind.','individual','Individuals/No Club', 'Individual', 'Individuals']
+                    for kl in a.keys():
+                        if presledki(sumniki(klub1).lower()) in kl and presledki(sumniki(klub1).lower()):
+                            klub1=a[kl]
+                            break
+                    kategorije.add(kategorija)
+                    try:
+                        sthpomo = stanjeLige[kategorija]
+                    except:
+                        stanjeLige[kategorija] = {}
+                    try:
+                        sthpomo = rezultatiTekme[kategorija]
+                    except:
+                        rezultatiTekme[kategorija] = {}
                     if klub1 in ind:
                         klub1='ind.'       
-                    if (ime1,priimek1) not in stanjeLige['A']:
-                        stanjeLige['A'][(ime1,priimek1)]={0:[0,500,True],'ime':ime,'priimek':priimek,'klub':klub1}
-                    elif stanjeLige['A'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
-                        stanjeLige['A'][(ime1,priimek1)]['klub']=klub1
+                    if (ime1,priimek1) not in stanjeLige[kategorija]:
+                        stanjeLige[kategorija][(ime1,priimek1)]={0:[0,500,True],'ime':ime,'priimek':priimek,'klub':klub1}
+                    elif stanjeLige[kategorija][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
+                        stanjeLige[kategorija][(ime1,priimek1)]['klub']=klub1
                     if cas!='dns':
-                        rezultatiTekmeA[(ime1,priimek1)]=cas
-                elif kategorija== "B":
-                    if klub1 in ind:
-                        klub1='ind.'
-                    if (ime1,priimek1) not in stanjeLige['B']:
-                        stanjeLige['B'][(ime1,priimek1)]={'ime':ime,'priimek':priimek,'klub':klub1}
-                    elif stanjeLige['B'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
-                        stanjeLige['B'][(ime1,priimek1)]['klub']=klub1
-                    ###Bonus za d...
-                    elif priimek=='Rejec':
-                        stanjeLige['B'][(ime1,priimek1)]['klub']=klub1
-                    ###
-                    if cas!='dns':
-                        rezultatiTekmeB[(ime1,priimek1)]=cas
-                elif kategorija== "C":
-                    if klub1 in ind:
-                        klub1='ind.'
-                    if (ime1,priimek1) not in stanjeLige['C']:
-                        stanjeLige['C'][(ime1,priimek1)]={'ime':ime,'priimek':priimek,'klub':klub1}
-                    elif stanjeLige['C'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']: 
-                        stanjeLige['C'][(ime1,priimek1)]['klub']=klub1
-                    if cas!='dns':
-                        rezultatiTekmeC[(ime1,priimek1)]=cas
-                else:
+                        rezultatiTekme[kategorija][(ime1,priimek1)]=cas
+                except IndexError:
                     pass
             rownum+=1
-    rezultatiTekme={'A':rezultatiTekmeA,'B':rezultatiTekmeB,'C':rezultatiTekmeC}
-    return rezultatiTekme
-def vCsv(stanjeLige,st_tekem):
+    return rezultatiTekme,kategorije
+def vCsv(stanjeLige,st_tekem,kategorije):
     with open('./Stanja_racunana/StanjeLige'+str(st_tekem)+'.csv','w+',encoding='utf-8') as f:
         f.write('Surname;First name;City;Class;Time;Pl;Points')
         for i in range(1,st_tekem +1):
             f.write(';'+'ZL'+str(i))
         f.write(';Sum;Average\n')
-        for k in ['A','B','C']:
+        for k in kategorije:
             h=[]
             for x,y in stanjeLige[k].keys():
                 if stanjeLige[k][x,y].get('sestevek',None)!=None:
