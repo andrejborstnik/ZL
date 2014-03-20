@@ -7,10 +7,10 @@ with open('ZL_2013_2014.csv','r',encoding='utf-8')as f:
             if b!=1:
                 for j in i.split(';'):
                     a+=1
-                    if a in [1,2,3,4,25]:
+                    if a in [1,2,3,4,26]:
                         g.write(j)
-                        if a==25:
-                            g.write('\n')
+                        if a==26:
+                            #g.write('\n')
                             pass
                         else:
                             g.write(';')
