@@ -1,61 +1,23 @@
 Surname;First name;City;Class;Time;Pl;Points;ZL1;ZL2;ZL3;ZL4;ZL5;ZL6;ZL7;Sum;Average
-Kmetič;Sandi;OK Polaris;OPEN;1:04:32;2;0;;;;;;;0;0;0
-Ferleš;Marjan;OK Tivoli;OPEN;2:06:21;4;0;;;;;;;0;0;0
-Habič;Lara;IndividualsNo Club;OPEN;1:50:52;3;0;;;;;;;0;0;0
-Zobavnik;Aleš;IndividualsNo Club;OPEN;0:59:36;1;0;;;;;;;0;0;0
-Zupan;Aleš;OK Polaris;M45;1:20:12;4;675;-;696;;708;698;699;675;3476;695
-Kacin;Vojko;OK Azimut;M45;1:16:51;2;679;696;696;696;682;694;684;679;3466;693
-De Luisa;Marko;SSD Gaja;M45;1:19:43;3;675;696;696;;654;672;;675;3393;679
-Šumečki;Janez;Rod Jezerski zmaj Velenje;M45;1:53:26;5;636;696;696;;628;653;638;636;3319;664
-Radovan;Dalibor;OK Polaris;M45;1:15:13;1;681;;;;674;;680;681;2035;678
-Kohlbacher;Roland;Naturfreunde Villach Orienteering;M45;;;;696;;;769;;;;1465;732
-Pizzamus;Paolo;SSD Gaja;M45;;;;696;;;729;;;;1425;712
-Mrak;Ivan;OK Azimut;M45;;;;696;;;673;;;;1369;684
-Scherr;Bruno;HSV Villach;M45;;;;;;;799;;;;799;799
-Jobstl;Gerhard;OLC Graz;M45;;;;;;;;711;;;711;711
-Clemente;Mauro;SSD Gaja;M45;;;;;;;702;;;;702;702
-Pietsch;Wolfgang;Naturfreunde Wien;M45;;;;696;;;;;;;696;696
-Pietsch;Werner;Naturfreunde Wien;M45;;;;696;;;;;;;696;696
-Nurmela;Timo;RastiKurikka;M45;;;;696;;;;;;;696;696
-Röhl;Stefan;ESV Lok BerlinSchöneweide;M45;;;;696;;;;;;;696;696
-Liebl;Siegfried;OLTeam Bayern;M45;;;;696;;;;;;;696;696
-Reisenberger;Roland;OK Gittis Klosterneuburg;M45;;;;696;;;;;;;696;696
-Pradel;Roberto;US Primiero Asd;M45;;;;696;;;;;;;696;696
-Bettin;Renato;OR SWALLOWS;M45;;;;696;;;;;;;696;696
-Kasper;Reinhard;LZ OMAHA;M45;;;;696;;;;;;;696;696
-Groell;Reinhard;SU Schöckl Graz;M45;;;;696;;;;;;;696;696
-Bonek;Peter;Naturfreunde Wien;M45;;;;696;;;;;;;696;696
-Ptáček;Pavel;OK Slovenske Konjice;M45;;;;696;;;;;;;696;696
-Gabor;Pataki;Pécsi Vasutas SK;M45;;;;696;;;;;;;696;696
-Adenstedt;Nikolaus;OK Klosterneuburg;M45;;;;696;;;;;;;696;696
-Mosca;Massimo;Gruppo Orientamento CAI XXX Ottobre ASD;M45;;;;696;;;;;;;696;696
-Gruenberger;Martin;WiN Team;M45;;;;696;;;;;;;696;696
-Sterba;Markus;OK Gittis Klosterneuburg;M45;;;;696;;;;;;;696;696
-Predonzani;Livio;Gruppo Orientamento CAI XXX Ottobre ASD;M45;;;;696;;;;;;;696;696
-Krischan;Klaus;Ennstal;M45;;;;696;;;;;;;696;696
-Kramer;Klaus;GO Harzberg;M45;;;;696;;;;;;;696;696
-Gobec;Karlo;OK Vihor;M45;;;;;;;;;696;;696;696
-Tisljar;Ivo;OK Orion;M45;;;;696;;;;;;;696;696
-Lerchegger;Helmut;Leibnitzer AC Orienteering;M45;;;;696;;;;;;;696;696
-Joebstl;Gerhard;IndividualsNo Club;M45;;;;;696;;;;;;696;696
-Pavlovics;Gabor;Pécsi Vasutas SK;M45;;;;696;;;;;;;696;696
-Viniczai;Ferenc;Pécsi Vasutas SK;M45;;;;696;;;;;;;696;696
-Hofstätter;Felix;Naturfreunde Wien;M45;;;;696;;;;;;;696;696
-Diwok;Felix;OK Gittis Klosterneuburg;M45;;;;696;;;;;;;696;696
-Casagrande;Enrico;Orienteering Pergine;M45;;;;696;;;;;;;696;696
-Braun;Emanuel;HSV OL Wiener Neustadt;M45;;;;696;;;;;;;696;696
-Lützelschwab;Dieter;OLG Cordoba;M45;;;;696;;;;;;;696;696
-Schaffer;Christoph;HSV Ried im Innkreis;M45;;;;696;;;;;;;696;696
-Baumann;Boris;Mariborski OK;M45;;;;;;696;;;;;696;696
-Bauman;Boris;Mariborski OK;M45;;;;696;;;;;;;696;696
-Jevševar;Bojan;OK Brežice;M45;;;;696;-;;;;;;696;696
-Varsányi;Attila;Veszprémi Tájfutó Club;M45;;;;696;;;;;;;696;696
-Procházka;Antonín;OK Slovenske Konjice;M45;;;;696;;;;;;;696;696
-Smole;Dušan;OK Polaris;M45;;;;;;;;;688;;688;688
-Pelessoni;Renato;SSD Gaja;M45;;;;;;;662;;;;662;662
-Cignini;Enrico;XXX Ottobre;M45;;;;;;;658;;;;658;658
-Kotar;Dušan;IndividualsNo Club;M45;;;;;;;553;;;;553;553
-Burger;Boštjan;IndividualsNo Club;M45;mp;;;;;;;381;;-;381;381
+Foški;Mojca;OK Polaris;Ž21A;2:16:26;5;569;;;;;768;847;569;2184;728
+Flerin;Mojca;OK Komenda;Ž21A;1:17:16;1;964;;;;;1063;;964;2027;1014
+Flašker;Ajda;OK Komenda;Ž21A;;;;;;;;835;982;;1817;908
+Hribar;Anica;OK Brežice;Ž21A;1:50:51;3;740;;;;;973;;740;1713;856
+Tomažin;Urša;OK Azimut;Ž21A;1:46:40;2;768;;;;;;916;768;1684;842
+Pribaković Borštnik;Ana;OK Tivoli;Ž21A;;;;;;;;914;657;;1571;786
+Bernik;Jerca;Škofjeloški orientacijski klub;Ž21A;mp;;;;;;;847;628;-;1475;738
+Rudolf;Nina;Mariborski OK;Ž21A;2:02:35;4;662;;;;;789;;662;1451;726
+Jirčakova;Martina;TJ Slovan LCE;Ž21A;;;;;;;;;1155;;1155;1155
+Szlendak;Joanna;TJ Slovan LCE;Ž21A;;;;;;;;;859;;859;859
+Tesarova;Marcela;TJ Slovan LCE;Ž21A;;;;;;;;;818;;818;818
+Michalkova;Renata;TJ Slovan LCE;Ž21A;;;;;;;;;784;;784;784
+Foški;Tajda;OK Polaris;Ž21A;;;;;;;;;752;;752;752
+Mirnik;Jona;OK Komenda;Ž21A;;;;;;;;734;;;734;734
+Pistor;Kaja;Mariborski OK;Ž21A;;;;;;;;731;;;731;731
+Pretnar;Tanja;OK Azimut;Ž21A;;;;;;;;601;;;601;601
+Hubačkova;Pavla;TJ Slovan LCE;Ž21A;;;;;;;;;573;;573;573
+Zupančič;Maja;RJZ Velenje;Ž21A;;;;;;;;;511;;511;511
+Drevenšek;Suzana;IndividualsNo Club;Ž21A;;;;;;;;439;;;439;439
 Pretnar;Janez;OK Azimut;M35;1:05:10;1;1135;;873;1174;1055;1099;;1135;5336;1067
 Kostanjevec;Matej;Mariborski OK;M35;;;;1039;1147;855;1013;1026;;;5080;1016
 Poljanšek;Aleš;OK Azimut;M35;1:25:36;4;934;929;850;916;1000;884;994;934;4773;955
@@ -129,6 +91,28 @@ Boyadzhiev;Ivan;Mariborski OK;M35;;;;;;;;;557;;557;557
 Cignini;Enrico;Gruppo Orientamento CAI XXX Ottobre ASD;M35;;;;521;;;;;;;521;521
 Močnik;Silvij;OK Azimut;M35;mp;;;;;;;;;-;0;0
 Lebar;Daniel;OK Slovenske Konjice;M35;mp;;;;;;-;;;-;0;0
+Casagrande;Tomaž;IndividualsNo Club;ZAČ;0:56:05;7;0;;;;;;;0;0;0
+Ferenc;Tinka;OK Tivoli;ZAČ;0:44:31;2;0;;;;;;;0;0;0
+Marolt;Teja;OK Azimut;ZAČ;1:00:16;8;0;;;;;;;0;0;0
+Remškar;Špela;OK Tivoli;ZAČ;1:04:50;10;0;;;;;;;0;0;0
+Kamšek;Rebeka;OK Tivoli;ZAČ;1:02:12;9;0;;;;;;;0;0;0
+Dovč;Rebeka;OK Tivoli;ZAČ;0:48:14;4;0;;;;;;;0;0;0
+Kunc;Mojca;OK Tivoli;ZAČ;0:53:25;6;0;;;;;;;0;0;0
+Straže;Matija;IndividualsNo Club;ZAČ;1:42:23;18;0;;;;;;;0;0;0
+Kranjec Žagar;Matic;IndividualsNo Club;ZAČ;1:16:16;13;0;;;;;;;0;0;0
+Dovč;Maj;OK Tivoli;ZAČ;1:58:58;19;0;;;;;;;0;0;0
+Seljak;Luka;OK Komenda;ZAČ;1:08:30;12;0;;;;;;;0;0;0
+Žižek;Lev In Zarja;OK Azimut;ZAČ;1:05:09;11;0;;;;;;;0;0;0
+Babič;Katja;IndividualsNo Club;ZAČ;mp;;;;;;;;;-;0;0
+Straže;Jurij;IndividualsNo Club;ZAČ;1:35:17;16;0;;;;;;;0;0;0
+Seljak;Jaka;OK Komenda;ZAČ;mp;;;;;;;;;-;0;0
+Miklavc;Iza;OK Tivoli;ZAČ;1:28:03;15;0;;;;;;;0;0;0
+Majdič;Gregor;OK Tivoli;ZAČ;0:43:18;1;0;;;;;;;0;0;0
+Zgonec;Gašper;OK Tivoli;ZAČ;0:51:38;5;0;;;;;;;0;0;0
+Kerčmar;Brina;OK Azimut;ZAČ;mp;;;;;;;;;-;0;0
+Hernec;Brina;OK Tivoli;ZAČ;1:36:07;17;0;;;;;;;0;0;0
+Javornik;Anja;OK Tivoli;ZAČ;0:47:17;3;0;;;;;;;0;0;0
+Jamnik;Aljaž;IndividualsNo Club;ZAČ;1:26:45;14;0;;;;;;;0;0;0
 Mrak;Tibor;OK Azimut;M21E;;;;1066;1027;1033;991;984;;;5101;1020
 Dovč;Jan;OK Tivoli;M21E;1:40:04;3;926;894;840;935;1018;1004;;926;4777;955
 Kračun;Rajko;OK Polaris;M21E;;;;1139;781;983;880;928;;;4711;942
@@ -308,6 +292,103 @@ Dolenc;Tadej;OK Azimut;M21B;;;;;812;;;;;;812;812
 Germani;Marko;SSD Gaja;M21B;;;;-;;;629;;;;629;629
 Zavrl;Janez;OK Komenda;M21B;;;;-;;;;255;;;255;255
 Močnik;Rok;OK Azimut;M21B;mp;;;;;;;;;-;0;0
+Šiler;Petra;IndividualsNo Club;Ž21B;mp;;;;;;;-;;-;0;0
+Poljanšek;Marjanca;OK Azimut;Ž21B;1:18:30;4;0;;;;;0;0;0;0;0
+Rejec;Marjana;OK Azimut;Ž21B;mp;;;;;;;0;0;-;0;0
+Jurca;Katja;OK Tivoli;Ž21B;1:04:44;2;0;;;;;;;0;0;0
+Hacin Kölner;Irena;OK Komenda;Ž21B;mp;;;;;;;;;-;0;0
+Slapničar;Anja;RJZ Velenje;Ž21B;0:58:28;1;0;;;;;;0;0;0;0
+Plavčak;Ana;OK Azimut;Ž21B;1:05:16;3;0;;;;;;0;0;0;0
+Ojstrež;Alja;ŠOK;Ž21B;mp;;;;;;;;0;-;0;0
+Vuga Seljak;Alenka;OK Komenda;Ž21B;1:23:45;5;0;;;;;0;;0;0;0
+Vedrana;;OK Brežice;Ž21B;2:00:46;6;0;;;;;;;0;0;0
+Sedej;Vlado;OK Azimut;M55;1:13:31;2;0;-;0;0;0;0;0;0;0;0
+Lapajne;Janko;OK Azimut;M55;0:59:38;1;0;0;0;0;0;0;0;0;0;0
+Tušar;Peter;OK Azimut;M18;;;;1150;1035;1084;1114;1009;;;5392;1078
+Petrovič;Blaž;OK Polaris;M18;1:19:02;1;938;944;954;972;953;923;904;938;4761;952
+Hvala;Gregor;OK Azimut;M18;1:22:27;3;889;946;967;869;-;990;;889;4661;932
+Šumečki;Žan Luka;Rod Jezerski zmaj Velenje;M18;1:19:16;2;934;935;579;888;845;901;;934;4503;901
+Rupnik;Andraž;OK Azimut;M18;;;;574;752;689;787;645;545;;3447;689
+Čerin;Boštjan;OK Tivoli;M18;;;;693;469;585;557;552;768;;3155;631
+Lazar;Nejc;OK Azimut;M18;;;;308;649;662;665;;;;2284;571
+Hartlieb;Felix;Leibnitzer AC Orienteering;M18;;;;1103;;;;946;;;2049;1024
+Peter;Mathias;SU Schöckl Graz;M18;;;;1253;;;;;;;1253;1253
+Kovács;Bertalan;Pécsi Vasutas SK;M18;;;;1196;;;;;;;1196;1196
+Hubaček;Jonaš;TJ Slovan LCE;M18;;;;;;;;;1168;;1168;1168
+Mudrak;Štepan;TJ Slovan LCE;M18;;;;;;;;;1165;;1165;1165
+Prezensky;Gábor;CS TranSilva Cluj;M18;;;;1151;;;;;;;1151;1151
+Miavecz;Balázs;MOM Budapest;M18;;;;1146;;;;;;;1146;1146
+Falk;Stefan;Naturfreunde Linz;M18;;;;1145;;;;;;;1145;1145
+Cannella;Samuele;Junior Team Trentino;M18;;;;1128;;;;;;;1128;1128
+Ptáček;Pavel;OK Slovenske Konjice;M18;;;;1121;;;;;;;1121;1121
+Kubelka;Stefan;Leibnitzer AC Orienteering;M18;;;;1113;;;;;;;1113;1113
+Péter;Tóth;Pécsi Vasutas SK;M18;;;;1074;;;;;;;1074;1074
+Tóth;Adrián;Tipo Orienteering Club;M18;;;;1054;;;;;;;1054;1054
+Tanzer;Michael;WiN Team;M18;;;;1039;;;;;;;1039;1039
+Zucal;Giulio;TrentO Orienteering;M18;;;;1038;;;;;;;1038;1038
+Hellmayr;Valentin;OC Fürstenfeld;M18;;;;1032;;;;;;;1032;1032
+Griener;Matthias;WiN Team;M18;;;;1027;;;;;;;1027;1027
+Štambuk;Matej;Ivan Merz;M18;;;;1022;;;;;;;1022;1022
+Pezze;Giacomo;Junior Team Trentino;M18;;;;958;;;;;;;958;958
+De Noni;Alessandro;ORIENTEERING TARZO ASD;M18;;;;958;;;;;;;958;958
+Cudicio;Mattia;ORIENTEERING TARZO ASD;M18;;;;952;;;;;;;952;952
+Sliva;Jan;TJ Slovan LCE;M18;;;;;;;;;939;;939;939
+Mazzer;Francesco;ORIENTEERING TARZO ASD;M18;;;;875;;;;;;;875;875
+Stadlober;Mathias;OC Fürstenfeld;M18;;;;873;;;;;;;873;873
+Jordanov;Alexandr;OK Slovenske Konjice;M18;;;;859;;;;;;;859;859
+Bernardin;Alex;US Primiero Asd;M18;;;;780;;;;;;;780;780
+Krnjaić;Dušan;PD Pobeda;M18;;;;772;;;;;;;772;772
+Mihaczi;Adam;Tipo OC;M18;;;;;;736;;;;;736;736
+Bettega;Walter;ASD GS PAVIONE;M18;;;;704;;;;;;;704;704
+Sittlinger;Michael;HSV SpittalDrau;M18;;;;296;;;404;;;;700;350
+Babin;Markus;Naturfreunde Villach Orienteering;M18;;;;631;;;-;;;;631;631
+Žnidaršič;Urban;Taborniki;M18;;;;;;;;;512;;512;512
+Rosato;Luca;ASD Orienteering G Galilei;M18;;;;470;;;;;;;470;470
+Scheiber;Martin;Naturfreunde Villach Orienteering;M18;;;;349;;;;;;;349;349
+Sladič;Roman;OK Perkmandeljc;M50;0:57:19;1;746;746;746;623;0;-;746;746;3607;721
+Čerin;Aleš;OK Tivoli;M50;1:18:43;4;746;746;746;;;623;746;746;3607;721
+Borštnik;Aleš;OK Tivoli;M50;;;;746;746;623;0;706;746;;3567;713
+Boyadzhiev;Ivan;Mariborski OK;M50;;;;;746;623;;682;;;2051;684
+Kradischnig;Günter;OLC Graz;M50;;;;746;;;;746;;;1492;746
+Pernek;Vinko;Mariborski OK;M50;;;;746;;623;;;;;1369;684
+Krivičić;Dragan;OK Perkmandeljc;M50;1:17:11;3;746;;;;0;570;;746;1316;658
+Weiler;Zsolt;Tabáni Spartacus Sport és Környezetvédő Egyesület;M50;;;;746;;;;;;;746;746
+Blabla;Zdeněk;OK Slovenske Konjice;M50;;;;746;;;;;;;746;746
+Dätwyler;Thomas;OLG Pfäffikon;M50;;;;746;;;;;;;746;746
+Opetnik;Siegfried;HSV KLAGENFURT;M50;;;;746;;;;;;;746;746
+Väli Klemelä;Seppo;Paimion Rasti;M50;1:09:37;2;746;;;;;;;746;746;746
+Koeller;Rudolf;SPORTUNION Klagenfurt;M50;;;;746;;;;;;;746;746
+Volčič;Roman;OK Tivoli;M50;;;;746;;;;;;;746;746
+Sinaeve;Philippe;BMT;M50;;;;746;;;;;;;746;746
+Mets;Miklos;MOM Budapest;M50;;;;746;;;;;;;746;746
+Clemente;Mauro;SSD Gaja;M50;;;;746;;;;;;;746;746
+Greiner;Martin;TSV Grünwald;M50;;;;746;;;;;;;746;746
+Dias;Manuel;Lisboa OK;M50;;;;746;;;;;;;746;746
+Verpoorten;Manu;BMT;M50;;;;746;;;;;;;746;746
+Dragan;Krivičić;Perkmandeljc Trbovlje;M50;;;;;746;;;;;;746;746
+Kasin;Kolbjorn;Kongsberg Olag;M50;;;;746;;;;;;;746;746
+Tanzer;Josef;WiN Team;M50;;;;746;;;;;;;746;746
+Johnsen;Jan Arild;Norwegian Orienteering federation;M50;;;;746;;;;;;;746;746
+Friedl;Harald;TSV Brockum;M50;;;;746;;;;;;;746;746
+Pregartner;Georg;OLG Deutsch Kaltenbrunn;M50;;;;746;;;;;;;746;746
+Ruzzier;Fiorenzo;SSD Gaja;M50;;;;746;;;;;;;746;746
+Köck;Erwin;HSV OL Wiener Neustadt;M50;;;;746;;;;;;;746;746
+Štambuk;Dario;Ivan Merz;M50;;;;746;;;;;;;746;746
+Friessnig;Armin;OC Fürstenfeld;M50;;;;746;;;;;;;746;746
+Cart;Andreas;OLC Wienerwald;M50;;;;746;;;;;;;746;746
+Radovan;Dalibor;OK Polaris;M50;;;;;;;;685;;;685;685
+Rejec;Pavel;OK Azimut;M50;;;;;;;;544;;;544;544
+Keresteš;Vid;OK Trzin;M10;mp;;;;;;;0;;-;0;0
+Hernec;Rok;OK Tivoli;M10;0:27:07;4;0;-;;0;0;0;;0;0;0
+Casagrande;Oliver;IndividualsNo Club;M10;0:31:57;6;0;;;;;;;0;0;0
+Kunc;Matevž;OK Tivoli;M10;0:22:29;2;0;0;-;;0;0;;0;0;0
+Jevševar;Martin;OK Brežice;M10;0:25:40;3;0;0;0;;;0;;0;0;0
+Miklavec;Maj Jurij;OK Tivoli;M10;0:35:05;7;0;;0;;0;0;0;0;0;0
+Anderluh;Luka;OK Polaris;M10;0:21:30;1;0;0;0;;;0;0;0;0;0
+Grad;Filip;OK Tivoli;M10;0:31:49;5;0;;;0;0;0;;0;0;0
+Kavcic;Matjaz;OK Komenda;M12;0:54:19;1;0;-;;;;-;;0;0;0
+Grad;Jaka;OK Tivoli;M12;mp;;;;;;;;;-;0;0
+Kunc;Gregor;OK Tivoli;M12;0:57:21;2;0;0;;;0;0;;0;0;0
 Ravnikar;Žan;OK Komenda;M14;0:46:11;2;0;0;0;0;0;0;0;0;0;0
 Zupan;Peter;OK Polaris;M14;1:35:06;4;0;0;;;0;0;0;0;0;0
 Blaž;Matic;OK Komenda;M14;0:44:21;1;0;-;0;0;0;0;0;0;0;0
@@ -362,93 +443,20 @@ Babič;Tilen;Taborniki;M16;;;;;;;;;575;;575;575
 Stanovnik;Simon;OK Azimut;M16;;;;;;;;;559;;559;559
 Rebolj;Aljoša;Taborniki;M16;;;;;;;;;336;;336;336
 Čižman;Bernard;IndividualsNo Club;M16;mp;;;;;;;;;-;0;0
-Keresteš;Vid;OK Trzin;M10;mp;;;;;;;0;;-;0;0
-Hernec;Rok;OK Tivoli;M10;0:27:07;4;0;-;;0;0;0;;0;0;0
-Casagrande;Oliver;IndividualsNo Club;M10;0:31:57;6;0;;;;;;;0;0;0
-Kunc;Matevž;OK Tivoli;M10;0:22:29;2;0;0;-;;0;0;;0;0;0
-Jevševar;Martin;OK Brežice;M10;0:25:40;3;0;0;0;;;0;;0;0;0
-Miklavec;Maj Jurij;OK Tivoli;M10;0:35:05;7;0;;0;;0;0;0;0;0;0
-Anderluh;Luka;OK Polaris;M10;0:21:30;1;0;0;0;;;0;0;0;0;0
-Grad;Filip;OK Tivoli;M10;0:31:49;5;0;;;0;0;0;;0;0;0
-Kavcic;Matjaz;OK Komenda;M12;0:54:19;1;0;-;;;;-;;0;0;0
-Grad;Jaka;OK Tivoli;M12;mp;;;;;;;;;-;0;0
-Kunc;Gregor;OK Tivoli;M12;0:57:21;2;0;0;;;0;0;;0;0;0
-Sladič;Roman;OK Perkmandeljc;M50;0:57:19;1;746;746;746;623;0;-;746;746;3607;721
-Čerin;Aleš;OK Tivoli;M50;1:18:43;4;746;746;746;;;623;746;746;3607;721
-Borštnik;Aleš;OK Tivoli;M50;;;;746;746;623;0;706;746;;3567;713
-Boyadzhiev;Ivan;Mariborski OK;M50;;;;;746;623;;682;;;2051;684
-Kradischnig;Günter;OLC Graz;M50;;;;746;;;;746;;;1492;746
-Pernek;Vinko;Mariborski OK;M50;;;;746;;623;;;;;1369;684
-Krivičić;Dragan;OK Perkmandeljc;M50;1:17:11;3;746;;;;0;570;;746;1316;658
-Weiler;Zsolt;Tabáni Spartacus Sport és Környezetvédő Egyesület;M50;;;;746;;;;;;;746;746
-Blabla;Zdeněk;OK Slovenske Konjice;M50;;;;746;;;;;;;746;746
-Dätwyler;Thomas;OLG Pfäffikon;M50;;;;746;;;;;;;746;746
-Opetnik;Siegfried;HSV KLAGENFURT;M50;;;;746;;;;;;;746;746
-Väli Klemelä;Seppo;Paimion Rasti;M50;1:09:37;2;746;;;;;;;746;746;746
-Koeller;Rudolf;SPORTUNION Klagenfurt;M50;;;;746;;;;;;;746;746
-Volčič;Roman;OK Tivoli;M50;;;;746;;;;;;;746;746
-Sinaeve;Philippe;BMT;M50;;;;746;;;;;;;746;746
-Mets;Miklos;MOM Budapest;M50;;;;746;;;;;;;746;746
-Clemente;Mauro;SSD Gaja;M50;;;;746;;;;;;;746;746
-Greiner;Martin;TSV Grünwald;M50;;;;746;;;;;;;746;746
-Dias;Manuel;Lisboa OK;M50;;;;746;;;;;;;746;746
-Verpoorten;Manu;BMT;M50;;;;746;;;;;;;746;746
-Dragan;Krivičić;Perkmandeljc Trbovlje;M50;;;;;746;;;;;;746;746
-Kasin;Kolbjorn;Kongsberg Olag;M50;;;;746;;;;;;;746;746
-Tanzer;Josef;WiN Team;M50;;;;746;;;;;;;746;746
-Johnsen;Jan Arild;Norwegian Orienteering federation;M50;;;;746;;;;;;;746;746
-Friedl;Harald;TSV Brockum;M50;;;;746;;;;;;;746;746
-Pregartner;Georg;OLG Deutsch Kaltenbrunn;M50;;;;746;;;;;;;746;746
-Ruzzier;Fiorenzo;SSD Gaja;M50;;;;746;;;;;;;746;746
-Köck;Erwin;HSV OL Wiener Neustadt;M50;;;;746;;;;;;;746;746
-Štambuk;Dario;Ivan Merz;M50;;;;746;;;;;;;746;746
-Friessnig;Armin;OC Fürstenfeld;M50;;;;746;;;;;;;746;746
-Cart;Andreas;OLC Wienerwald;M50;;;;746;;;;;;;746;746
-Radovan;Dalibor;OK Polaris;M50;;;;;;;;685;;;685;685
-Rejec;Pavel;OK Azimut;M50;;;;;;;;544;;;544;544
-Sedej;Vlado;OK Azimut;M55;1:13:31;2;0;-;0;0;0;0;0;0;0;0
-Lapajne;Janko;OK Azimut;M55;0:59:38;1;0;0;0;0;0;0;0;0;0;0
-Tušar;Peter;OK Azimut;M18;;;;1150;1035;1084;1114;1009;;;5392;1078
-Petrovič;Blaž;OK Polaris;M18;1:19:02;1;938;944;954;972;953;923;904;938;4761;952
-Hvala;Gregor;OK Azimut;M18;1:22:27;3;889;946;967;869;-;990;;889;4661;932
-Šumečki;Žan Luka;Rod Jezerski zmaj Velenje;M18;1:19:16;2;934;935;579;888;845;901;;934;4503;901
-Rupnik;Andraž;OK Azimut;M18;;;;574;752;689;787;645;545;;3447;689
-Čerin;Boštjan;OK Tivoli;M18;;;;693;469;585;557;552;768;;3155;631
-Lazar;Nejc;OK Azimut;M18;;;;308;649;662;665;;;;2284;571
-Hartlieb;Felix;Leibnitzer AC Orienteering;M18;;;;1103;;;;946;;;2049;1024
-Peter;Mathias;SU Schöckl Graz;M18;;;;1253;;;;;;;1253;1253
-Kovács;Bertalan;Pécsi Vasutas SK;M18;;;;1196;;;;;;;1196;1196
-Hubaček;Jonaš;TJ Slovan LCE;M18;;;;;;;;;1168;;1168;1168
-Mudrak;Štepan;TJ Slovan LCE;M18;;;;;;;;;1165;;1165;1165
-Prezensky;Gábor;CS TranSilva Cluj;M18;;;;1151;;;;;;;1151;1151
-Miavecz;Balázs;MOM Budapest;M18;;;;1146;;;;;;;1146;1146
-Falk;Stefan;Naturfreunde Linz;M18;;;;1145;;;;;;;1145;1145
-Cannella;Samuele;Junior Team Trentino;M18;;;;1128;;;;;;;1128;1128
-Ptáček;Pavel;OK Slovenske Konjice;M18;;;;1121;;;;;;;1121;1121
-Kubelka;Stefan;Leibnitzer AC Orienteering;M18;;;;1113;;;;;;;1113;1113
-Péter;Tóth;Pécsi Vasutas SK;M18;;;;1074;;;;;;;1074;1074
-Tóth;Adrián;Tipo Orienteering Club;M18;;;;1054;;;;;;;1054;1054
-Tanzer;Michael;WiN Team;M18;;;;1039;;;;;;;1039;1039
-Zucal;Giulio;TrentO Orienteering;M18;;;;1038;;;;;;;1038;1038
-Hellmayr;Valentin;OC Fürstenfeld;M18;;;;1032;;;;;;;1032;1032
-Griener;Matthias;WiN Team;M18;;;;1027;;;;;;;1027;1027
-Štambuk;Matej;Ivan Merz;M18;;;;1022;;;;;;;1022;1022
-Pezze;Giacomo;Junior Team Trentino;M18;;;;958;;;;;;;958;958
-De Noni;Alessandro;ORIENTEERING TARZO ASD;M18;;;;958;;;;;;;958;958
-Cudicio;Mattia;ORIENTEERING TARZO ASD;M18;;;;952;;;;;;;952;952
-Sliva;Jan;TJ Slovan LCE;M18;;;;;;;;;939;;939;939
-Mazzer;Francesco;ORIENTEERING TARZO ASD;M18;;;;875;;;;;;;875;875
-Stadlober;Mathias;OC Fürstenfeld;M18;;;;873;;;;;;;873;873
-Jordanov;Alexandr;OK Slovenske Konjice;M18;;;;859;;;;;;;859;859
-Bernardin;Alex;US Primiero Asd;M18;;;;780;;;;;;;780;780
-Krnjaić;Dušan;PD Pobeda;M18;;;;772;;;;;;;772;772
-Mihaczi;Adam;Tipo OC;M18;;;;;;736;;;;;736;736
-Bettega;Walter;ASD GS PAVIONE;M18;;;;704;;;;;;;704;704
-Sittlinger;Michael;HSV SpittalDrau;M18;;;;296;;;404;;;;700;350
-Babin;Markus;Naturfreunde Villach Orienteering;M18;;;;631;;;-;;;;631;631
-Žnidaršič;Urban;Taborniki;M18;;;;;;;;;512;;512;512
-Rosato;Luca;ASD Orienteering G Galilei;M18;;;;470;;;;;;;470;470
-Scheiber;Martin;Naturfreunde Villach Orienteering;M18;;;;349;;;;;;;349;349
+Burger;Veronika;OK Polaris;Ž18;1:39:01;3;0;;;;;0;;0;0;0
+Arh;Tina;OK Polaris;Ž18;1:36:46;2;0;;;;;;;0;0;0
+Jerman;Lara;OK Trzin;Ž18;1:36:39;1;0;;;;;;;0;0;0
+Radovan;Ema;OK Polaris;Ž18;3:07:33;4;0;;;;;0;;0;0;0
+Kmetič;Zarja;OK Polaris;Ž10;0:29:41;4;0;;;;;-;;0;0;0
+Ferenc;Zala;OK Tivoli;Ž10;0:23:28;2;0;;;;;0;0;0;0;0
+Ravnikar;Nika;OK Komenda;Ž10;0:18:07;1;0;;;;;0;0;0;0;0
+Zupan;Neža;OK Polaris;Ž10;0:23:36;3;0;;;;;0;-;0;0;0
+Zgonec;Katja;OK Tivoli;Ž10;0:39:18;5;0;;;;;0;;0;0;0
+Anderluh;Katarina Eva;OK Polaris;Ž10;0:48:16;6;0;;;;;0;0;0;0;0
+Zavrl;Zala;OK Komenda;Ž12;0:48:18;2;0;;;;;0;0;0;0;0
+Špenko;Zala;IndividualsNo Club;Ž12;1:05:35;3;0;;;;;;;0;0;0
+Jevševar;Jedert;OK Brežice;Ž12;mp;;;;;;;0;;-;0;0
+Pogačar;Ana Pia;OK Komenda;Ž12;0:27:18;1;0;;;;;0;0;0;0;0
 Poljanšek;Nika;OK Azimut;Ž14;1:11:55;3;0;;;;;0;0;0;0;0
 Ferenc;Julija;OK Tivoli;Ž14;0:49:23;1;0;;;;;0;0;0;0;0
 Šalamun;Ana;OK Polaris;Ž14;1:00:44;2;0;;;;;0;0;0;0;0
@@ -456,74 +464,66 @@ Ravnikar;Monika;OK Komenda;Ž16;0:59:45;3;0;;;;;0;0;0;0;0
 Lipužič;Marjeta;OK Komenda;Ž16;0:58:41;2;0;;;;;0;0;0;0;0
 Poljanšek;Katjuša;OK Azimut;Ž16;0:49:49;1;0;;;;;;0;0;0;0
 Foški;Brina;OK Polaris;Ž16;1:07:29;4;0;;;;;0;0;0;0;0
-Kmetič;Zarja;OK Polaris;Ž10;0:29:41;4;0;;;;;-;;0;0;0
-Ferenc;Zala;OK Tivoli;Ž10;0:23:28;2;0;;;;;0;0;0;0;0
-Ravnikar;Nika;OK Komenda;Ž10;0:18:07;1;0;;;;;0;0;0;0;0
-Zupan;Neža;OK Polaris;Ž10;0:23:36;3;0;;;;;0;-;0;0;0
-Zgonec;Katja;OK Tivoli;Ž10;0:39:18;5;0;;;;;0;;0;0;0
-Anderluh;Katarina Eva;OK Polaris;Ž10;0:48:16;6;0;;;;;0;0;0;0;0
-Casagrande;Tomaž;IndividualsNo Club;ZAČ;0:56:05;7;0;;;;;;;0;0;0
-Ferenc;Tinka;OK Tivoli;ZAČ;0:44:31;2;0;;;;;;;0;0;0
-Marolt;Teja;OK Azimut;ZAČ;1:00:16;8;0;;;;;;;0;0;0
-Remškar;Špela;OK Tivoli;ZAČ;1:04:50;10;0;;;;;;;0;0;0
-Kamšek;Rebeka;OK Tivoli;ZAČ;1:02:12;9;0;;;;;;;0;0;0
-Dovč;Rebeka;OK Tivoli;ZAČ;0:48:14;4;0;;;;;;;0;0;0
-Kunc;Mojca;OK Tivoli;ZAČ;0:53:25;6;0;;;;;;;0;0;0
-Straže;Matija;IndividualsNo Club;ZAČ;1:42:23;18;0;;;;;;;0;0;0
-Kranjec Žagar;Matic;IndividualsNo Club;ZAČ;1:16:16;13;0;;;;;;;0;0;0
-Dovč;Maj;OK Tivoli;ZAČ;1:58:58;19;0;;;;;;;0;0;0
-Seljak;Luka;OK Komenda;ZAČ;1:08:30;12;0;;;;;;;0;0;0
-Žižek;Lev In Zarja;OK Azimut;ZAČ;1:05:09;11;0;;;;;;;0;0;0
-Babič;Katja;IndividualsNo Club;ZAČ;mp;;;;;;;;;-;0;0
-Straže;Jurij;IndividualsNo Club;ZAČ;1:35:17;16;0;;;;;;;0;0;0
-Seljak;Jaka;OK Komenda;ZAČ;mp;;;;;;;;;-;0;0
-Miklavc;Iza;OK Tivoli;ZAČ;1:28:03;15;0;;;;;;;0;0;0
-Majdič;Gregor;OK Tivoli;ZAČ;0:43:18;1;0;;;;;;;0;0;0
-Zgonec;Gašper;OK Tivoli;ZAČ;0:51:38;5;0;;;;;;;0;0;0
-Kerčmar;Brina;OK Azimut;ZAČ;mp;;;;;;;;;-;0;0
-Hernec;Brina;OK Tivoli;ZAČ;1:36:07;17;0;;;;;;;0;0;0
-Javornik;Anja;OK Tivoli;ZAČ;0:47:17;3;0;;;;;;;0;0;0
-Jamnik;Aljaž;IndividualsNo Club;ZAČ;1:26:45;14;0;;;;;;;0;0;0
-Zavrl;Zala;OK Komenda;Ž12;0:48:18;2;0;;;;;0;0;0;0;0
-Špenko;Zala;IndividualsNo Club;Ž12;1:05:35;3;0;;;;;;;0;0;0
-Jevševar;Jedert;OK Brežice;Ž12;mp;;;;;;;0;;-;0;0
-Pogačar;Ana Pia;OK Komenda;Ž12;0:27:18;1;0;;;;;0;0;0;0;0
-Burger;Veronika;OK Polaris;Ž18;1:39:01;3;0;;;;;0;;0;0;0
-Arh;Tina;OK Polaris;Ž18;1:36:46;2;0;;;;;;;0;0;0
-Jerman;Lara;OK Trzin;Ž18;1:36:39;1;0;;;;;;;0;0;0
-Radovan;Ema;OK Polaris;Ž18;3:07:33;4;0;;;;;0;;0;0;0
-Foški;Mojca;OK Polaris;Ž21A;2:16:26;5;569;;;;;768;847;569;2184;728
-Flerin;Mojca;OK Komenda;Ž21A;1:17:16;1;964;;;;;1063;;964;2027;1014
-Flašker;Ajda;OK Komenda;Ž21A;;;;;;;;835;982;;1817;908
-Hribar;Anica;OK Brežice;Ž21A;1:50:51;3;740;;;;;973;;740;1713;856
-Tomažin;Urša;OK Azimut;Ž21A;1:46:40;2;768;;;;;;916;768;1684;842
-Pribaković Borštnik;Ana;OK Tivoli;Ž21A;;;;;;;;914;657;;1571;786
-Bernik;Jerca;Škofjeloški orientacijski klub;Ž21A;mp;;;;;;;847;628;-;1475;738
-Rudolf;Nina;Mariborski OK;Ž21A;2:02:35;4;662;;;;;789;;662;1451;726
-Jirčakova;Martina;TJ Slovan LCE;Ž21A;;;;;;;;;1155;;1155;1155
-Szlendak;Joanna;TJ Slovan LCE;Ž21A;;;;;;;;;859;;859;859
-Tesarova;Marcela;TJ Slovan LCE;Ž21A;;;;;;;;;818;;818;818
-Michalkova;Renata;TJ Slovan LCE;Ž21A;;;;;;;;;784;;784;784
-Foški;Tajda;OK Polaris;Ž21A;;;;;;;;;752;;752;752
-Mirnik;Jona;OK Komenda;Ž21A;;;;;;;;734;;;734;734
-Pistor;Kaja;Mariborski OK;Ž21A;;;;;;;;731;;;731;731
-Pretnar;Tanja;OK Azimut;Ž21A;;;;;;;;601;;;601;601
-Hubačkova;Pavla;TJ Slovan LCE;Ž21A;;;;;;;;;573;;573;573
-Zupančič;Maja;RJZ Velenje;Ž21A;;;;;;;;;511;;511;511
-Drevenšek;Suzana;IndividualsNo Club;Ž21A;;;;;;;;439;;;439;439
-Šiler;Petra;IndividualsNo Club;Ž21B;mp;;;;;;;-;;-;0;0
-Poljanšek;Marjanca;OK Azimut;Ž21B;1:18:30;4;0;;;;;0;0;0;0;0
-Rejec;Marjana;OK Azimut;Ž21B;mp;;;;;;;0;0;-;0;0
-Jurca;Katja;OK Tivoli;Ž21B;1:04:44;2;0;;;;;;;0;0;0
-Hacin Kölner;Irena;OK Komenda;Ž21B;mp;;;;;;;;;-;0;0
-Slapničar;Anja;RJZ Velenje;Ž21B;0:58:28;1;0;;;;;;0;0;0;0
-Plavčak;Ana;OK Azimut;Ž21B;1:05:16;3;0;;;;;;0;0;0;0
-Ojstrež;Alja;OK Polaris;Ž21B;mp;;;;;;;;0;-;0;0
-Vuga Seljak;Alenka;OK Komenda;Ž21B;1:23:45;5;0;;;;;0;;0;0;0
-Vedrana;;OK Brežice;Ž21B;2:00:46;6;0;;;;;;;0;0;0
 Žižek;Saša;OK Azimut;Ž35;1:10:00;2;0;;;;;0;0;0;0;0
 Zupan;Polona;OK Polaris;Ž35;1:32:31;4;0;;;;;0;0;0;0;0
 Keresteš;Mateja;OK Trzin;Ž35;1:48:53;6;0;;;;;0;;0;0;0
 Anderluh;Marija;OK Polaris;Ž35;1:18:53;3;0;;;;;-;0;0;0;0
 Kuzmin;Anka;Semiperdo;Ž35;0:58:50;1;0;;;;;;;0;0;0
 Babič;Anja;OK Trzin;Ž35;1:40:26;5;0;;;;;-;;0;0;0
+Kmetič;Sandi;OK Polaris;OPEN;1:04:32;2;0;;;;;;;0;0;0
+Ferleš;Marjan;OK Tivoli;OPEN;2:06:21;4;0;;;;;;;0;0;0
+Habič;Lara;IndividualsNo Club;OPEN;1:50:52;3;0;;;;;;;0;0;0
+Zobavnik;Aleš;IndividualsNo Club;OPEN;0:59:36;1;0;;;;;;;0;0;0
+Zupan;Aleš;OK Polaris;M45;1:20:12;4;675;-;696;;708;698;699;675;3476;695
+Kacin;Vojko;OK Azimut;M45;1:16:51;2;679;696;696;696;682;694;684;679;3466;693
+De Luisa;Marko;SSD Gaja;M45;1:19:43;3;675;696;696;;654;672;;675;3393;679
+Šumečki;Janez;Rod Jezerski zmaj Velenje;M45;1:53:26;5;636;696;696;;628;653;638;636;3319;664
+Radovan;Dalibor;OK Polaris;M45;1:15:13;1;681;;;;674;;680;681;2035;678
+Kohlbacher;Roland;Naturfreunde Villach Orienteering;M45;;;;696;;;769;;;;1465;732
+Pizzamus;Paolo;SSD Gaja;M45;;;;696;;;729;;;;1425;712
+Mrak;Ivan;OK Azimut;M45;;;;696;;;673;;;;1369;684
+Scherr;Bruno;HSV Villach;M45;;;;;;;799;;;;799;799
+Jobstl;Gerhard;OLC Graz;M45;;;;;;;;711;;;711;711
+Clemente;Mauro;SSD Gaja;M45;;;;;;;702;;;;702;702
+Pietsch;Wolfgang;Naturfreunde Wien;M45;;;;696;;;;;;;696;696
+Pietsch;Werner;Naturfreunde Wien;M45;;;;696;;;;;;;696;696
+Nurmela;Timo;RastiKurikka;M45;;;;696;;;;;;;696;696
+Röhl;Stefan;ESV Lok BerlinSchöneweide;M45;;;;696;;;;;;;696;696
+Liebl;Siegfried;OLTeam Bayern;M45;;;;696;;;;;;;696;696
+Reisenberger;Roland;OK Gittis Klosterneuburg;M45;;;;696;;;;;;;696;696
+Pradel;Roberto;US Primiero Asd;M45;;;;696;;;;;;;696;696
+Bettin;Renato;OR SWALLOWS;M45;;;;696;;;;;;;696;696
+Kasper;Reinhard;LZ OMAHA;M45;;;;696;;;;;;;696;696
+Groell;Reinhard;SU Schöckl Graz;M45;;;;696;;;;;;;696;696
+Bonek;Peter;Naturfreunde Wien;M45;;;;696;;;;;;;696;696
+Ptáček;Pavel;OK Slovenske Konjice;M45;;;;696;;;;;;;696;696
+Gabor;Pataki;Pécsi Vasutas SK;M45;;;;696;;;;;;;696;696
+Adenstedt;Nikolaus;OK Klosterneuburg;M45;;;;696;;;;;;;696;696
+Mosca;Massimo;Gruppo Orientamento CAI XXX Ottobre ASD;M45;;;;696;;;;;;;696;696
+Gruenberger;Martin;WiN Team;M45;;;;696;;;;;;;696;696
+Sterba;Markus;OK Gittis Klosterneuburg;M45;;;;696;;;;;;;696;696
+Predonzani;Livio;Gruppo Orientamento CAI XXX Ottobre ASD;M45;;;;696;;;;;;;696;696
+Krischan;Klaus;Ennstal;M45;;;;696;;;;;;;696;696
+Kramer;Klaus;GO Harzberg;M45;;;;696;;;;;;;696;696
+Gobec;Karlo;OK Vihor;M45;;;;;;;;;696;;696;696
+Tisljar;Ivo;OK Orion;M45;;;;696;;;;;;;696;696
+Lerchegger;Helmut;Leibnitzer AC Orienteering;M45;;;;696;;;;;;;696;696
+Joebstl;Gerhard;IndividualsNo Club;M45;;;;;696;;;;;;696;696
+Pavlovics;Gabor;Pécsi Vasutas SK;M45;;;;696;;;;;;;696;696
+Viniczai;Ferenc;Pécsi Vasutas SK;M45;;;;696;;;;;;;696;696
+Hofstätter;Felix;Naturfreunde Wien;M45;;;;696;;;;;;;696;696
+Diwok;Felix;OK Gittis Klosterneuburg;M45;;;;696;;;;;;;696;696
+Casagrande;Enrico;Orienteering Pergine;M45;;;;696;;;;;;;696;696
+Braun;Emanuel;HSV OL Wiener Neustadt;M45;;;;696;;;;;;;696;696
+Lützelschwab;Dieter;OLG Cordoba;M45;;;;696;;;;;;;696;696
+Schaffer;Christoph;HSV Ried im Innkreis;M45;;;;696;;;;;;;696;696
+Baumann;Boris;Mariborski OK;M45;;;;;;696;;;;;696;696
+Bauman;Boris;Mariborski OK;M45;;;;696;;;;;;;696;696
+Jevševar;Bojan;OK Brežice;M45;;;;696;-;;;;;;696;696
+Varsányi;Attila;Veszprémi Tájfutó Club;M45;;;;696;;;;;;;696;696
+Procházka;Antonín;OK Slovenske Konjice;M45;;;;696;;;;;;;696;696
+Smole;Dušan;OK Polaris;M45;;;;;;;;;688;;688;688
+Pelessoni;Renato;SSD Gaja;M45;;;;;;;662;;;;662;662
+Cignini;Enrico;XXX Ottobre;M45;;;;;;;658;;;;658;658
+Kotar;Dušan;IndividualsNo Club;M45;;;;;;;553;;;;553;553
+Burger;Boštjan;IndividualsNo Club;M45;mp;;;;;;;381;;-;381;381
