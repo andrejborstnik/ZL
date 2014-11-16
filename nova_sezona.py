@@ -1,5 +1,5 @@
 with open('ZL_2013_2014.csv','r',encoding='utf-8')as f:
-    with open('zacetek.txt','w',encoding='utf-8')as g:
+    with open('zacetek1.txt','w',encoding='utf-8')as g:
         b=0
         for i in f.readlines():
             b+=1
