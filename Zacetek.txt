@@ -1,4 +1,5 @@
-Dovč;Jan;OK Tivoli;A;1169
+﻿Dovč;Jan;OK Tivoli;A;1169
+Neve;Jasmin;OK Komenda;A;1000
 Šumečki;Žan Luka;OK Tivoli;A;1050
 Zorman;Jernej;OK Komenda;A;1109
 Tušar;Peter;OK Azimut;A;1066
