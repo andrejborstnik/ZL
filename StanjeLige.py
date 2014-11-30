@@ -14,12 +14,6 @@ with open('zacetek.txt',encoding='utf-8') as f:
             klub=a[2]
             kat=a[3]
             tocke=round(int(a[4][:-1]) + (int(a[4][:-1])-900)/4)
-            if priimek=='Piltaver' and ime=='Jaka':
-                tocke=1250
-            elif priimek=='Hribar' and ime =='Andraž':
-                tocke=1400
-            elif ime=='Peter' and priimek=='Tušar':
-                tocke=1150  
             if kat=='A':
                 stanjeLigeA[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
             elif kat=='B':

@@ -1,8 +1,10 @@
 ﻿Dovč;Jan;OK Tivoli;A;1169
+Piltaver;Jaka;OK Brežice;A;1200
+Štanfel;Matjaž;OK Ris;A;1300
 Neve;Jasmin;OK Komenda;A;1000
 Šumečki;Žan Luka;OK Tivoli;A;1050
 Zorman;Jernej;OK Komenda;A;1109
-Tušar;Peter;OK Azimut;A;1066
+Tušar;Peter;OK Azimut;A;1100
 Petrovič;Dušan;OK Polaris;A;1010
 Flerin;Mojca;OK Komenda;A;996
 Kölner;Blaž;OK Komenda;A;989
@@ -21,7 +23,7 @@ Flašker;Ajda;OK Komenda;A;972
 Petrovič;Blaž;OK Polaris;A;935
 Kacin;Vojko;OK Azimut;A;737
 Korošec;Janez;OK Komenda;A;722
-Hribar;Andraž;OK Brežice;A;1097
+Hribar;Andraž;OK Brežice;A;1250
 Sladič;Roman;OK Perkmandeljc;A;656
 Vukajlovič;Vladan;OK Azimut;A;654
 Urbanija;Miha;ŠD HSL;A;817
