@@ -38,7 +38,7 @@ Pretnar;Tanja;OK Azimut;A;;;;;702;;702;702
 Gantar;Lara;OK Azimut;A;1:25:13;20;698;;;698;698;698
 Ravnikar;Monika;OK Komenda;A;;;;;673;;673;673
 Šumečki;Janez;RJZ Velenje;A;1:31:21;23;637;;;637;637;637
-Dagarin;Meta;IndividualsNo Club;A;1:32:59;24;621;;;621;621;621
+Dagarin;Meta;ind.;A;1:32:59;24;621;;;621;621;621
 Čerin;Aleš;OK Tivoli;A;;;;599;;;599;599
 Beguš;Urša;OK Azimut;A;1:35:53;25;592;;;592;592;592
 Eržen;Boris;OK Polaris;A;;;;;567;;567;567
@@ -56,7 +56,7 @@ Zupan;Gregor;OK Komenda;B;1:02:40;15;196;;231;196;427;214
 Primožič;Patricija;OK Komenda;B;0:53:59;10;239;;175;239;414;207
 Kos;Virgil;OK Tivoli;B;0:35:23;1;369;;;369;369;369
 Pistor;Matej;Mariborski OK;B;;;;;366;;366;366
-Hribernik;Matej;IndividualsNo Club;B;;;;;343;;343;343
+Hribernik;Matej;ind.;B;;;;;343;;343;343
 Pretnar;Irma;OK Azimut;B;1:11:31;17;169;;166;169;335;168
 Miklavec;Sara;OK Tivoli;B;;;;303;;;303;303
 Foški;Brina;OK Polaris;B;;;;;303;;303;303
@@ -66,7 +66,7 @@ Kunc;Robert;OK Tivoli;B;;;;;285;;285;285
 Černe;Aljaž;OK Tivoli;B;;;;;285;;285;285
 Lovrec;Valerija;Kamniški OK;B;0:48:49;6;271;;;271;271;271
 Dovč;Katja;OK Tivoli;B;;;;;255;;255;255
-Čopi;Gašper;IndividualsNo Club;B;;;;;238;;238;238
+Čopi;Gašper;ind.;B;;;;;238;;238;238
 Jezeršek;Polona;OK Komenda;B;0:56:47;13;220;;-;220;220;220
 Dobravec;Pia;OK Azimut;B;0:57:49;14;214;;;214;214;214
 Kunc;Gregor;OK Tivoli;B;;;;;207;;207;207
@@ -74,13 +74,13 @@ Ravnikar;Nika;OK Komenda;B;1:05:43;16;186;;;186;186;186
 Humar;Anja;OK Azimut;B;1:13:28;18;162;;;162;162;162
 Šijanec;Ana;OK Komenda;B;;;;;161;;161;161
 Korelc;Andrej;OK Komenda;B;1:15:22;19;156;;;156;156;156
-Ortar;Miranda;IndividualsNo Club;B;;;;;154;;154;154
+Ortar;Miranda;ind.;B;;;;;154;;154;154
 Strasser;Špela;Mariborski OK;B;;;;;143;;143;143
 Smrekar;Peter;OK Tivoli;B;1:21:34;20;142;;-;142;142;142
 Vuga Seljak;Alenka;OK Komenda;B;1:23:10;21;137;;;137;137;137
 Šumečki;Janez;Rod Jezerski zmaj Velenje;B;;;;;129;;129;129
 Erznožnik;Matic;OK Azimut;B;1:28:27;22;126;;;126;126;126
-Špenko;Zala;IndividualsNo Club;B;1:49:19;23;100;;;100;100;100
+Špenko;Zala;ind.;B;1:49:19;23;100;;;100;100;100
 Grad;Jaka;OK Tivoli;B;mp;;;;;-;0;0
 Korelc;Benjamin;OK Komenda;C;0:14:47;1;111;;;111;111;111
 Jurca;Maja;OK Tivoli;C;;;;;107;;107;107
@@ -88,7 +88,7 @@ Miklavec;Sara;OK Tivoli;C;;;;106;;;106;106
 Casagrande;Aleksander;OK Tivoli;C;;;;106;;;106;106
 Zupan;Lara;OK Komenda;C;0:15:32;2;105;;;105;105;105
 Zupan;Romana;OK Komenda;C;0:15:44;3;103;;;103;103;103
-Plavčak;Ana;ŠOK;C;;;;;103;;103;103
+Plavčak;Ana;OK Polaris;C;;;;;103;;103;103
 Dovč;Rebeka;OK Tivoli;C;0:16:05;4;100;;;100;100;100
 Andrej;Kolenc;OK Komenda;C;;;;;98;;98;98
 Hernec;Rok;OK Tivoli;C;0:16:22;5;97;;;97;97;97

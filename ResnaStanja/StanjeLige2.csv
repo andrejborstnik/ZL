@@ -29,10 +29,10 @@ Ravnikar;Monika;OK Komenda;A;1:27:08;18;673;;673;673;673
 Eržen;Boris;OK Polaris;A;1:36:56;21;567;;567;567;567
 Smrekar;Peter;OK Tivoli;A;;;;488;;488;488
 Kavčič;Matjaž;OK Komenda;A;mp;;;;-;0;0
-Plavčak;Luka;ŠOK;A;mp;;;;-;0;0
+Plavčak;Luka;OK Polaris;A;mp;;;;-;0;0
 Mirnik;Jona;OK Komenda;A;mp;;;;-;0;0
 Pistor;Matej;Mariborski OK;B;0:46:41;1;366;;366;366;366
-Hribernik;Matej;IndividualsNo Club;B;0:50:02;2;343;;343;343;343
+Hribernik;Matej;ind.;B;0:50:02;2;343;;343;343;343
 Foški;Tajda;OK Polaris;B;0:50:57;3;335;;335;335;335
 Golja;Elio;OK Polaris;B;0:52:29;4;324;;324;324;324
 Miklavec;Sara;OK Tivoli;B;;;;303;;303;303
@@ -41,7 +41,7 @@ Kunc;Robert;OK Tivoli;B;0:59:04;7;285;;285;285;285
 Černe;Aljaž;OK Tivoli;B;0:59:04;7;285;;285;285;285
 Pogačar;Ana Pia;OK Komenda;B;1:02:59;8;267;;267;267;267
 Dovč;Katja;OK Tivoli;B;1:05:44;9;255;;255;255;255
-Čopi;Gašper;IndividualsNo Club;B;1:10:18;10;238;;238;238;238
+Čopi;Gašper;ind.;B;1:10:18;10;238;;238;238;238
 Zupan;Gregor;OK Komenda;B;1:11:52;11;231;;231;231;231
 Zavrl;Zala;OK Komenda;B;1:14:23;12;221;;221;221;221
 Jamsek;Klara;OK Komenda;B;1:15:20;13;216;;216;216;216
@@ -51,7 +51,7 @@ Pogačar;Aljoša;OK Komenda;B;1:22:21;16;191;;191;191;191
 Primožič;Patricija;OK Komenda;B;1:29:25;17;175;;175;175;175
 Pretnar;Irma;OK Azimut;B;1:32:42;18;166;;166;166;166
 Šijanec;Ana;OK Komenda;B;1:34:17;19;161;;161;161;161
-Ortar;Miranda;IndividualsNo Club;B;1:36:45;20;154;;154;154;154
+Ortar;Miranda;ind.;B;1:36:45;20;154;;154;154;154
 Strasser;Špela;Mariborski OK;B;1:42:31;21;143;;143;143;143
 Šumečki;Janez;Rod Jezerski zmaj Velenje;B;1:51:00;22;129;;129;129;129
 Jezeršek;Polona;OK Komenda;B;mp;;;;-;0;0
@@ -59,7 +59,7 @@ Smrekar;Peter;OK Tivoli;B;mp;;;;-;0;0
 Jurca;Maja;OK Tivoli;C;0:44:26;1;107;;107;107;107
 Miklavec;Sara;OK Tivoli;C;;;;106;;106;106
 Casagrande;Aleksander;OK Tivoli;C;;;;106;;106;106
-Plavčak;Ana;ŠOK;C;0:45:59;2;103;;103;103;103
+Plavčak;Ana;OK Polaris;C;0:45:59;2;103;;103;103;103
 Andrej;Kolenc;OK Komenda;C;0:47:39;3;98;;98;98;98
 Kunc;Matevž;OK Tivoli;C;0:54:19;4;86;;86;86;86
 Dovč;Maj;OK Tivoli;C;;;;84;;84;84

@@ -1,6 +1,6 @@
 ﻿Dovč;Jan;OK Tivoli;A;1169
 Piltaver;Jaka;OK Brežice;A;1200
-Štanfel;Matjaž;OK Ris;A;1300
+Štanfel;Matjaž;OK Ris Delnice;A;1300
 Neve;Jasmin;OK Komenda;A;1000
 Šumečki;Žan Luka;OK Tivoli;A;1050
 Zorman;Jernej;OK Komenda;A;1109
@@ -199,10 +199,10 @@ Strnad;Andreja;OK Tivoli;B;242
 Sedej;Vlado;OK Azimut;B;232
 Kavčič;Domen;OK Komenda;B;209
 Hacin Kölner;Irena;OK Komenda;B;186
-K U Š A R;Barbarain Žiga;IndividualsNo Club;B;182
+Kušar;Barbarain Žiga;IndividualsNo Club;B;182
 Čižman;Bernard;OT ŽŽD;B;360
 Ferluga;Peter;SSD Gaja;B;357
-Nelson;Charlie;HOC;B;349
+Nelson;Charles;OK Azimut;B;349
 Žnidaršič;Urban;IndividualsNo Club;B;341
 Mattioni;Flavio;Semiperdo Maniago;B;336
 Kete;Jana;PD Ajdovščina;B;167
@@ -231,7 +231,6 @@ Germani;Marko;SSD Gaja;B;276
 Ghersi;Giorgio;Orienteering Trieste;B;271
 Bočina;Igor;OK Azimut;B;268
 Pradolin;Alessandro;ASD SEMIPERDO ORIENTEERING MANIAGO;B;267
-Nelson;Charles;Harlequins OC;B;265
 Vodopivec;Samo;OK Azimut;B;257
 Sturni;Matteo;ORIENTEERING TRIESTE  ASD;B;257
 Pavšič;Aljaž;OK Azimut;B;257
