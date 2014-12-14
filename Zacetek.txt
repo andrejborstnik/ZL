@@ -38,7 +38,7 @@ Ravnikar;Žan;OK Komenda;A;853
 Lapajne;Janko;OK Azimut;A;621
 Omersa;Dane;OK Azimut;A;792
 Kos;Virgil;OK Tivoli;A;750
-Plavčak;Ana;OK Azimut;A;537
+Plavčak;Ana;ŠOK;A;537
 Anderluh;Gregor;OK Polaris;A;1023
 Foški;Mojca;OK Polaris;A;676
 Černe;Aljaž;KRK Sova Scott Team;A;675
@@ -185,7 +185,7 @@ Stanonik;Simon;OK Azimut;B;338
 Škvarč;Sašo;PD Ajdovščina;B;225
 Juvan;Neža;IndividualsNo Club;B;225
 Močnik;Matic;OK Azimut;B;332
-Plavčak;Ana;OK Azimut;B;219
+Plavčak;Ana;ŠOK;B;219
 Špenko;Magda;OK Komenda;B;217
 Bogataj;Mark;OK Azimut;B;318
 Trček;Petra;OK Azimut;B;204
@@ -246,7 +246,7 @@ Rupnik;Blažka;OK Azimut;B;229
 Insinga;Livio;SSD Gaja  Sezione Orientamento;B;224
 Poljanšek;Katjuša;OK Azimut;B;224
 Ursa;Begus;OK Azimut;B;223
-Plavčak;Luka;OK Polaris;B;219
+Plavčak;Luka;ŠOK;B;219
 Jerman;Paolo;ORIENTEERING TRIESTE  ASD;B;216
 Jöbstl;Gerhard;OLC Graz;B;214
 Pradolin;Paolo;ASD SEMIPERDO ORIENTEERING MANIAGO;B;211

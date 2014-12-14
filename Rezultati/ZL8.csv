@@ -1,0 +1,37 @@
+﻿@SI
+Surname;First name;Time;Pl;Classifier;Cl. Name;City;Short;km;m;Course Controls
+Zorman;Jernej;0:33:19;1;0;OK Komenda;OK Komenda;A;6,1;;26
+Dovč;Jan;0:37:24;2;0;OK Tivoli;OK Tivoli ;A;6,1;;26
+Borštnik ;Andrej;0:41:18;3;0;OK Tivoli;OK Tivoli;A;6,1;;26
+Hribernik;Matej;0:44:04;4;0;Individual;Individual;A;6,1;;26
+Omersa;Dane;0:47:30;5;0;Individual;Individual;A;6,1;;26
+Flašker ;Ajda;0:48:29;6;0;OK Komenda;OK Komenda;A;6,1;;26
+Flerin;Mojca;0:49:24;7;0;Kamniški OK;Kamniški OK;A;6,1;;26
+Pirnat ;Luka;0:50:05;8;0;Individual;Individual;A;6,1;;26
+Korošec ;Janez;0:53:01;9;0;Pustolovec Rajd;Pustolovec Rajd;A;6,1;;26
+Foški;Valter;0:53:24;10;0;OK Polaris;OK Polaris;A;6,1;;26
+Pribakovič Borštnik;Ana;0:54:56;11;0;OK Tivoli;OK Tivoli;A;6,1;;26
+Kos;Virgil;0:56:28;12;0;OK Tivoli;OK Tivoli;A;6,1;;26
+Kos;Janez Elija;0:57:00;13;0;OK Tivoli;OK Tivoli;A;6,1;;26
+Zupančič;Maja;1:02:29;14;0;RJZ;RJZ;A;6,1;;26
+Borštnik ;Aleš;1:04:17;15;0;OK Tivoli;OK Tivoli;A;6,1;;26
+Foški;Brina;1:04:25;16;0;OK Polaris;OK Polaris;A;6,1;;26
+Ravnikar;Monika;1:05:15;17;0;OK Komenda;OK Komenda;A;6,1;;26
+Brenčič;Žiga;1:07:29;18;0;OK Komenda;OK Komenda;A;6,1;;26
+Kastelic;Simon;1:07:40;19;0;Individual;Individual;A;6,1;;26
+Čerin;Aleš;1:14:32;20;0;OK Tivoli;OK Tivoli;A;6,1;;26
+Maček;Marjan;mp;21;0;Individual;Individual;A;6,1;;26
+Golja;Elio;0:36:10;1;0;OK Polaris;OK Polaris;B;4,3;;23
+Dovč;Katja;0:51:10;2;0;OK Tivoli;OK Tivoli;B;4,3;;23
+Vuga Seljak;Alenka;0:53:20;3;0;OK Komenda;OK Komenda;B;4,3;;23
+Peternelj;Maja;0:53:21;4;0;Individual;Individual;B;4,3;;23
+Seljak;Borut;0:57:07;5;0;OK Komenda;OK Komenda;B;4,3;;23
+Kušar;Žiga;1:07:29;6;0;Individual;Individual;B;4,3;;23
+Kušar;Barbara;1:09:33;7;0;Individual;Individual;B;4,3;;23
+Lapajne;Janko;mp;8;0;OK Azimut;OK Azimut;B;4,3;;23
+Kos;Bernard;0:20:30;1;0;OK Tivoli;OK Tivoli;C;2,4;;6
+Seljak;Luka;0:24:46;2;0;OK Komenda;OK Komenda;C;2,4;;6
+Hribernik;Matevž;0:33:24;3;0;Individual;Individual;C;2,4;;6
+Oberč;Veronika;0:45:19;4;0;OK Tivoli;OK Tivoli;C;2,4;;6
+Kos;Terezija;0:49:20;5;0;OK Tivoli;OK Tivoli;C;2,4;;6
+Kos;Mojzes;1:00:50;6;0;OK Tivoli;OK Tivoli;C;2,4;;6
