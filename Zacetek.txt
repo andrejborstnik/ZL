@@ -7,7 +7,7 @@ Neve;Jasmin;OK Komenda;A;1000
 Zorman;Jernej;OK Komenda;A;1109
 Tušar;Peter;OK Azimut;A;1100
 Petrovič;Dušan;OK Polaris;A;1010
-Flerin;Mojca;OK Komenda;A;996
+Flerin;Mojca;Kamniški OK;A;996
 Kölner;Blaž;OK Komenda;A;989
 Kenda;Klemen;OK Azimut;A;978
 Čerin;Boštjan;OK Tivoli;A;967
@@ -15,7 +15,7 @@ Kenda;Klemen;OK Azimut;A;978
 Kos;Janez Elija;OK Tivoli;A;929
 Pribaković Borštnik;Ana;OK Tivoli;A;844
 Zmrzlikar;Jure;OK Komenda;A;1050
-Pretnar;Janez;OK Azimut;A;1034
+Pretnar;Janez;Kamniški OK;A;1034
 Čufer;Stanko;PD Ajdovščina;A;812
 Zupan;Aleš;OK Polaris;A;805
 Škarabot;Matej;OK Polaris;A;796
@@ -42,7 +42,7 @@ Kos;Virgil;OK Tivoli;A;750
 Plavčak;Ana;ŠOK;A;537
 Anderluh;Gregor;OK Polaris;A;1023
 Foški;Mojca;OK Polaris;A;676
-Černe;Aljaž;KRK Sova Scott Team;A;675
+Černe;Aljaž;OK Tivoli;A;675
 Pavšič;Aljaž;OK Azimut;A;1003
 Nagy;Ivan;DROT;A;994
 Stanonik;Simon;OK Azimut;A;954
@@ -55,12 +55,12 @@ Pizzamus;Paolo;SSD Gaja;A;912
 Cimerman;Janez;OK Azimut;A;898
 Primožič;Aljoša;OK Azimut;A;877
 Jurca;Matej;OK Tivoli;A;853
-Šumečki;Janez;RJZ Velenje;A;561
+Šumečki;Janez;ind.;A;561
 Kmetič;Sandi;OK Polaris;A;823
 Sedej;Vlado;OK Azimut;A;545
 Rebolj;Aljoša;OK Polaris;A;778
-Hribernik;Matej;IndividualsNo Club;A;777
-Pretnar;Tanja;OK Azimut;A;757
+Hribernik;Matej;ind.;A;777
+Pretnar;Tanja;Kamniški OK;A;757
 Jeram;Nuša;OK Azimut;A;718
 Šalamun;Jan;OK Polaris;A;714
 Radovan;Dalibor;OK Polaris;A;698
@@ -83,7 +83,7 @@ Kolman;Miran;OK Azimut;A;962
 Beke;Matej;OK Azimut;A;962
 Draksler;Matjaž;OK Polaris;A;958
 Guizzardi;Michela;CUS BOLOGNA ASD;A;956
-Seppi;Andrea;ASD SEMIPERDO ORIENTEERING MANIAGO;A;953
+Seppi;Andrea;SEMIPERDO MANIAGO;A;953
 Elija Kos;Janez;OK Tivoli;A;925
 Kolner;Blaž;OK Komenda;A;913
 Čufer;Ana;PD Ajdovščina;A;911
@@ -95,10 +95,10 @@ Tarabocchia;Cesare;GR OR CAI XXX OTTOBRE ASD;A;879
 Kacin;Emil;OK Azimut;A;877
 Močnik;Matic;OK Azimut;A;873
 Čižman;Bernard;IndividualsNo Club;A;866
-Giacchetto;Alessandro;ASD SEMIPERDO ORIENTEERING MANIAGO;A;864
+Giacchetto;Alessandro;SEMIPERDO MANIAGO;A;864
 Šalamun;Mira;OK Polaris;A;861
 Predonzani;Livio;CAI XXX Ottobre;A;855
-Zambiasi;Clizia;ASD SEMIPERDO ORIENTEERING MANIAGO;A;855
+Zambiasi;Clizia;SEMIPERDO MANIAGO;A;855
 Pogačar;Aljoša;OK Komenda;A;840
 Zonato;Stefano;ASD LESSINIA ORIENTEERING BOSCO CHIESANUOVA;A;836
 Rivetta;Andrea;Semiperdo Maniago;A;818
@@ -110,7 +110,7 @@ Harej;Daša;PD Ajdovščina;A;798
 Kavčič;Matjaž;OK Komenda;A;787
 Blaž;Matic;OK Komenda;A;787
 Leoni;Gianluca;SSD Gaja;A;778
-Kuzmin;Anka;ASD SEMIPERDO ORIENTEERING MANIAGO;A;775
+Kuzmin;Anka;SEMIPERDO MANIAGO;A;775
 Žnidaric;Andrej;IndividualsNo club;A;775
 Scolini;Camilla;PUNTO K ORIENTEERING ASD;A;771
 Brenčič;Žiga;OK Komenda;A;755
@@ -184,7 +184,7 @@ Primožič;Patricija;OK Komenda;B;173
 Foški;Tajda;OK Polaris;B;345
 Stanonik;Simon;OK Azimut;B;338
 Škvarč;Sašo;PD Ajdovščina;B;225
-Juvan;Neža;IndividualsNo Club;B;225
+Juvan;Neža;ind.;B;225
 Močnik;Matic;OK Azimut;B;332
 Plavčak;Ana;ŠOK;B;219
 Špenko;Magda;OK Komenda;B;217
@@ -207,7 +207,7 @@ Nelson;Charles;OK Azimut;B;349
 Žnidaršič;Urban;IndividualsNo Club;B;341
 Mattioni;Flavio;Semiperdo Maniago;B;336
 Kete;Jana;PD Ajdovščina;B;167
-Pretnar;Irma;OK Azimut;B;166
+Pretnar;Irma;Kamnišli OK;B;166
 Bauci;Gabriele;PUNTO K ORIENTEERING ASD;B;327
 Kristan;Martin;OK Komenda;B;323
 Kušar;Barbarain Žiga;ind.;B;162
@@ -231,7 +231,7 @@ Pipolo;Giulio;SSD Gaja  Sezione Orientamento;B;280
 Germani;Marko;SSD Gaja;B;276
 Ghersi;Giorgio;Orienteering Trieste;B;271
 Bočina;Igor;OK Azimut;B;268
-Pradolin;Alessandro;ASD SEMIPERDO ORIENTEERING MANIAGO;B;267
+Pradolin;Alessandro;SEMIPERDO MANIAGO;B;267
 Vodopivec;Samo;OK Azimut;B;257
 Sturni;Matteo;ORIENTEERING TRIESTE  ASD;B;257
 Pavšič;Aljaž;OK Azimut;B;257
@@ -250,10 +250,10 @@ Ursa;Begus;OK Azimut;B;223
 Plavčak;Luka;ŠOK;B;219
 Jerman;Paolo;ORIENTEERING TRIESTE  ASD;B;216
 Jöbstl;Gerhard;OLC Graz;B;214
-Pradolin;Paolo;ASD SEMIPERDO ORIENTEERING MANIAGO;B;211
+Pradolin;Paolo;SEMIPERDO MANIAGO;B;211
 Simonič;Matjaž;PD Ajdovščina;B;201
 Korelc;Mihala;OK Komenda;B;198
-Simonelli;Maria Elena;ASD SEMIPERDO ORIENTEERING MANIAGO;B;198
+Simonelli;Maria Elena;SEMIPERDO MANIAGO;B;198
 Kofol;Tristan;ind.;B;188
 Anderluh;Marija;OK Polaris;B;188
 Mantovani;Antonella;SCI CLUB UDINE ASD;B;187
