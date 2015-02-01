@@ -66,7 +66,7 @@ Mrak;Tibor;OK Azimut;A;;;;;;;;;;;;1116;;;;;;;;1116;1116
 Rojc;Iztok;OK Polaris;A;;;;;;;;;;;;1038;;;;;;;;1038;1038
 Piltaver;Jaka;OK Brežice;A;0:52:43;4;1031;;;;;;;;;;;;;;;;1031;1031;1031
 Lapajne;Jošt;OK Azimut;A;;;;;;;;;1018;;;;;-;;;;;;1018;1018
-Soban;Matic;ind.;A;0:55:31;7;994;;;;;;;;;;;;;;;;994;994;994
+Soban;Matic;Planinsko Društvo Ajdovščina;A;0:55:31;7;994;;;;;;;;;;;;;;;;994;994;994
 Hvala;Gregor;OK Azimut;A;;;;;;;;;;;;;;978;;;;;;978;978
 Anderluh;Gregor;OK Polaris;A;;;;;;;;;;;;;;977;;;;;;977;977
 Bartulovich;Lorenzo;SSD Gaja  Sezione Orientamento;A;;;;;;;;;;;;;;;;;922;;;922;922
@@ -181,7 +181,7 @@ Korelc;Mihala;OK Komenda;B;1:11:25;16;218;;211;232;;;-;203;;-;;161;;-;;;218;1025
 Foški;Tajda;OK Polaris;B;;;;;335;250;;;;366;;;;;;;;;;951;317
 Kunc;Gregor;OK Tivoli;B;;;;;207;;;;;106;;;282;321;;-;;;;916;229
 Lapajne;Janko;OK Azimut;B;0:50:23;3;345;;;;;;221;;-;;;;;;286;;345;852;284
-Pretnar;Irma;Kamnišli OK;B;1:27:12;17;176;;166;169;;;;165;;155;;;;;;;176;831;166
+Pretnar;Irma;Kamniški OK;B;1:27:12;17;176;;166;169;;;;165;;155;;;;;;;176;831;166
 Predonzani;Livio;G O Cai XXX Ottobre ASD;B;;;;;;;;;;;;342;;;;;441;;;783;392
 Hacin Kölner;Irena;OK Komenda;B;;;;;;;;;;;;;;316;221;220;;;;757;252
 Foschian;Andrea;Semiperdo Orienteering Maniago;B;;;;;;;321;;;;;;;;;;419;;;740;370
@@ -203,20 +203,20 @@ Collodet;Stefano;FRIULI MTB ORIENTEERING ASD;B;;;;;;;;;;;;;;;;;404;;;404;404
 Mosca;Massimo;G O Cai XXX Ottobre ASD;B;;;;;;;;;;;;-;;;;;390;;;390;390
 Kušar;Žiga;Druzina KUSAR;B;;;;;;;;;;;167;215;;;;;;;;382;191
 Visintin;Federica;Semiperdo Orienteering Maniago;B;;;;;;;206;;;;;;;;;;171;;;377;188
-Ortar;Miranda;ind.;B;;;;;154;;;;218;;;;;;;;;;;372;186
+Ortar;Miranda;OK Azimut;B;;;;;154;;;;218;;;;;;;;;;;372;186
 Kos;Virgil;OK Tivoli;B;;;;;;369;;;;;;;;;;;;;;369;369
 Pistor;Matej;Mariborski OK;B;;;;;366;;;;;;;;;;;;;;;366;366
 Pradolin;Alessandro;SEMIPERDO MANIAGO;B;;;;;;;;;;;;;;;;;358;;;358;358
 Vuga Seljak;Alenka;OK Komenda;B;;;;;;137;;;;-;218;;;;;-;;;;355;178
 Felchero;Mauro;FRIULI MTB ORIENTEERING ASD;B;;;;;;;;;;;;;;;;;353;;;353;353
-Kacin;Vojko;ind.;B;0:50:23;3;345;;;;;;;;;;;;;;;;345;345;345
+Kacin;Vojko;OK Azimut;B;0:50:23;3;345;;;;;;;;;;;;;;;;345;345;345
 Kenda;Klemen;OK Azimut;B;;;;;;;;;345;;;;;;;-;;;;345;345
-Kacin;Emil;ind.;B;0:50:23;3;345;;;;;;;;;;;;;;;;345;345;345
+Kacin;Emil;OK Azimut;B;0:50:23;3;345;;;;;;;;;;;;;;;;345;345;345
 Hribernik;Matej;ind.;B;;;;;343;;;;;;;;;;;;;;;343;343
 Gantar;Lara;OK Azimut;B;;;;;;;;;;339;;;;;;;;;;339;339
 Plavčak;Luka;ŠOK;B;;;;;;;;;;;;;;-;;;338;;;338;338
 Germani;Marko;SSD Gaja;B;;;;;;;;;;;;;;;;;335;;;335;335
-Urša;Tomažin;ind.;B;0:50:45;6;334;;;;;;;;;;;;;;;;334;334;334
+Urša;Tomažin;OK Azimut;B;0:50:45;6;334;;;;;;;;;;;;;;;;334;334;334
 K U S A R;Ziga;Druzina KUSAR;B;;;;;;;;;;;;;-;329;-;;;;;329;329
 Anderluh;Luka;OK Polaris;B;;;;;;;;;;;;;;324;;;;;;324;324
 Kreft;Gašper;ind.;B;;;;;;;;;;;;;;;;;;321;;321;321
@@ -224,7 +224,7 @@ Tabakovič;Benjamin;ind.;B;;;;;;;;;;;;;;;;;;321;;321;321
 Šijanec;Ana;OK Komenda;B;;;;;161;;;;;;;;;158;;-;;;;319;160
 Mattioni;Flavio;Semiperdo Maniago;B;;;;;;;;;;;;;;;;;316;;;316;316
 Vegelj;Nace;OK Azimut;B;;;;;;;;;310;;;;;;;;;;;310;310
-Beguš;Urša;ind.;B;0:53:32;9;309;;;;;;;;;;;;;;;;309;309;309
+Beguš;Urša;OK Azimut;B;0:53:32;9;309;;;;;;;;;;;;;;;;309;309;309
 Miklavec;Sara;OK Tivoli;B;;;;303;;;;;;;;;;;;;;;;303;303
 Ghersi;Giorgio;Orienteering Trieste;B;;;;;;;;;;;;;;;;;303;;;303;303
 Bonfiglioli;Leonardo;SSD Gaja;B;;;;;;;;;;;;;;;;;300;;;300;300
@@ -319,8 +319,8 @@ Jurca;Maja;OK Tivoli;C;;;;;107;;;;;;;;;;;;;;;107;107
 Miklavec;Sara;OK Tivoli;C;;;;106;;;;;;;;;;;;;;;;106;106
 Kos;Bernard;OK Tivoli;C;;;;;;;;;;;106;;;;;;;;;106;106
 Casagrande;Aleksander;OK Tivoli;C;;;;106;;;;;;;;;;;;;;;;106;106
-Cotič;Gaja;ind.;C;0:42:03;3;104;;;;;;;;;;;;;;;;104;104;104
-Koradin;Elena;ind.;C;0:42:03;3;104;;;;;;;;;;;;;;;;104;104;104
+Cotič;Gaja;Planinsko Društvo Ajdovščina;C;0:42:03;3;104;;;;;;;;;;;;;;;;104;104;104
+Koradin;Elena;Planinsko Društvo Ajdovščina;C;0:42:03;3;104;;;;;;;;;;;;;;;;104;104;104
 Zupan;Romana;OK Komenda;C;;;;;;103;;;;;;;;;;;;;;103;103
 De Luisa;Veronika;SSD Gaja  Sezione Orientamento;C;;;;;;;;;;;;;;;;;101;;;101;101
 Kušar;Katarina;OK Polaris;C;;;;;;;101;;;;;;;;;;;;;101;101

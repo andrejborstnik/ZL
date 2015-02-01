@@ -207,7 +207,7 @@ Nelson;Charles;OK Azimut;B;349
 Žnidaršič;Urban;IndividualsNo Club;B;341
 Mattioni;Flavio;Semiperdo Maniago;B;336
 Kete;Jana;PD Ajdovščina;B;167
-Pretnar;Irma;Kamnišli OK;B;166
+Pretnar;Irma;Kamniški OK;B;166
 Bauci;Gabriele;PUNTO K ORIENTEERING ASD;B;327
 Kristan;Martin;OK Komenda;B;323
 Kušar;Barbarain Žiga;ind.;B;162

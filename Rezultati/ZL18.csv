@@ -1,5 +1,5 @@
 ﻿@SI
-Surname;First name;Time;Pl;Classifier;Cl.name;City;Short;km;m;Course controls
+Surname;First name;Time;Pl;Classifier;City;Cl.name;Short;km;m;Course controls
 Zorman;Jernej;0:0:230;1;0;OK Komenda;;A;;;
 Stanonik;Simon;0:0:250;2;0;OK Azimut;;A;;;
 Tušar;Peter;0:0:250;2;0;OK Azimut;;A;;;
@@ -51,7 +51,7 @@ Strnad;Andreja;0:0:390;4;0;OK Tivoli;;C;;;
 Dovč;Rebeka;0:0:390;4;0;OK Tivoli;;C;;;
 Zupan;Tilen;0:0:400;6;0;OK Komenda;;C;;;
 Seljak;Luka;0:0:400;6;0;OK Komenda;;C;;;
-Nika;Ravnikar;0:0:420;8;0;OK Komenda;;C;;;
+Ravnikar;Nika;0:0:420;8;0;OK Komenda;;C;;;
 Poljanšek;Nika;0:0:420;8;0;OK Azimut;;C;;;
 Plavčak;Ana;0:0:500;10;0;ŠOK;;C;;;
 Zupan;Lara;0:0:500;10;0;OK Komenda;;C;;;

@@ -257,7 +257,10 @@ def rezultati(st_lige,stanjeLige):
                     else:
                         pass            
                     colnum+=1
-                ok=int(ok)
+                if ok == "":
+                    ok = 0
+                else:
+                    ok=int(ok)
                 if cas1:
                     if ok in [2,3,4]:
                         cas='mp'
@@ -341,10 +344,12 @@ def rezultati(st_lige,stanjeLige):
                     klub1='OK Azimut'
                 elif ime1=='Ivo'and priimek1=='Kette':
                     priimek1='Kete'
+##                elif priimek == "Kacin":
+##                    print(klub)
 ##                elif priimek == "Plavčak":
 ##                    print(klub)
                 #print(ime, priimek, klub)
-                a={'mokmariborskiok':'Mariborski OK','kamniskiokkok': 'Kamniški OK','scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sok':'ŠOK'}
+                a={'mokmariborskiok':'Mariborski OK','kamniskiokkokkamniskiorientacijskiklub': 'Kamniški OK','scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sok':'ŠOK'}
                 ind=[' ','','ind','ind.','individual','Individuals/No Club', 'IndividualsNo Club', 'IndividualsNo club', 'Individual', 'Individuals']
                 for kl in a.keys():
                     if presledki(sumniki(klub1).lower()) in kl and presledki(sumniki(klub1).lower()):
