@@ -5,9 +5,9 @@ def pretvori(niz):
         if niz:
             b+=niz[0]+niz[1:].lower()+' '
     return b[:-1]
-with open('ZL14a.txt','r',encoding='utf-8') as f:
-    with open('ZL14a.csv','w',encoding='utf-8')as g:
-        kat='C'
+with open('ZL20a.txt','r',encoding='utf-8') as f:
+    with open('ZL20a.csv','w',encoding='utf-8')as g:
+        kat='A'
         g.write('@SI\n')
         g.write('Pl.;First name;Surname;Time;Short;City;Classifier;\n')
         for i in f:
@@ -38,13 +38,12 @@ with open('ZL14a.txt','r',encoding='utf-8') as f:
                 if mesto and mesto[0]=='\ufeff':
                     mesto=mesto[1:]
                 g.write(mesto+';'+ime+';'+priimek+';'+cas+';'+kat+';'+klub+';'+clas+';\n')
-            elif kat=='C':
+            elif kat=='A':
                 kat='B'
             elif kat=='B':
-                kat='A'
-            elif kat=='A':
+                kat='C'
+            elif kat=='C':
                 kat='Skupine'
-            elif kat=='Skupine':
-                kat='Otroci'
+
                 
             

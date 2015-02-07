@@ -1,0 +1,148 @@
+﻿1;Zorman Jernej;Orientacijski klub Komenda;00.41.30;100,000
+2;Mukhidinov Serhiy;U.S. ALDO MORO A.S.D.;00.47.21;76,817
+3;Tibor Mrak;OK Azimut;00.49.40;69,818
+4;Močnik Rok;OK Azimut;00.55.27;56,014
+5;Bogataj Mark;OK Azimut;00.57.24;52,272
+6;De Luisa Andraľ;SSD Gaja - Sezione Orientamento;00.57.51;51,462
+7;Stanonik Simon;OK Azimut;00.58.17;50,700
+8;Poljansek Ales;OK Azimut;00.58.27;50,411
+9;Bartulovich Lorenzo;SSD Gaja - Sezione Orientamento;00.59.28;48,702
+10;Pacasso Alessandro;SCI CLUB UDINE A.S.D.;01.02.25;44,207
+11;Skarabot Matej;OK Polaris;01.03.53;42,201
+12;Močnik Silvij;OK Azimut;01.04.37;41,248
+13;Kenda Klemen;OK Azimut;01.06.53;38,500
+14;Skarabot Miha;OK Polaris;01.08.31;36,686
+15;Pizzamus Paolo;SSD Gaja - Sezione Orientamento;01.09.14;35,931
+16;Kete Ivo;PD Ajdovščina;01.09.26;35,724
+17;Leoni Gianluca;SSD Gaja - Sezione Orientamento;01.10.58;34,197
+18;Cufer Stanko;PD Ajdovščina;01.11.44;33,470
+19;Ruini Luca;PUNTO K ORIENTEERING ASD;01.13.17;32,069
+20;Zonato Stefano;Puolangan Ryhti;01.13.25;31,953
+21;Giacometti Carlo;SSD Gaja - Sezione Orientamento;01.13.32;31,851
+22;Rivetta Andrea;A.S.D. SEMIPERDO ORIENTEERING MANIAGO;01.14.36;30,947
+23;Tremul Michael;PUNTO K ORIENTEERING ASD;01.15.44;30,028
+24;Fontanot Daniele;PUNTO K ORIENTEERING ASD;01.16.25;29,493
+25;Cafagna Michele;ORIENTEERING TRIESTE - A.S.D.;01.19.04;27,549
+26;Ferluga Peter;SSD Gaja - Sezione Orientamento;01.19.57;26,944
+27;Sylvester Mark;UWC ADRIATIC ORIENTEERING CLUB;01.20.02;26,888
+28;Bernardi Andrea;PUNTO K ORIENTEERING ASD;01.20.20;26,687
+29;Erznožnik Matic;OK Azimut;01.20.36;26,511
+30;Kacin Vojko;OK Azimut;01.21.06;26,185
+31;De Luisa Marko;SSD Gaja - Sezione Orientamento;01.29.33;21,477
+32;Clemente Mauro;SSD Gaja - Sezione Orientamento;01.31.30;20,571
+33;Siega Gianfranco;SSD Gaja - Sezione Orientamento;01.40.30;17,052
+1;Flasker Ajda;Orientacijski klub Komenda;01.00.52;100,000
+2;Neve Jasmine;Orientacijski klub Komenda;01.01.01;99,509
+3;Ravnikar Monika;Orientacijski klub Komenda;01.09.06;77,589
+4;Sepin Chiara;SSD Gaja - Sezione Orientamento;01.09.08;77,515
+5;Gantar Lara;OK Azimut;01.09.50;75,968
+6;Nuša Jeram;OK Azimut;01.10.22;74,821
+7;Kuzmin Anka;A.S.D. SEMIPERDO ORIENTEERING MANIAGO;01.17.46;61,259
+8;Zacchigna Serena;ORIENTEERING TRIESTE - A.S.D.;01.17.55;61,024
+9;Hechich Marirosa;A.S.D. SEMIPERDO ORIENTEERING MANIAGO;01.22.04;55,008
+10;Gaion Sara;ORIENTEERING TRIESTE - A.S.D.;01.40.41;36,546
+-;Ravnikar ¦an;Orientacijski klub Komenda;Punz. Mancante;0,000
+
+
+1;Mosca Massimo;GR. OR. CAI XXX OTTOBRE ASD;00.35.46;100,000
+2;Foschian Andrea;A.S.D. SEMIPERDO ORIENTEERING MANIAGO;00.38.09;87,896
+3;Rodman Maks;PD Ajdovščina;00.39.17;82,897
+4;Ongaro Marco;U.S. PRIMIERO A.S.D.;00.40.34;77,735
+5;Soban Matic;PD Ajdovščina;00.41.30;74,278
+6;Pogačar Aljoša;Orientacijski klub Komenda;00.41.34;74,040
+7;Larotella Roberto;ORIENTEERING TRIESTE - A.S.D.;00.42.54;69,509
+8;Borut Seljak;Orientacijski klub Komenda;00.43.07;68,812
+9;Di Bartolomeo Antonio;PUNTO K ORIENTEERING ASD;00.45.02;63,080
+10;Felchero Mauro;"FRIULI MTB &amp; ORIENTEERING A.S.D.";00.45.53;60,764
+11;Cereatti Roberto;"FRIULI MTB &amp; ORIENTEERING A.S.D.";00.48.38;54,086
+12;Močnik Nejc;OK Azimut;00.49.14;52,776
+13;Ghersi Giorgio;ORIENTEERING TRIESTE - A.S.D.;00.49.25;52,385
+14;Zupan Gregor;Orientacijski klub Komenda;00.52.11;46,978
+15;Sepin Claudio;SSD Gaja - Sezione Orientamento;00.55.42;41,233
+16;Ruzzier Fiorenzo;SSD Gaja - Sezione Orientamento;00.56.07;40,623
+17;Zuffi Nicol;A.S.D. SEMIPERDO ORIENTEERING MANIAGO;00.56.32;40,027
+18;Mosolo Fabrizio;SCI CLUB UDINE A.S.D.;00.57.25;38,804
+19;Fontanot Luca;PUNTO K ORIENTEERING ASD;00.58.14;37,724
+20;Covacich Roberto;SSD Gaja - Sezione Orientamento;01.02.40;32,575
+21;Jerman Paolo;ORIENTEERING TRIESTE - A.S.D.;01.08.25;27,330
+22;Mazreku Agim;UWC ADRIATIC ORIENTEERING CLUB;01.13.45;23,520
+23;Valente Sebastiano;PUNTO K ORIENTEERING ASD;01.15.51;22,235
+24;Harutyunyan Margar;UWC ADRIATIC ORIENTEERING CLUB;01.15.53;22,216
+25;Poldrugo Pierpaolo;GR. OR. CAI XXX OTTOBRE ASD;01.35.31;14,022
+26;Sponza Andrea;SSD Gaja - Sezione Orientamento;01.55.03;9,665
+-;Mancini Marco;ORIENTEERING TRIESTE - A.S.D.;Punz. Mancante;0,000
+1;De Cristini Chiara;SSD Gaja - Sezione Orientamento;00.38.42;100,000
+2;Jerman Michela;ORIENTEERING TRIESTE - A.S.D.;00.44.18;76,316
+3;Mantovani Antonella;SCI CLUB UDINE A.S.D.;00.44.31;75,575
+4;Korelc Mihala;Orientacijski klub Komenda;00.44.49;74,566
+5;Tadina Elisabetta;ORIENTEERING TRIESTE - A.S.D.;00.45.08;73,524
+6;Grabar Cristina;U.S. PRIMIERO A.S.D.;00.45.16;73,091
+7;Lipužič Marjeta;Orientacijski klub Komenda;00.46.01;70,728
+8;Pogačar Ana Pia;Orientacijski klub Komenda;00.46.39;68,821
+9;Seljak Alenka Vuga;Orientacijski klub Komenda;00.50.09;59,550
+10;Poljansek Nika;OK Azimut;00.53.35;52,163
+11;Simonelli Maria Elena;A.S.D. SEMIPERDO ORIENTEERING MANIAGO;00.53.53;51,584
+12;Visintin Federica;A.S.D. SEMIPERDO ORIENTEERING MANIAGO;00.57.11;45,802
+13;Ruini Cristina;PUNTO K ORIENTEERING ASD;01.01.35;39,491
+14;Kemppainen Sara Sisko Anneli;UWC ADRIATIC ORIENTEERING CLUB;01.06.10;34,209
+15;Lunardis Sara;PUNTO K ORIENTEERING ASD;01.06.13;34,158
+16;Deka Zoe Evelyn;UWC ADRIATIC ORIENTEERING CLUB;01.07.51;32,533
+17;Favretto Luana;ORIENTEERING TRIESTE - A.S.D.;01.09.31;30,992
+18;Degrassi Michela;PUNTO K ORIENTEERING ASD;01.11.51;29,011
+19;Bertoli Fiammetta;PUNTO K ORIENTEERING ASD;01.14.56;26,673
+20;De Monte Tiziana;GR. OR. CAI XXX OTTOBRE ASD;01.33.49;17,016
+21;Kovac Marija;PD Ajdovščina;01.37.42;15,690
+22;Predan Sonia;SCI CLUB UDINE A.S.D.;01.53.24;11,647
+-;Tarabocchia Francesca;GR. OR. CAI XXX OTTOBRE ASD;Punz. Errata;0,000
+-;Primožič Patricija;Orientacijski klub Komenda;Punz. Mancante;0,000
+
+1;De Eccher Stefano;SCI CLUB UDINE A.S.D.;00.12.25;100,000
+2;Furlani Alfredo;GR. OR. CAI XXX OTTOBRE ASD;00.18.35;44,644
+3;Chiocca Davide;GRUPPO OR. CAI MONFALCONE;00.18.42;44,089
+4;Gregoric Nik;PD Ajdovščina;00.19.36;40,133
+-;Kalc Kristjan;SSD Gaja - Sezione Orientamento;Punz. Errata;0,000
+1;Cafagna Elisa;ORIENTEERING TRIESTE - A.S.D.;00.15.25;100,000
+2;Ravnikar Nika;Orientacijski klub Komenda;00.15.52;94,408
+3;De Luisa Veronika;SSD Gaja - Sezione Orientamento;00.19.01;65,722
+4;Rajgelj Chiara;SSD Gaja - Sezione Orientamento;00.19.59;59,518
+5;Degiorgi Rossella;PUNTO K ORIENTEERING ASD;00.20.42;55,468
+6;Basund Karina Lisboa;UWC ADRIATIC ORIENTEERING CLUB;00.21.48;50,011
+7;Margiore Manuela;ORIENTEERING TRIESTE - A.S.D.;00.27.23;31,696
+8;Ive Ambra;PUNTO K ORIENTEERING ASD;00.30.45;25,136
+9;Privato Arianna ;PUNTO K ORIENTEERING ASD;00.31.42;23,652
+10;Jarc Vlasta;GRUPPO OR. CAI MONFALCONE;00.31.43;23,627
+11;Motta Paola;GR. OR. CAI XXX OTTOBRE ASD;00.37.47;16,649
+12;Donini Adriana;SSD Gaja - Sezione Orientamento;00.39.37;15,143
+13;Sinigaglia Antonella;SSD Gaja - Sezione Orientamento;00.43.49;12,379
+14;Canziani Nataša;SSD Gaja - Sezione Orientamento;00.54.48;7,914
+-;Savaris Nunes Fernanda;UWC ADRIATIC ORIENTEERING CLUB;Punz. Errata;0,000
+-;Romero Agustina;UWC ADRIATIC ORIENTEERING CLUB;Punz. Errata;0,000
+
+1;Carli Luka;SSD Gaja - Sezione Orientamento;00.20.26;100,000
+2;Gaio Gabriele;SSD Gaja - Sezione Orientamento;00.20.51;96,043
+3;Jenco Andrea;PUNTO K ORIENTEERING ASD;00.21.28;90,604
+4;Cesca Ginevra;ORIENTEERING TRIESTE - A.S.D.;00.21.40;88,939
+5;Cesca Lucrezia;ORIENTEERING TRIESTE - A.S.D.;00.21.50;87,587
+6;Pitacco Cristina;Senza Societ;00.23.53;73,196
+7;Petejan Blaz;SSD Gaja - Sezione Orientamento;00.24.50;67,703
+8;Pavli¬ Gregor;SSD Gaja - Sezione Orientamento;00.24.57;67,071
+9;Petejan Ema;SSD Gaja - Sezione Orientamento;00.25.45;62,969
+10;Travan Mariagiulia;GR. OR. CAI XXX OTTOBRE ASD;00.27.31;55,143
+11;Delise Marina;ORIENTEERING TRIESTE - A.S.D.;00.31.20;42,527
+12;Candotti Enrico;ORIENTEERING TRIESTE - A.S.D.;00.32.33;39,407
+13;Fratnik Elias;ORIENTEERING TRIESTE - A.S.D.;00.33.42;36,764
+14;Luschemani Antonella;ORIENTEERING TRIESTE - A.S.D.;00.34.03;36,012
+15;Musarra Lorenzo;ORIENTEERING TRIESTE - A.S.D.;00.34.30;35,078
+16;Lo Duca Giacomo;PUNTO K ORIENTEERING ASD;00.36.25;31,483
+17;Apollonio Daniele;GR. OR. CAI XXX OTTOBRE ASD;00.36.39;31,084
+18;Kuzmin Branko;Senza Societ;00.37.49;29,195
+19;Cernigoj Amina;PUNTO K ORIENTEERING ASD;00.37.52;29,118
+20;Iogna Prat Filippo;PUNTO K ORIENTEERING ASD;00.38.40;27,926
+21;Balbi Ruben;PUNTO K ORIENTEERING ASD;00.40.56;24,919
+22;Corsucci Caterina;ORIENTEERING TRIESTE - A.S.D.;00.46.42;19,145
+23;Sturni Matteo;ORIENTEERING TRIESTE - A.S.D.;00.46.46;19,090
+24;Buttignol Elisa;PUNTO K ORIENTEERING ASD;00.49.28;17,063
+25;Cossina Luca;PUNTO K ORIENTEERING ASD;00.55.52;13,377
+26;Chiapolino Luca;PUNTO K ORIENTEERING ASD;00.56.39;13,010
+27;Giudici Gabriele;ORIENTEERING TRIESTE - A.S.D.;01.35.29;4,580
+-;Rocco Rachele;Senza Societ;Punz. Mancante;0,000

@@ -107,7 +107,7 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
         for x,y in stanjeLigeA:
             seznam=[]
             for i,j in stanjeLigeA[(x,y)].items():
-                if i in [k for k in range(1,20)] and j[1]!='-' and j[1]>0:
+                if i in [k for k in range(1,st_tekme+1)] and j[1]!='-' and j[1]>0:
                     seznam.append(j[1])
             seznam.sort()
             seznam=seznam[::-1]
@@ -149,7 +149,7 @@ def izracunLigeB(rezultatiTekme,st_tekme,stanjeLigeB={},IP=1):
         for x,y in stanjeLigeA:
             seznam=[]
             for i,j in stanjeLigeA[(x,y)].items():
-                if i in [k for k in range(1,20)] and j[1]!='-':
+                if i in [k for k in range(1,st_tekme+1)] and j[1]!='-':
                     seznam.append(j[1])
             seznam.sort()
             seznam=seznam[::-1]
@@ -193,7 +193,7 @@ def izracunLigeC(rezultatiTekme,st_tekme,stanjeLigeC={},IP=1):
         for x,y in stanjeLigeA:
             seznam=[]
             for i,j in stanjeLigeA[(x,y)].items():
-                if i in [k for k in range(1,20)] and j[1]!='-':
+                if i in [k for k in range(1,st_tekme+1)] and j[1]!='-':
                     seznam.append(j[1])
             seznam.sort()
             seznam=seznam[::-1]
@@ -349,12 +349,15 @@ def rezultati(st_lige,stanjeLige):
 ##                elif priimek == "Plavčak":
 ##                    print(klub)
                 #print(ime, priimek, klub)
-                a={'mokmariborskiok':'Mariborski OK','kamniskiokkokkamniskiorientacijskiklub': 'Kamniški OK','scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sok':'ŠOK'}
+                a={'mokmariborskiok':'Mariborski OK','kamniskiokkokkamniskiorientacijskiklub': 'Kamniški OK','scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscinaplaninskodrustvoajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sokskofjeloskiokskofjeloskiorientacijskiklub':'ŠOK'}
                 ind=[' ','','ind','ind.','individual','Individuals/No Club', 'IndividualsNo Club', 'IndividualsNo club', 'Individual', 'Individuals']
-                for kl in a.keys():
-                    if presledki(sumniki(klub1).lower()) in kl and presledki(sumniki(klub1).lower()):
-                        klub1=a[kl]
-                        break
+                if sumniki(klub1).lower() == "sok":
+                    klub1 = "ŠOK"
+                else:
+                    for kl in a.keys():
+                        if presledki(sumniki(klub1).lower()) in kl and presledki(sumniki(klub1).lower()):
+                            klub1=a[kl]
+                            break
                 if kategorija== "A":
                     if klub1 in ind:
                         klub1='ind.'       
