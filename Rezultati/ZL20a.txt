@@ -43,7 +43,6 @@
 10;Gaion Sara;ORIENTEERING TRIESTE - A.S.D.;01.40.41;36,546
 -;Ravnikar ¦an;Orientacijski klub Komenda;Punz. Mancante;0,000
 
-
 1;Mosca Massimo;GR. OR. CAI XXX OTTOBRE ASD;00.35.46;100,000
 2;Foschian Andrea;A.S.D. SEMIPERDO ORIENTEERING MANIAGO;00.38.09;87,896
 3;Rodman Maks;PD Ajdovščina;00.39.17;82,897
