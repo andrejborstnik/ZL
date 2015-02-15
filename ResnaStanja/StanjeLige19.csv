@@ -74,7 +74,7 @@ Rojc;Iztok;OK Polaris;A;;;;;;;;;;;;1038;;;;;;;;;;;1038;1038
 Piltaver;Jaka;OK Brežice;A;;;;;;;;;;;;;;;;;;;1031;;;;1031;1031
 Pietsch;Werner;Naturfreunde  Wien;A;;;;;;;;;;;;;;;;;;;;1028;;;1028;1028
 Lapajne;Jošt;OK Azimut;A;;;;;;;;;1018;;;;;-;;;;;;;;;1018;1018
-Soban;Matic;Planinsko Društvo Ajdovščina;A;;;;;;;;;;;;;;;;;;;994;;;;994;994
+Soban;Matic;PD Ajdovščina;A;;;;;;;;;;;;;;;;;;;994;;;;994;994
 Hvala;Gregor;OK Azimut;A;;;;;;;;;;;;;;978;;;;;;;;;978;978
 Anderluh;Gregor;OK Polaris;A;;;;;;;;;;;;;;977;;;;;;;;;977;977
 Kostanjevec;Matej;Mariborski OK;A;;;;;;;;;;;;;;;;;;;;972;;;972;972
@@ -163,7 +163,7 @@ Proske;Herwig;OCFF;A;;;;;;;;;;;;;;;;;;;;553;;;553;553
 Mikložič;Primož;Mariborski OK;A;;;;;;;;;;;;;;;;;;;;552;;;552;552
 Zacchigna;Serena;ORIENTEERING TRIESTE  ASD;A;;;;;;;;;;;;;;;;;545;;;;;;545;545
 Gaion;Sara;ORIENTEERING TRIESTE  ASD;A;;;;;;;;;;;;;;;;;543;;;;;;543;543
-Plavčak;Luka;OK Polaris;A;;;;;-;;;;;;;;;;529;;;;;;;;529;529
+Plavčak;Luka;ŠOK;A;;;;;-;;;;;;;;;;529;;;;;;;;529;529
 De Luisa;Andraž;SSD Gaja;A;;;;;;;;;;;;;;524;;;;;;;;;524;524
 Vukajlovič;Vladan;OK Azimut;A;;;;;;;515;;;;;;;;;;;;;;;;515;515
 Smrekar;Peter;OK Tivoli;A;;;;488;;;;;;;;;;;;;;;;;;;488;488
@@ -364,7 +364,7 @@ Blaha;Franz;HSV Graz;B;;;;;;;;;;;;;;;;;;;;68;;;68;68
 Zupan;Tilen;OK Komenda;C;0:49:37;1;103;;79;-;;;;106;;;106;;94;108;;;;;98;103;521;104
 Dovč;Rebeka;OK Tivoli;C;1:17:21;3;65;;;100;107;105;;;;;;;;;;;;;102;65;479;96
 Seljak;Luka;OK Komenda;C;;;;;;83;;;;36;88;96;;;;83;;;86;;98;;451;90
-Plavčak;Ana;OK Polaris;C;;;;;103;;;;101;;;;;;;43;81;;;;75;;403;81
+Plavčak;Ana;ŠOK;C;;;;;103;;;;101;;;;;;;43;81;;;;75;;403;81
 Zupan;Lara;OK Komenda;C;1:10:48;2;72;;;105;;;;29;;;21;;43;59;;;;;75;72;354;71
 Krkoč;Urban;PD Ajdovščina;C;;;;;;;;;;33;;113;;;32;;54;;104;;;;336;67
 Gregorič;Nik;PD Ajdovščina;C;;;;;;;;;;;;111;;;35;;40;;86;;;;272;68
@@ -390,8 +390,8 @@ Miklavec;Sara;OK Tivoli;C;;;;106;;;;;;;;;;;;;;;;;;;106;106
 Kos;Bernard;OK Tivoli;C;;;;;;;;;;;106;;;;;;;;;;;;106;106
 Seidl;Andreas;OCFF;C;;;;;;;;;;;;;;;;;;;;106;;;106;106
 Casagrande;Aleksander;OK Tivoli;C;;;;106;;;;;;;;;;;;;;;;;;;106;106
-Cotič;Gaja;Planinsko Društvo Ajdovščina;C;;;;;;;;;;;;;;;;;;;104;;;;104;104
-Koradin;Elena;Planinsko Društvo Ajdovščina;C;;;;;;;;;;;;;;;;;;;104;;;;104;104
+Cotič;Gaja;PD Ajdovščina;C;;;;;;;;;;;;;;;;;;;104;;;;104;104
+Koradin;Elena;PD Ajdovščina;C;;;;;;;;;;;;;;;;;;;104;;;;104;104
 Zupan;Romana;OK Komenda;C;;;;;;103;;;;;;;;;;;;;;;;;103;103
 Eberle;Wolf;HSV Aigen;C;;;;;;;;;;;;;;;;;;;;101;;;101;101
 De Luisa;Veronika;SSD Gaja  Sezione Orientamento;C;;;;;;;;;;;;;;;;;101;;;;;;101;101

@@ -26,8 +26,8 @@ with open('zacetek.txt',encoding='utf-8') as f:
 st_tekem=0
 IP = 1
 for st_lige in range(1,22):
-    if st_lige == 22:
-        IP = 1.15
+    if st_lige == 21:
+        IP = 1.1
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
         c=rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
         stanjeLigeA=izracunLigeA(c['A'],st_lige,stanjeLigeA, IP)
