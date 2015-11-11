@@ -22,6 +22,7 @@ with open('zacetek.txt',encoding='utf-8') as f:
                 stanjeLigeC[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
         k=1
 
+
 #print(stanjeLigeA)
 st_tekem=0
 IP = 1
