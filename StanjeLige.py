@@ -20,6 +20,8 @@ with open('zacetek.txt',encoding='utf-8') as f:
                 stanjeLigeB[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
             elif kat=='C':
                 stanjeLigeC[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
+##            elif kat == "Test":
+##                stanjeLigeT[(sumniki(ime),sumniki(priimek))]={'ime':ime,'priimek':priimek,'klub':klub,0:[0,tocke,False]}
         k=1
 
 #print(stanjeLigeA)
@@ -30,7 +32,8 @@ for st_lige in range(1,22):
         IP = 1.1
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
         c=rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
-        stanjeLigeA=izracunLigeA(c['A'],st_lige,stanjeLigeA, IP)
+        for rezultati_kat in c['A'].values():
+            stanjeLigeA=izracunLigeA(rezultati_kat,st_lige,stanjeLigeA, IP)
         stanjeLigeB=izracunLigeB(c['B'],st_lige,stanjeLigeB, IP)
         stanjeLigeC=izracunLigeC(c['C'],st_lige,stanjeLigeC, IP)
         st_tekem+=1

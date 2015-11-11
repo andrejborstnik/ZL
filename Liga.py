@@ -213,7 +213,7 @@ def izracunLigeC(rezultatiTekme,st_tekme,stanjeLigeC={},IP=1):
 
 def rezultati(st_lige,stanjeLige):
     #Vrne rezultate tekme v slovarju oblike {'A':rezultatiTekmeA,...}.
-    rezultatiTekmeA={}
+    rezultatiTekmeA={0: {}}
     rezultatiTekmeB={}
     rezultatiTekmeC={}
     import csv
@@ -358,7 +358,7 @@ def rezultati(st_lige,stanjeLige):
                         if presledki(sumniki(klub1).lower()) in kl and presledki(sumniki(klub1).lower()):
                             klub1=a[kl]
                             break
-                if kategorija== "A":
+                if kategorija[0]== "A": ## will allow for multiple categories merged into A
                     if klub1 in ind:
                         klub1='ind.'       
                     if (ime1,priimek1) not in stanjeLige['A']:
@@ -366,7 +366,13 @@ def rezultati(st_lige,stanjeLige):
                     elif stanjeLige['A'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
                         stanjeLige['A'][(ime1,priimek1)]['klub']=klub1
                     if cas!='dns':
-                        rezultatiTekmeA[(ime1,priimek1)]=cas
+                        if len(kategorija) == 1:
+                            kje = 0
+                        else:
+                            kje = int(kategorija[1:])
+                        if kje > 0 and rezultatiTekmeA.get(kje, None) == None:
+                            rezultatiTekmeA[kje] = {}
+                        rezultatiTekmeA[kje][(ime1,priimek1)] = cas ## will allow for multiple categories merged into A
                 elif kategorija== "B":
                     if klub1 in ind:
                         klub1='ind.'
