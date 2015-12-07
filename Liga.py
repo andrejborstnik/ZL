@@ -139,8 +139,9 @@ def izracunLigeB(rezultatiTekme,st_tekme,stanjeLigeB={},IP=1):
                     if seznamCasov[i]==(rezultatiTekme[(x,y)][0])*3600+(rezultatiTekme[(x,y)][1])*60+rezultatiTekme[(x,y)][2]:
                         mesto=len(seznamCasov)-i
                         break
-            
-                stanjeLigeB[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],round(3*((len(seznamCasov)-mesto+1+100*casNajboljsega/((rezultatiTekme[(x,y)][0])*3600+(rezultatiTekme[(x,y)][1])*60+rezultatiTekme[(x,y)][2]))*IP)),mesto]
+                thisRez = (rezultatiTekme[(x,y)][0])*3600+(rezultatiTekme[(x,y)][1])*60+rezultatiTekme[(x,y)][2]
+                stanjeLigeB[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],
+                                                                round(3*((len(seznamCasov)-mesto+1+100*casNajboljsega/min(thisRez, casNajboljsega + thisRez))*IP)),mesto]
             else:
                 stanjeLigeB[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],'-']
                 
@@ -218,6 +219,7 @@ def rezultati(st_lige,stanjeLige):
     rezultatiTekmeC={}
     import csv
     kodiranje='utf-8'
+    score = False
     with open('./Rezultati/ZL'+str(st_lige)+'.csv',encoding=kodiranje) as f:
         reader=csv.reader(f)
         rownum=0
@@ -267,25 +269,32 @@ def rezultati(st_lige,stanjeLige):
                     elif ok==1:
                         cas='dns'
                     else:
-                        cas=['','','']
-                        st_dvopicij=0
-                        for y in cas1:
-                            if y!=':'and y!='"':
-                                cas[st_dvopicij]+=str(y)
-                            elif y=='"':
-                                pass
-                            else:
-                                st_dvopicij+=1
-                        if cas[2]=='':
-                            cas[2]=cas[1]
-                            cas[1]=cas[0]
-                            cas[0]=str(0)
-                        cas=[int(cas[0]),int(cas[1]),int(cas[2])]
-                if cas1 and cas not in ['mp','dns']:
+                        if not ':' in cas1:
+                            cas = [0,0,int(cas1)]
+                            if score == False:
+                                score = True
+                                print("Vklopljen score na tekmi {0}.".format(st_lige))
+                        else:
+                            cas=['','','']
+                            st_dvopicij=0
+                            for y in cas1:
+                                if y!=':'and y!='"':
+                                    cas[st_dvopicij]+=str(y)
+                                elif y=='"':
+                                    pass
+                                else:
+                                    st_dvopicij+=1
+                            if cas[2]=='':
+                                cas[2]=cas[1]
+                                cas[1]=cas[0]
+                                cas[0]=str(0)
+                            cas=[int(cas[0]),int(cas[1]),int(cas[2])]
+                
+                if cas1 and cas not in ['mp','dns'] and len(cas) > 1:
                     for i in range(2,0,-1):
                         if cas[i]>=60:
                             cas[i-1]=cas[i-1]+cas[i]//60
-                            cas[i]=cas[i]%60                       
+                            cas[i]=cas[i]%60
                 a=''
                 for i in klub:
                     if i.isalpha() or i==' ':
@@ -349,7 +358,7 @@ def rezultati(st_lige,stanjeLige):
 ##                elif priimek == "Plavčak":
 ##                    print(klub)
                 #print(ime, priimek, klub)
-                a={'mokmariborskiok':'Mariborski OK','kamniskiokkokkamniskiorientacijskiklub': 'Kamniški OK','scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscinaplaninskodrustvoajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sokskofjeloskiokskofjeloskiorientacijskiklub':'ŠOK'}
+                a={'semiperdoorienteeringmaniagosemiperdomaniago':'Semiperdo Orienteering Maniago','mokmariborskiok':'Mariborski OK','kamniskiokkokkamniskiorientacijskiklub': 'Kamniški OK','scommendrisio':'SCOM Mendriso','rodjezerskizmaj':'RJZ Velenje','ssdgaja':'SSD Gaja','orientacijskiklubkomendaokkomenda':'OK Komenda','pdajdovscinaplaninskodrustvoajdovscina':'PD Ajdovščina','orientacijskiklubazimutokazimut':'OK Azimut', 'orientacijskiklubbreziceokbrezice':'OK Brežice','orientacijskiklubperkmandeljcokperkmandeljc':'OK Perkmandeljc','orientacijskiklubpolarisokpolaris':'OK Polaris','orientacijskiklubslovenjgradecokslovenjgradec':'OK Slovenj Gradec','orientacijskiklubslovenskekonjiceokslovenskekonjice':'OK Slovenske Konjice','orientacijskiklubtivolioktivoli':'OK Tivoli','orientacijskiklubtrzinoktrzin':'OK Trzin','rjzvelenje':'RJZ Velenje','sokskofjeloskiokskofjeloskiorientacijskiklub':'ŠOK'}
                 ind=[' ','','ind','ind.','individual','Individuals/No Club', 'IndividualsNo Club', 'IndividualsNo club', 'Individual', 'Individuals']
                 if sumniki(klub1).lower() == "sok":
                     klub1 = "ŠOK"
@@ -399,8 +408,8 @@ def rezultati(st_lige,stanjeLige):
                     pass
             rownum+=1
     rezultatiTekme={'A':rezultatiTekmeA,'B':rezultatiTekmeB,'C':rezultatiTekmeC}
-    return rezultatiTekme
-def vCsv(stanjeLige,st_tekem):
+    return rezultatiTekme, score
+def vCsv(stanjeLige,st_tekem, score = False):
     with open('./Stanja_racunana/StanjeLige'+str(st_tekem)+'.csv','w+',encoding='utf-8') as f:
         f.write('Surname;First name;City;Class;Time;Pl;Points')
         for i in range(1,st_tekem +1):
@@ -425,16 +434,19 @@ def vCsv(stanjeLige,st_tekem):
                     elif stanjeLige[k][x,y].get(st_tekem,None)==None:
                         f.write(stanjeLige[k][x,y]['priimek']+';'+stanjeLige[k][x,y]['ime']+';'+str(stanjeLige[k][x,y]['klub'])+';'+k+';'+''+';'+''+';'+'')
                     elif stanjeLige[k][x,y][st_tekem][0] not in ['mp','dns']:
-                        cas=''
-                        podpicja=0
-                        for j in range(3):
-                            for i in str(stanjeLige[k][x,y][st_tekem][0][j]):
-                                if len(str(stanjeLige[k][x,y][st_tekem][0][j]))<2 and j!=0:
-                                    cas+='0'
-                                cas+=i
-                            podpicja+=1
-                            if podpicja!=3:
-                                    cas+=':'
+                        if score and k != "C":
+                            cas = str(abs(stanjeLige[k][x,y][st_tekem][0][2]))
+                        else:
+                            cas=''
+                            podpicja=0
+                            for j in range(3):
+                                for i in str(stanjeLige[k][x,y][st_tekem][0][j]):
+                                    if len(str(stanjeLige[k][x,y][st_tekem][0][j]))<2 and j!=0:
+                                        cas+='0'
+                                    cas+=i
+                                podpicja+=1
+                                if podpicja!=3:
+                                        cas+=':'
                         f.write(stanjeLige[k][x,y]['priimek']+';'+stanjeLige[k][x,y]['ime']+';'+str(stanjeLige[k][x,y]['klub'])+';'+k+';'+cas+';'+str(stanjeLige[k][x,y][st_tekem][2])+';'+str(stanjeLige[k][x,y][st_tekem][1]))
                     elif stanjeLige[k][x,y][st_tekem][0]=='mp':
                         f.write(stanjeLige[k][x,y]['priimek']+';'+stanjeLige[k][x,y]['ime']+';'+str(stanjeLige[k][x,y]['klub'])+';'+k+';'+stanjeLige[k][x,y][st_tekem][0]+';'+''+';'+'')
@@ -458,14 +470,17 @@ def vCsv(stanjeLige,st_tekem):
                     elif stanjeLige[k][x,y].get(st_tekem,None)==None:
                         f.write(stanjeLige[k][x,y]['priimek']+';'+stanjeLige[k][x,y]['ime']+';'+''+';'+k+';'+''+';'+''+';'+'')
                     elif stanjeLige[k][x,y][st_tekem][0]!='mp':
-                        cas=''
-                        podpicja=0
-                        for j in range(3):
-                            for i in str(stanjeLige[k][x,y][st_tekem][0][j]):
-                                cas+=i
-                            podpicja+=1
-                            if podpicja!=3:
-                                cas+=':'
+                        if score and k != "C":
+                            cas = stanjeLige[k][x,y][st_tekem][0][2]
+                        else:
+                            cas=''
+                            podpicja=0
+                            for j in range(3):
+                                for i in str(stanjeLige[k][x,y][st_tekem][0][j]):
+                                    cas+=i
+                                podpicja+=1
+                                if podpicja!=3:
+                                    cas+=':'
                         f.write(stanjeLige[k][x,y]['priimek']+';'+stanjeLige[k][x,y]['ime']+';'+''+';'+k+';'+str(cas)+';'+str(stanjeLige[k][x,y][st_tekem][2])+';'+str(stanjeLige[k][x,y][st_tekem][1]))
                     elif stanjeLige[k][x,y][st_tekem][0]=='mp':
                         f.write(stanjeLige[k][x,y]['priimek']+';'+stanjeLige[k][x,y]['ime']+';'+''+';'+k+';'+stanjeLige[k][x,y][st_tekem][0]+';'+''+';'+'')

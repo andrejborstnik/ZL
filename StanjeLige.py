@@ -31,7 +31,7 @@ for st_lige in range(1,22):
     if st_lige == 21:
         IP = 1.1
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
-        c=rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
+        c,score = rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
         for rezultati_kat in c['A'].values():
             stanjeLigeA=izracunLigeA(rezultati_kat,st_lige,stanjeLigeA, IP)
         stanjeLigeB=izracunLigeB(c['B'],st_lige,stanjeLigeB, IP)
@@ -41,7 +41,7 @@ for st_lige in range(1,22):
         #mankajociKlubi(stanjeLigeB)
         #mankajociKlubi(stanjeLigeC)
         stanjeLige={'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC}
-        vCsv(stanjeLige,st_tekem)
+        vCsv(stanjeLige,st_tekem, score)
 
 if path.isfile('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv'):
     g=open('ZL_2015_2016.csv','w+',encoding='utf-8')

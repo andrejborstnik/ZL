@@ -1,4 +1,4 @@
-Zorman;Jernej;OK Komenda;A;1250
+﻿Zorman;Jernej;OK Komenda;A;1250
 Dovč;Jan;OK Tivoli;A;1200
 Hribar;Andraž;OK Brežice;A;1250
 Šumečki;Žan Luka;OK Tivoli;A;1150
@@ -54,7 +54,7 @@ Pizzamus;Paolo;SSD Gaja;A;808
 Štanfel;Matjaž;OK Ris Delnice;A;1154
 Jurca;Matej;OK Tivoli;A;756
 Pretnar;Tanja;Kamniški OK;A;748
-Kuzmin;Anka;SEMIPERDO MANIAGO;A;712
+Kuzmin;Anka;Semiperdo Orienteering Maniago;A;712
 Zupančič;Maja;RJZ Velenje;A;526
 Kmetič;Sandi;OK Polaris;A;954
 Bartulovich;Lorenzo;SSD Gaja  Sezione Orientamento;A;933
