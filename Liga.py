@@ -140,8 +140,12 @@ def izracunLigeB(rezultatiTekme,st_tekme,stanjeLigeB={},IP=1):
                         mesto=len(seznamCasov)-i
                         break
                 thisRez = (rezultatiTekme[(x,y)][0])*3600+(rezultatiTekme[(x,y)][1])*60+rezultatiTekme[(x,y)][2]
+                if thisRez <= 0:
+                    thisRez = thisRez / casNajboljsega
+                else:
+                    thisRez = casNajboljsega / thisRez
                 stanjeLigeB[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],
-                                                                round(3*((len(seznamCasov)-mesto+1+100*casNajboljsega/min(thisRez, casNajboljsega + thisRez))*IP)),mesto]
+                                                                round(3*((len(seznamCasov)-mesto+1+100*thisRez)*IP)),mesto]
             else:
                 stanjeLigeB[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],'-']
                 
@@ -270,7 +274,7 @@ def rezultati(st_lige,stanjeLige):
                         cas='dns'
                     else:
                         if not ':' in cas1:
-                            cas = [0,0,int(cas1)]
+                            cas = [0,0,-abs(int(cas1))]
                             if score == False:
                                 score = True
                                 print("Vklopljen score na tekmi {0}.".format(st_lige))
