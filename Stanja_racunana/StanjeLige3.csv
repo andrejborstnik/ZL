@@ -151,11 +151,11 @@ Stojan;Petra;ind.;B;9;20;112;;;112;112;112
 Bogataj;Natasa;ind.;B;7;21;87;;;87;87;87
 Špenko;Zala;ind.;B;6;22;73;;;73;73;73
 Babic;Katja;ind.;B;mp;;;;;-;0;0
-Zupan;Tilen;OK Komenda;C;0:12:50;1;118;;;118;118;118
+Zupan;Tilen;OK Komenda;C;50;1;118;;;118;118;118
 Seljak;Luka;OK Komenda;C;;;;115;;;115;115
 Seljak;Jaka;OK Komenda;C;;;;113;;;113;113
 Makuc;Bor;OK Azimut;C;;;;105;;;105;105
-Rant;Nace;ind.;C;0:14:44;2;104;;;104;104;104
+Rant;Nace;ind.;C;44;2;104;;;104;104;104
 Bratož;Jani;PD Ajdovščina;C;;;;101;;;101;101
 Pagon;Matija;PD Ajdovščina;C;;;;98;;;98;98
 Maiti;Matija;PD Ajdovščina;C;;;;98;;;98;98
@@ -166,24 +166,24 @@ Zabukovec;Zala;PD Ajdovščina;C;;;;83;;;83;83
 Taljat;Jaka;OK Azimut;C;;;;81;;;81;81
 Šorli;Blaž C K;OK Azimut;C;;;;62;;;62;62
 Stepančič Podvršček;Žiga;OK Azimut;C;;;;57;;;57;57
-Dolenc;Masa;ind.;C;0:31:31;3;57;;;57;57;57
-Dolenc;Anja;ind.;C;0:31:43;4;55;;;55;55;55
+Dolenc;Masa;ind.;C;31;3;57;;;57;57;57
+Dolenc;Anja;ind.;C;43;4;55;;;55;55;55
 Šorli;Neža;OK Azimut;C;;;;51;;;51;51
-Sedej;David;ind.;C;0:42:37;5;44;;;44;44;44
-Kepic;Lara;ind.;C;0:43:22;6;43;;;43;43;43
+Sedej;David;ind.;C;37;5;44;;;44;44;44
+Kepic;Lara;ind.;C;22;6;43;;;43;43;43
 Šorli;Blaž B D;OK Azimut;C;;;;42;;;42;42
-Zupan;Lara;OK Komenda;C;0:54:24;7;36;;;36;36;36
-Rant;Neza;ind.;C;0:56:53;8;34;;;34;34;34
-Velkov;Leon;ind.;C;1:07:23;9;29;;;29;29;29
-Bruder;Enej;ind.;C;1:08:23;10;28;;;28;28;28
-Bacnik;Karin;ind.;C;1:11:54;11;26;;;26;26;26
-Pandza;Slavko;ind.;C;1:12:19;12;25;;;25;25;25
-Pandza;Masa;ind.;C;1:13:08;13;24;;;24;24;24
-Langerholc;Matjaz;ind.;C;1:21:30;14;21;;;21;21;21
-Langerkolc;Teja;ind.;C;1:22:40;15;20;;;20;20;20
-Langerholc;Tina;ind.;C;1:23:39;16;18;;;18;18;18
-Dovč;Rebeka;OK Tivoli;C;26:22:00;17;3;;;3;3;3
-Sekulic;Lara;ind.;C;31:29:00;18;2;;;2;2;2
+Zupan;Lara;OK Komenda;C;24;7;36;;;36;36;36
+Rant;Neza;ind.;C;53;8;34;;;34;34;34
+Velkov;Leon;ind.;C;23;9;29;;;29;29;29
+Bruder;Enej;ind.;C;23;10;28;;;28;28;28
+Bacnik;Karin;ind.;C;54;11;26;;;26;26;26
+Pandza;Slavko;ind.;C;19;12;25;;;25;25;25
+Pandza;Masa;ind.;C;8;13;24;;;24;24;24
+Langerholc;Matjaz;ind.;C;30;14;21;;;21;21;21
+Langerkolc;Teja;ind.;C;40;15;20;;;20;20;20
+Langerholc;Tina;ind.;C;39;16;18;;;18;18;18
+Dovč;Rebeka;OK Tivoli;C;0;17;3;;;3;3;3
+Sekulic;Lara;ind.;C;0;18;2;;;2;2;2
 Kunc Rešek;Natalja;ind.;C;mp;;;;;-;0;0
 Malacc;Mila;ind.;C;mp;;;;;-;0;0
 Knez;Matija;ind.;C;mp;;;;;-;0;0

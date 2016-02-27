@@ -5,8 +5,8 @@ def pretvori(niz):
         if niz:
             b+=niz[0]+niz[1:].lower()+' '
     return b[:-1]
-with open('ZL20a.txt','r',encoding='utf-8') as f:
-    with open('ZL20a.csv','w',encoding='utf-8')as g:
+with open('ZL11a.txt','r',encoding='utf-8') as f:
+    with open('ZL11a.csv','w',encoding='utf-8')as g:
         kat='A'
         g.write('@SI\n')
         g.write('Pl.;First name;Surname;Time;Short;City;Classifier;\n')

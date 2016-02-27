@@ -1,0 +1,358 @@
+Surname;First name;City;Class;Time;Pl;Points;ZL1;ZL2;ZL3;ZL4;ZL5;ZL6;ZL7;ZL8;ZL9;ZL10;ZL11;Sum;Average
+Zorman;Jernej;OK Komenda;A;0:36:49;1;1074;1095;1199;1130;;;-;1213;1151;1121;-;1074;5814;1163
+Šumečki;Žan Luka;OK Tivoli;A;;;;;1139;1159;;;1106;874;1050;1033;1080;;5534;1107
+Blaž;Matic;OK Komenda;A;;;;1032;;955;;-;1072;1028;1077;;;;5164;1033
+Kenda;Klemen;OK Azimut;A;0:54:52;3;930;891;706;810;;1016;1021;;980;975;1019;930;5011;1002
+Dovč;Jan;OK Tivoli;A;;;;;1139;1159;;;1132;;1113;;;;4543;1136
+Kolman;Miran;OK Azimut;A;;;;896;1042;897;;;-;;777;761;;;4373;875
+Ravnikar;Monika;OK Komenda;A;1:10:53;11;802;767;859;868;;;861;905;-;;;802;4295;859
+Černe;Aljaž;OK Tivoli;A;;;;831;656;839;;873;;;793;853;866;;4262;852
+Kölner;Blaž;OK Komenda;A;;;;;941;1042;;;1034;;;;1056;;4073;1018
+Flerin;Mojca;Kamniški OK;A;0:51:27;2;957;;1011;;;-;;874;;;1057;957;3899;975
+Jezeršek;Polona;OK Komenda;A;1:01:30;6;877;800;;;;;;;616;751;794;877;3838;768
+Zupan;Gregor;OK Komenda;A;;;;;941;810;;-;742;;595;;670;;3758;752
+Zavrl;Zala;OK Komenda;A;1:13:28;12;781;798;;548;;;620;;687;663;681;781;3610;722
+Ravnikar;Žan;OK Komenda;A;1:01:52;7;874;;860;839;;;;782;-;;;874;3355;839
+Čerin;Boštjan;OK Tivoli;A;;;;900;1093;;;;;;;1011;;;3004;1001
+Škarabot;Miha;OK Polaris;A;;;;;1053;;;963;;;;954;;;2970;990
+Bogataj;Mark;OK Azimut;A;;;;;724;;;975;;;;;1129;;2828;943
+Kunc;Robert;OK Tivoli;A;;;;-;919;693;;;954;;;-;;;2566;855
+Pribaković Borštnik;Ana;OK Tivoli;A;;;;;796;;;;;;;820;855;;2471;824
+Čufer;David;PD Ajdovščina;A;1:17:07;17;752;841;;;;;;;;781;;752;2374;791
+Borštnik;Aleš;OK Tivoli;A;;;;;796;;;;;;;747;798;;2341;780
+Giacometti;Carlo;SSD Gaja;A;1:19:02;21;737;;;;;;;;;865;619;737;2221;740
+Borštnik;Andrej;OK Tivoli;A;;;;;;;;;;;;1049;1113;;2162;1081
+Petrovič;Blaž;OK Polaris;A;;;;;;;;;;1090;;990;;;2080;1040
+Petrovič;Dušan;OK Polaris;A;;;;;;;;;;1121;;907;;;2028;1014
+Omejc;Srečko;ind.;A;;;;;1087;897;;;;;;;;;1984;992
+Sladič;Roman;OK Perkmandeljc;A;1:46:10;38;521;;467;;;;;;;393;599;521;1980;495
+Petrovič;Gašper;OK Polaris;A;;;;;;;;;;997;;946;;;1943;972
+Omejc;Matic;ind.;A;;;;;1086;839;;;;;;;;;1925;962
+Foški;Valter;OK Polaris;A;;;;;994;868;;;;;;;;;1862;931
+Anderluh;Gregor;OK Polaris;A;;;;;922;;;;;;;899;;;1821;910
+Kete;Ivo;PD Ajdovščina;A;mp;;;782;;;;633;;;;342;;-;1757;586
+Borish;Tori;SSDAŠZ GAJA;A;;;;;;;;;;;;943;701;;1644;822
+Rodman;Maks;PD Ajdovščina;A;1:10:45;10;803;745;;;;-;;;;;;803;1548;774
+Čufer;Stanko;PD Ajdovščina;A;;;;761;;;;637;;;;;;;1398;699
+Kacin;Vojko;OK Azimut;A;1:30:19;30;647;667;;;;;;;;;;647;1314;657
+Lapajne;Janko;OK Azimut;A;;;;583;724;;;;;;;;;;1307;654
+Kuzmin;Anka;Semiperdo Orienteering Maniago;A;1:29:10;29;656;635;;;;;;;;;;656;1291;646
+Eržen;Boris;OK Polaris;A;1:25:02;27;689;;;;;;;;;;533;689;1222;611
+Piltaver;Jaka;OK Brežice;A;;;;;1161;;;;;;;;;;1161;1161
+Jevševar;Bojan;OK Brežice;A;;;;;1161;;;;;;;;;;1161;1161
+Tušar;Peter;OK Azimut;A;;;;;;1130;;;;;;;;;1130;1130
+Čerin;Matej;ind.;A;;;;;1093;;;;;;;;;;1093;1093
+Bauman;Ivo;Mariborski OK;A;;;;;1053;;;;;;;;;;1053;1053
+Pretnar;Janez;Kamniški OK;A;;;;;1042;;;;;;;;;;1042;1042
+Kostanjevec;Matej;Mariborski OK;A;;;;;1011;;;;;;;;;;1011;1011
+Šalamun;Miro;OK Polaris;A;;;;;994;;;;;;;;;;994;994
+Hribar;Anica;OK Brežice;A;;;;;970;;;;;;;;;;970;970
+Bogovič;Vid;OK Brežice;A;;;;;969;;;;;;;;;;969;969
+Cukor;Žiga;OK Tivoli;A;;;;;959;;;;;;;;;;959;959
+Jesenko;Matija;OK Tivoli;A;;;;;959;;;;;;;;;;959;959
+Pust;Tomaž;ind.;A;;;;;946;;;;;;;;;;946;946
+Groff;Tomaž;OK Azimut;A;;;;;946;;;;;;;;;;946;946
+Škarabot;Matej;OK Polaris;A;;;;;;;;-;;;;935;;;935;935
+Praper;Tilen;OK Polaris;A;;;;;921;;;;;;;;;;921;921
+Valič;Rok;ind.;A;;;;;919;;;;;;;;;;919;919
+Rivetta;Andrea;Semiperdo Maniago;A;0:58:29;4;901;;;;;-;;;;;;901;901;901
+Roveri;Diego;SSD Gaja  Sezione Orientamento;A;0:59:57;5;889;;;;;;;;;;;889;889;889
+Kos;Janez Elija;OK Tivoli;A;;;;;;;;;879;;;;;;879;879
+Gantar;Tjaž;OK Azimut;A;;;;876;;;;;;;;;;;876;876
+Bernik;Jerca;Rod aragonitnih Kamnitnikov;A;;;;;;;;;;;;;863;;863;863
+Foschian;Andrea;ASD SEMIPERDO ORIENTEERING MANIAGO;A;1:04:33;8;852;;;;;;;;;;;852;852;852
+Močnik;Matic;OK Azimut;A;;;;842;;;;;;;;;;;842;842
+Jazbar;Jožko;OK Azimut;A;;;;839;;;;;;;;;;;839;839
+Zambiasi;Clizia;Semiperdo Orienteering Maniago;A;;;;824;;;;-;;;;;;;824;824
+Ciriani;Alessia;FRIULI MTB amp;A;1:08:21;9;822;;;;;;;;;;;822;822;822
+Hechich;Marirosa;Semiperdo Maniago;A;1:15:18;13;767;;;;;;;;;;;767;767;767
+Gantar;Lara;OK Azimut;A;;;;767;;;;;;;;;;;767;767
+Bernardi;Andrea;PUNTO K ORIENTEERING ASD;A;1:16:07;14;760;;;;;;;;;;;760;760;760
+Albano;Alessia;PUNTO K ORIENTEERING ASD;A;1:16:44;15;755;;;;;;;;;;;755;755;755
+Scarabellotto;Christian;ASD SEMIPERDO ORIENTEERING MANIAGO;A;1:16:58;16;753;;;;;;;;;;;753;753;753
+Taljat;Žiga;OK Azimut;A;;;;749;;;;;;;;;;;749;749
+Sepin;Chiara;SSD Gaja  Sezione Orientamento;A;1:17:33;18;749;;;;;;;;;;;749;749;749
+Zonato;Stefano;ASD LESSINIA ORIENTEERING BOSCO CHIESANUOVA;A;1:18:03;19;745;;;;;;;;;;;745;745;745
+Larotella;Roberto;ORIENTEERING TRIESTE  ASD;A;1:18:26;20;742;;;;;;;;;;;742;742;742
+Cimerman;Janez;OK Azimut;A;;;;732;;;;;;;;;;;732;732
+Pavlič;Gregor;SSD Gaja  Sezione Orientamento;A;1:19:44;22;731;;;;;;;;;;;731;731;731
+Bogataj;Tajda;OK Azimut;A;;;;;723;;;;;;;;;;723;723
+Sedej;Matej;OK Azimut;A;;;;;;;;;;;723;;;;723;723
+Sedej;Vlado;OK Azimut;A;;;;;722;;;;;;;;;;722;722
+Canal;Marta;FRIULI MTB amp;A;1:21:11;23;720;;;;;;;;;;;720;720;720
+Leoni;Gianluca;SSD Gaja;A;1:21:48;24;715;;;;;;;;;;;715;715;715
+Sušnik;Rok;OK Azimut;A;;;;;706;;;;;;;;;;706;706
+Siega;Gianfranco;SSD Gaja;A;1:23:45;25;699;;;;;;;;;;;699;699;699
+Cerar;Gašper;RMT;A;1:24:13;26;696;;;;;;;;;;;696;696;696
+Pretnar;Tanja;Kamniški OK;A;;;;;685;;;;;;;;;;685;685
+Drevenšek;Suzana;Kamniški OK;A;;;;;685;;;;;;;;;;685;685
+Makuc;Mirjam;ŠD Pedal;A;;;;;660;;;;;;;;;;660;660
+Makuc;Aleš;ŠD Pedal;A;;;;;660;;;;;;;;;;660;660
+Bonfiglioli;Leonardo;SSD Gaja  Sezione Orientamento;A;1:28:58;28;658;;;;;;;;;;;658;658;658
+Strnad;Andreja;OK Tivoli;A;;;;;656;;;;;;;;;;656;656
+Kobentar;Katja;Kamniški OK;A;;;;;653;;;;;;;;;;653;653
+Kmetec;Barbara;Kamniški OK;A;;;;;653;;;;;;;;;;653;653
+Kos;Virgil;OK Tivoli;A;;;;;;;;;647;;;;;;647;647
+Rupnik;Ambrož;OK Azimut;A;;;;640;;;;;;;;;;;640;640
+Zupin;Maddalena;PUNTO K ORIENTEERING ASD;A;1:32:35;31;629;;;;;;;;;;;629;629;629
+Gaion;Sara;ORIENTEERING TRIESTE  ASD;A;1:33:30;32;622;;;;;;;;;;;622;622;622
+Callegaro;Antonio;ASD SEMIPERDO ORIENTEERING MANIAGO;A;1:33:35;33;621;;;;;;;;;;;621;621;621
+Gerbec;Nuša;OK Azimut;A;;;;617;;;;;;;;;;;617;617
+Cibin;Irene;PUNTO K ORIENTEERING ASD;A;1:36:23;34;599;;;;;;;;;;;599;599;599
+Cafagna;Michele;ORIENTEERING TRIESTE  ASD;A;1:36:39;35;596;;;;;;;;;;;596;596;596
+Čerin;Aleš;OK Tivoli;A;;;;593;;;;;;;;;;;593;593
+Ruzzier;Diego;PUNTO K ORIENTEERING ASD;A;1:38:08;36;585;;;;;;;;;;;585;585;585
+Rejec;Pavel;OK Azimut;A;;;;580;;;;;;;;;;;580;580
+De Luisa;Marko;SSD Gaja;A;1:41:59;37;554;;;;;;;;;;;554;554;554
+Bončina;Igor;OK Azimut;A;;;;;533;;;;;;;;;;533;533
+Boncina;Abigael Vanessa;OK Azimut;A;;;;;531;;;;;;;;;;531;531
+Žižek;Rok;OK Azimut;A;;;;;510;;;;;;;;;;510;510
+Sotosek;Gorazd;ind.;A;;;;;509;;;;;;;;;;509;509
+Patini;Luca;ASD SEMIPERDO ORIENTEERING MANIAGO;A;1:48:35;39;501;;;;;;;;;;;501;501;501
+Žižek;Saša;OK Azimut;A;;;;;499;;;;;;;;;;499;499
+Butterley;Oliver;SSD Gaja  Sezione Orientamento;A;1:48:54;40;499;;;;;;;;;;;499;499;499
+Sotošek;Katerina;ind.;A;;;;;499;;;;;;;;;;499;499
+Plavčak;Ana;ŠOK;A;;;;;467;;;;;;;;;;467;467
+Giudici;Piero;ORIENTEERING TRIESTE  ASD;A;2:01:05;41;402;;;;;;;;;;;402;402;402
+Šumečki;Janez;OK Tivoli;A;;;;;332;;;;;;;;;;332;332
+Ledinšek;Biserka;ind.;A;;;;;332;;;;;;;;;;332;332
+Degrassi;Michela;PUNTO K ORIENTEERING ASD;A;2:19:34;42;254;;;;;;;;;;;254;254;254
+De Luisa;Monica;SSD Gaja  Sezione Orientamento;A;mp;;;;;;;;;;;;;-;0;0
+Clemente;Mauro;SSD Gaja;A;mp;;;;;;;;;;;;;-;0;0
+Tagliapietra;Giulio;SSD Gaja  Sezione Orientamento;A;mp;;;;;;;;;;;;;-;0;0
+Krivičić;Dragan;OK Perkmandeljc;A;mp;;;;;;;;;;;;;-;0;0
+Pradolin;Alessandro;ASD SEMIPERDO ORIENTEERING MANIAGO;A;mp;;;;;;;;;;;;;-;0;0
+Pogačar;Ana Pia;OK Komenda;B;0:55:58;14;368;360;;281;;;328;;357;319;317;368;1732;346
+Pust;Tomaž;OK Azimut;B;0:54:57;12;378;340;310;344;;;297;312;302;272;337;378;1711;342
+Primožič;Patricija;OK Komenda;B;1:01:02;27;311;304;-;281;;;;;;227;345;311;1468;294
+Boncina;Igor;OK Azimut;B;;;;;182;316;;280;310;242;;316;;;1464;293
+Šumečki;Janez;Rod Jezerski zmaj Velenje;B;;;;;137;369;;;214;312;242;295;-;;1432;286
+Zavrl;Janez;OK Komenda;B;0:55:43;13;372;;;180;;;235;;261;242;265;372;1375;275
+Lapajne;Janko;OK Azimut;B;0:58:49;23;331;;240;264;;183;;;283;;;331;1301;260
+Sušnik;Rok;OK Azimut;B;1:02:54;32;290;;228;264;;-;246;;265;202;233;290;1298;260
+Ravnikar;Nika;OK Komenda;B;1:15:44;42;228;226;;;;;240;3;231;;205;228;1130;226
+Sedej;Vlado;OK Azimut;B;0:59:12;25;323;;237;;;;;;367;;194;323;1121;280
+Vidič;Matej;OK Azimut;B;;;;-;;316;;199;;;248;289;;;1052;263
+Zupan;Romana;OK Komenda;B;;;;;-;230;;188;257;;125;;246;;1046;209
+Kacin;Emil;OK Azimut;B;;;;;;162;;;339;;274;250;;;1025;256
+Korelc;Andrej;OK Komenda;B;;;;;;281;;;250;;190;;253;;974;244
+Kacin;Vojko;OK Azimut;B;;;;;;;;277;;;287;279;;;843;281
+Pavlic;Gregor;SSDASZ GAJA;B;;;;;;250;;;;;375;205;;;830;277
+Keresteš;Krešo;OK Trzin;B;0:40:51;2;483;;;;;;;;346;;;483;829;414
+Mosca;Massimo;G O Cai XXX Ottobre ASD;B;0:43:55;5;454;;;;;356;;;;;;454;810;405
+Vuga Seljak;Alenka;OK Komenda;B;;;;295;;;;359;;;;;144;;798;266
+Predonzani;Livio;G O Cai XXX Ottobre ASD;B;0:43:01;3;466;;;;;285;;;;;;466;751;376
+Leban;Marijan;OK Azimut;B;;;;216;;230;;251;;;;;;;697;232
+Rejec;Marjana;OK Azimut;B;;;;234;;;;133;;;163;151;;;681;170
+Leban;Manja;OK Azimut;B;;;;181;;230;;258;;;;;;;669;223
+Sladič;Roman;OK Perkmandeljc Trbovlje;B;;;;;157;;;223;;;269;;;;649;216
+Larotella;Roberto;ORIENTEERING TRIESTE  ASD;B;;;;;;;;;;;306;336;;;642;321
+Čerin;Aleš;OK Tivoli;B;;;;;;;;;;;331;309;;;640;320
+Pogačar;Aljoša;OK Komenda;B;;;;;;;;;;;-;366;257;;623;312
+Seljak;Borut;OK Komenda;B;;;;321;;;;;;;;;294;;615;308
+Plavčak;Ana;ŠOK;B;1:17:05;45;216;;154;;;;221;;;;;216;591;197
+Mužina;Ivana;PD Ajdovščina;B;0:58:49;23;331;259;;;;-;;;;;;331;590;295
+Leban;Mineja;OK Azimut;B;;;;212;;112;;254;;;;;;;578;193
+Peršič;Andreja;PD Ajdovščina;B;0:56:49;17;356;-;;;;-;;;;198;;356;554;277
+Krkoč;Urban;PD Ajdovščina;B;1:02:50;31;293;-;;;;-;;;;233;;293;526;263
+Hacin Kölner;Irena;OK Komenda;B;;;;;;;;;225;;;;281;;506;253
+Zibelnik;Klemen;smuckacom;B;;;;;;;;;;;363;135;;;498;249
+Collodet;Stefano;FRIULI MTB ORIENTEERING ASD;B;0:40:06;1;492;;;;;;;;;;;492;492;492
+Bogataj;Boštjan;OK Azimut;B;;;;247;;;;;;;;215;;;462;231
+Patini;Arianna;ASD SEMIPERDO ORIENTEERING MANIAGO;B;0:43:49;4;458;;;;;;;;;;;458;458;458
+Bončinaigor;;OK Azimut;B;0:47:53;6;428;;;;;;;;;;;428;428;428
+Šumečki;Žan Luka;OK Tivoli;B;;;;;423;;;;;;;;;;423;423
+Dovč;Jan;OK Tivoli;B;;;;;423;;;;;;;;;;423;423
+Jerman;Michela;ORIENTEERING TRIESTE  ASD;B;0:50:43;7;411;;;;;;;;;;;411;411;411
+Tremul;Michael;PUNTO K ORIENTEERING ASD;B;0:51:38;8;404;;;;;;;;;;;404;404;404
+Bauci;Gabriele;PUNTO K ORIENTEERING ASD;B;0:52:02;9;399;;;;;;;;;;;399;399;399
+Čerin;Boštjan;OK Tivoli;B;;;;;399;;;;;;;;;;399;399
+Čerin;Matej;ind.;B;;;;;396;;;;;;;;;;396;396
+Omejc;Srečko;ind.;B;;;;;391;;;;;;;;;;391;391
+Mirnik;Jona;OK Komenda;B;0:53:22;10;390;;;;;;;;;;;390;390;390
+Omejc;Matic;ind.;B;;;;;388;;;;;;;;;;388;388
+Vidali;Jernej;SSD Gaja  Sezione Orientamento;B;0:54:09;11;384;;;;;;;;;;;384;384;384
+Skarabot;Miha;OK Polaris;B;;;;;369;;;;;;;;;;369;369
+Bauman;Ivo;Mariborski OK;B;;;;;369;;;;;;;;;;369;369
+Tadina;Elisabetta;ORIENTEERING TRIESTE  ASD;B;0:56:20;15;364;;;;;;;;;;;364;364;364
+Jezeršek;Polona;OK Komenda;B;;;;;;;;363;;;;;;;363;363
+Felchero;Mauro;FRIULI MTB ORIENTEERING ASD;B;0:56:29;16;360;;;;;;;;;;;360;360;360
+Cereatti;Roberto;FRIULI MTB amp;B;0:56:53;18;352;;;;;;;;;;;352;352;352
+Babič;Anja;OK Trzin;B;1:36:22;57;149;;;;;;;;201;;;149;350;175
+Mattioni;Flavio;Semiperdo Maniago;B;0:57:39;19;347;;;;;;;;;;;347;347;347
+Foški;Valter;OK Polaris;B;;;;;343;;;;;;;;;;343;343
+Šalamun;Miro;OK Polaris;B;;;;;343;;;;;;;;;;343;343
+David;Donatella;ORIENTEERING DOLOMITI;B;0:57:46;20;343;;;;;;;;;;;343;343;343
+Marussig;Maurizio;FRIULI MTB amp;B;0:58:03;21;339;;;;;;;;;;;339;339;339
+Hribar;Anica;OK Brežice;B;;;;;332;;;;;;;;;;332;332
+Kovač;Marija;PD Ajdovščina;B;;;;202;;;;130;;;;;;;332;166
+Bogovič;Vid;OK Brežice;B;;;;;329;;;;;;;;;;329;329
+Gregorc;Erik;OK Komenda;B;;;;;;;;;;;;;327;;327;327
+Margiore;Andrea;ORIENTEERING TRIESTE  ASD;B;0:59:11;24;326;;;;;;;;;;;326;326;326
+Jesenko;Matija;OK Tivoli;B;;;;;323;;;;;;;;;;323;323
+Cukor;Žiga;OK Tivoli;B;;;;;320;;;;;;;;;;320;320
+Mantovani;Antonella;SCI CLUB UDINE ASD;B;0:59:58;26;318;;;;;;;;;;;318;318;318
+Pregartner;Georg;OLG Deutsch Kaltenbrunn;B;;;;;;;;;;;314;;;;314;314
+Groff;Tomaž;OK Azimut;B;;;;;313;;;;;;;;;;313;313
+Kazić;Ajdin;OK Azimut;B;;;;312;;;;;;;;;;;312;312
+Di Bartolomeo;Antonio;PUNTO K ORIENTEERING ASD;B;1:01:16;28;307;;;;;;;;;;;307;307;307
+Foški;Mojca;OK Polaris;B;;;;;;;303;;;;;;;;303;303
+Ghersi;Giorgio;Orienteering Trieste;B;1:01:50;29;303;;;;;;;;;;;303;303;303
+Foški;Brina;OK Polaris;B;;;;;;;303;;;;;;;;303;303
+Kunc;Robert;OK Tivoli;B;;;;;300;;;;;;;;;;300;300
+Valič;Rok;ind.;B;;;;;297;;;;;;;;;;297;297
+Ruini;Cristina;PUNTO K ORIENTEERING ASD;B;1:02:31;30;297;;;;;;;;;;;297;297;297
+Kunc;Gregor;OK Tivoli;B;;;;;;;;;290;;;;;;290;290
+Tušar;Teja;OK Azimut;B;;;;288;;;;;;;;;;;288;288
+Fontanot;Luca;PUNTO K ORIENTEERING ASD;B;1:03:46;33;285;;;;;;;;;;;285;285;285
+Prosen;Maja;ind.;B;;;;;;281;;;;;;;;;281;281
+Čelik;Aljaž;OK Azimut;B;;;;280;;;;;;;;;;;280;280
+Ravnikar;Žan;OK Komenda;B;;;;;279;;;;;;;;;;279;279
+Bogataj;Rok;OK Azimut;B;;;;220;;59;;;;;;;;;279;140
+Mosolo;Fabrizio;SCI CLUB UDINE ASD;B;1:05:12;34;278;;;;;;;;;;;278;278;278
+Domnik;Nejc;OK Azimut;B;;;;277;;;;;;;;;;;277;277
+Ravnikar;Monika;OK Komenda;B;;;;;276;;;;;;;;;;276;276
+Visintin;Federica;Semiperdo Orienteering Maniago;B;1:05:37;35;273;;;;;;;;;;;273;273;273
+Marc;Jan;PD Ajdovščina;B;;;;270;;;;;;;;;;;270;270
+Simonelli;Maria Elena;SEMIPERDO MANIAGO;B;1:08:02;36;264;;;;;;;;;;;264;264;264
+Ukmar;Davide;SSD Gaja  Sezione Orientamento;B;1:08:25;37;260;;;;;;;;;;;260;260;260
+Čufer;Stanko;PD Ajdovščina;B;;;;;;;;;;;;258;;;258;258
+Pribaković Borštnik;Ana;OK Tivoli;B;;;;;257;;;;;;;;;;257;257
+Borštnik;Aleš;OK Tivoli;B;;;;;257;;;;;;;;;;257;257
+Grillo;Maurizio;ASD SEMIPERDO ORIENTEERING MANIAGO;B;1:08:37;38;256;;;;;;;;;;;256;256;256
+Germani;Marko;SSD Gaja;B;1:10:10;39;249;;;;;;;;;;;249;249;249
+Pavlič;Margareta;SSDASZ GAJA;B;1:11:27;40;243;;;;;;;;-;;;243;243;243
+De Monte;Tiziana;GR OR CAI XXX OTTOBRE ASD;B;1:56:06;61;116;;;;;127;;;;;;116;243;122
+De Cristini;Chiara;SSD Gaja  Sezione Orientamento;B;1:11:48;41;240;;;;;;;;;;;240;240;240
+Kop;Klemen;OK Tivoli;B;;;;;;;;;;;234;;;;234;234
+Gregorič;Nik;PD Ajdovščina;B;;;;231;;;;;;;;;;;231;231
+Kenda;Klemen;OK Azimut;B;;;;;231;;;;;;;;;;231;231
+Luin;Rinaldo;SSD Gaja  Sezione Orientamento;B;1:16:55;43;222;;;;;;;;;;;222;222;222
+Plavčak;Luka;ŠOK;B;;;;;;;;;;;;221;;;221;221
+Pretnar;Tanja;Kamniški OK;B;;;;;219;;;;;;;;;;219;219
+Drevenšek;Suzana;Kamniški OK;B;;;;;219;;;;;;;;;;219;219
+Dovč;Katja;OK Tivoli;B;;;;;;;;;;;219;;;;219;219
+Princic;Elija;PUNTO K ORIENTEERING ASD;B;1:17:01;44;219;;;;;;;;;;;219;219;219
+Rejec;Pavel;OK Azimut;B;;;;;;;;215;;;;;;;215;215
+Makuc;Aleš;ŠD Pedal;B;;;;;212;;;;;;;;;;212;212
+Radovan;Dalibor;OK Polaris;B;;;;;;;;211;;;;;;;211;211
+Makuc;Mirjam;ŠD Pedal;B;;;;;209;;;;;;;;;;209;209
+Chiocca;Davide;GRUPPO OR CAI MONFALCONE;B;1:19:54;46;208;;;;;;;;;;;208;208;208
+Gulic;Francesco;SSD Gaja  Sezione Orientamento;B;1:20:33;47;203;;;;;;;;;;;203;203;203
+Kobentar;Katja;Kamniški OK;B;;;;;202;;;;;;;;;;202;202
+Kmetec;Barbara;Kamniški OK;B;;;;;202;;;;;;;;;;202;202
+Fortunati;Alberto;ORIENTEERING TRIESTE  ASD;B;1:21:01;48;199;;;;;;;;;;;199;199;199
+Kunc;Matevž;OK Tivoli;B;;;;;;;;;;;198;;;;198;198
+Lovrecic;Sandi;OK Perkmandeljc Trbovlje;B;;;;;;;;195;;;;;;;195;195
+Robba;Alberto;ORIENTEERING TRIESTE  ASD;B;1:21:55;49;195;;;;;;;;;;;195;195;195
+Rojc;Nejc;ind.;B;;;;;;194;;;;;;;;;194;194
+Cont;Giovanni;PUNTO K ORIENTEERING ASD;B;1:21:58;50;192;;;;;;;;;;;192;192;192
+Kuzmin;Anka;Semiperdo Orienteering Maniago;B;;;;;;;;192;;;;;;;192;192
+Koprivc;Matjaž;OK Azimut;B;;;;;;;;;;;;;190;;190;190
+Možina;Ivana;PD Ajdovščina;B;;;;;;;;;;;;189;;;189;189
+Pradolin;Paolo;SEMIPERDO MANIAGO;B;1:22:30;51;188;;;;;;;;;;;188;188;188
+Kalc;Kristjan;SSD Gaja  Sezione Orientamento;B;1:22:33;52;185;;;;;;;;;;;185;185;185
+De Luisa;Veronika;SSD Gaja  Sezione Orientamento;B;1:23:51;53;179;;;;;;;;;;;179;179;179
+Boncina;Abigael Vanessa;OK Azimut;B;;;;;179;;;;;;;;;;179;179
+Mazzucco;Walter;ORIENTEERING DOLOMITI;B;1:25:08;54;174;;;;;;;;;;;174;174;174
+Žižek;Rok;OK Azimut;B;;;;;174;;;;;;;;;;174;174
+Sotosek;Gorazd;ind.;B;;;;;170;;;;;;;;;;170;170
+Sotošek;Katerina;ind.;B;;;;;166;;;;;;;;;;166;166
+Žižek;Saša;OK Azimut;B;;;;;163;;;;;;;;;;163;163
+Nelson;Charles;OK Azimut;B;;;;;;162;;;;;;;;;162;162
+Naimi;Alessandro;SSD Gaja  Sezione Orientamento;B;1:31:11;55;162;;;;;;;;;;;162;162;162
+Xausa;Gabriella;FRIULI MTB ORIENTEERING ASD;B;1:31:56;56;158;;;;;;;;;;;158;158;158
+Ciriani;Alessandro;FRIULI MTB amp;B;1:41:15;58;140;;;;;;;;;;;140;140;140
+Montes;Manuel;PD Ajdovščina;B;;;;;;;;137;;;;;;;137;137
+Ledinšek;Biserka;ind.;B;;;;;134;;;;;;;;;;134;134
+Gratton;Donatella;GR OR CAI XXX OTTOBRE ASD;B;1:45:34;59;132;;;;;;;;;;;132;132;132
+Cernigoj;Michele;SSD Gaja  Sezione Orientamento;B;1:50:11;60;124;;;;;;;;;;;124;124;124
+Stojan;Petra;ind.;B;;;;;;112;;;;3;;;;;115;58
+Poldrugo;Pierpaolo;GR OR CAI XXX OTTOBRE ASD;B;2:00:11;62;109;;;;;;;;;;;109;109;109
+Predan;Sonia;SCI CLUB UDINE ASD;B;2:10:34;63;98;;;;;;;;;;;98;98;98
+Jarc;Vlasta;GRUPPO OR CAI MONFALCONE;B;2:14:05;64;93;;;;;;;;;;;93;93;93
+Bogataj;Natasa;ind.;B;;;;;;87;;;;;;;;;87;87
+Špenko;Zala;ind.;B;;;;;;73;;;;;;;;;73;73
+Mancini;Marco;ORIENTEERING TRIESTE  ASD;B;mp;;;;;;;;;;;;;-;0;0
+Starc;Edo;SSD Gaja  Sezione Orientamento;B;mp;;;;;;;;;;;;;-;0;0
+Zupan;Tilen;OK Komenda;C;;;;;;118;;;88;;116;;106;;428;107
+Pust;Karin;OK Azimut;C;;;;86;;;;;;;64;86;55;;291;73
+Ledinšek;Biserka;OK Tivoli;C;;;;;;;;;67;101;47;69;;;284;71
+Bratož;Jani;PD Ajdovščina;C;;;;101;;;;70;;;;92;;;263;88
+Zupan;Lara;OK Komenda;C;;;;;;36;;;77;;88;;;;201;67
+Jurca;Maja;OK Tivoli;C;;;;;;;;108;;;90;;;;198;99
+Seljak;Luka;OK Komenda;C;;;;115;;;;;;;;;66;;181;90
+Keresteš;Vid;OK Trzin;C;0:22:53;4;82;;;;;;;;88;;;82;170;85
+Dovč;Maj;OK Tivoli;C;;;;;;;;;56;;83;;;;139;70
+Rodman;Ema;PD Ajdovščina;C;0:57:55;15;33;92;;;;;;;;;;33;125;62
+Toffanin;Fabio;SSD Gaja  Sezione Orientamento;C;0:14:20;1;122;;;;;;;;;;;122;122;122
+Polojaz;Goran;SSD Gaja  Sezione Orientamento;C;0:14:51;2;118;;;;;;;;;;;118;118;118
+Kepic;Lara;Kamniški OK;C;;;;;;43;;;20;;53;;;;116;39
+Seljak;Jaka;OK Komenda;C;;;;113;;;;;;;;;;;113;113
+Zabukovec;Zala;PD Ajdovščina;C;1:02:27;16;30;83;;;;;;;;;;30;113;56
+Gregorc;Erik;OK Komenda;C;;;;;;;;;109;;;;;;109;109
+Bogataj;Rok;OK Azimut;C;;;;;;;;;;;;105;;;105;105
+Makuc;Bor;OK Azimut;C;;;;105;;;;;;;;;;;105;105
+Rant;Nace;ind.;C;;;;;;104;;;;;;;;;104;104
+Pagon;Matija;PD Ajdovščina;C;;;;98;;;;;;;;;;;98;98
+Maiti;Matija;PD Ajdovščina;C;;;;98;;;;;;;;;;;98;98
+Radovan;Duška;ind.;C;;;;;;;;93;;;;;;;93;93
+Pecorari;Iris Aurora;Semiperdo Orienteering Maniago;C;;;;-;;;;91;;;;;;;91;91
+Alberto Montes;Manuel;PD Ajdovščina;C;;;;89;;;;;;;;;;;89;89
+Poberai;Luca;Semiperdo Orienteering Maniago;C;;;;;;;;89;;;;;;;89;89
+Lorenzi;Leonardo;Semiperdo Orienteering Maniago;C;;;;;;;;88;;;;;;;88;88
+Gregorc;Denis;OK Komenda;C;;;;;;;;;-;;;;87;;87;87
+Bertoni;Mario;ORIENTEERING TRIESTE  ASD;C;0:21:41;3;86;;;;;;;;;;;86;86;86
+Turk;Nejc;OK Komenda;C;;;;;;;;;84;;;;-;;84;84
+Maya;Colombo;Semiperdo Orienteering Maniago;C;;;;;;;;82;;;;;;;82;82
+Taljat;Jaka;OK Azimut;C;;;;81;;;;;;;;;;;81;81
+Cokan;Jan;ind.;C;;;;;;;;;;;78;;;;78;78
+Grum;Miklavž;OK Komenda;C;;;;;;;;;;;;;71;;71;71
+Zupančič;Jakob;ind.;C;;;;;;;;;;;69;;;;69;69
+Kodarin;Christian;ORIENTEERING TRIESTE  ASD;C;0:29:10;5;67;;;;;;;;;;;67;67;67
+Pelessoni;Jozef;SSD Gaja  Sezione Orientamento;C;0:29:56;6;65;;;;;;;;;;;65;65;65
+Brina;Karin;ind.;C;;;;;;;;;;;64;;;;64;64
+Margiore;Manuela;ORIENTEERING TRIESTE  ASD;C;0:31:02;7;62;;;;;;;;;;;62;62;62
+Šorli;Blaž C K;OK Azimut;C;;;;62;;;;;;;;;;;62;62
+Grgic;Tatjana;SSD Gaja  Sezione Orientamento;C;0:32:35;8;59;;;;;;;;;;;59;59;59
+Grum;Anka;OK Komenda;C;;;;;;;;;;;;;58;;58;58
+Stepančič Podvršček;Žiga;OK Azimut;C;;;;57;;;;;;;;;;;57;57
+Kriscjak;Sebastian;SSD Gaja  Sezione Orientamento;C;0:33:03;9;57;;;;;;;;;;;57;57;57
+Dolenc;Masa;ind.;C;;;;;;57;;;;;;;;;57;57
+Dolenc;Anja;ind.;C;;;;;;55;;;;;;;;;55;55
+Bernardi;Alessio;PUNTO K ORIENTEERING ASD;C;0:36:41;10;52;;;;;;;;;;;52;52;52
+Šorli;Neža;OK Azimut;C;;;;51;;;;;;;;;;;51;51
+Kunc;Mojca;OK Tivoli;C;;;;;;;;;;;50;;;;50;50
+Cafagna;Elisa;ORIENTEERING TRIESTE  ASD;C;0:37:50;11;50;;;;;;;;;;;50;50;50
+Rešek Kunc;Natalija;ind.;C;;;;;;;;;49;;;;;;49;49
+Drobnic;Jadranka;OK Azimut;C;;;;;;;;-;;;48;;;;48;48
+Samec;Gašper;PD Ajdovščina;C;;;;;;;;48;;;;;;;48;48
+Kunc Rešek;Natalija;OK Tivoli;C;;;;;;;;;;;46;;;;46;46
+Anderluh;Ana Maja;OK Polaris;C;;;;;;;;;;;;46;;;46;46
+Sedej;David;ind.;C;;;;;;44;;;;;;;;;44;44
+De Palma;Filippo;ORIENTEERING TRIESTE  ASD;C;0:45:49;12;42;;;;;;;;;;;42;42;42
+Šorli;Blaž B D;OK Azimut;C;;;;42;;;;;;;;;;;42;42
+Canziani;Nataša;SSD Gaja  Sezione Orientamento;C;0:46:35;13;41;;;;;;;;;;;41;41;41
+Dorlando;Maria Cristina;FRIULI MTB amp;C;0:50:25;14;37;;;;;;;;;;;37;37;37
+Rant;Neza;ind.;C;;;;;;34;;;;;;;;;34;34
+Glavica;Družina;ind.;C;;;;;;;;;;;32;;;;32;32
+Velkov;Leon;ind.;C;;;;;;29;;;;;;;;;29;29
+Butterley;Janet;SSD Gaja  Sezione Orientamento;C;1:03:26;17;29;;;;;;;;;;;29;29;29
+Žinko;Družina;ind.;C;;;;;;;;;;;29;;;;29;29
+Bruder;Enej;ind.;C;;;;;;28;;;;;;;;;28;28
+Donini;Adriana;SSD Gaja;C;1:04:24;18;27;;;;;;;;;;;27;27;27
+Bacnik;Karin;ind.;C;;;;;;26;;;;;;;;;26;26
+Pandza;Slavko;ind.;C;;;;;;25;;;;;;;;;25;25
+Geo;Luca;GR OR CAI XXX OTTOBRE ASD;C;1:07:15;19;25;;;;;;;;;;;25;25;25
+Pandza;Masa;ind.;C;;;;;;24;;;;;;;;;24;24
+Kepic;Ema;Kamniški OK;C;;;;;;-;;;23;;-;;;;23;23
+Rovis;Paola;PUNTO K ORIENTEERING ASD;C;1:16:39;20;22;;;;;;;;;;;22;22;22
+Langerholc;Matjaz;ind.;C;;;;;;21;;;;;;;;;21;21
+Langerkolc;Teja;ind.;C;;;;;;20;;;;;;;;;20;20
+Langerholc;Tina;ind.;C;;;;;;18;;;;;;;;;18;18
+Margotti;Elisa;GR OR CAI XXX OTTOBRE ASD;C;1:30:38;21;18;;;;;;;;;;;18;18;18
+Oselladore;Loredana;GR OR CAI XXX OTTOBRE ASD;C;2:13:05;22;12;;;;;;;;;;;12;12;12
+Dovč;Rebeka;OK Tivoli;C;;;;;;3;;;;;;;;;3;3
+Sekulic;Lara;ind.;C;;;;;;2;;;;;;;;;2;2
+Blokar;Marco;GR OR CAI XXX OTTOBRE ASD;C;mp;;;;;;;;;;;;;-;0;0
+Krizmančič;Davide;SSD Gaja  Sezione Orientamento;C;mp;;;;;;;;;;;;;-;0;0

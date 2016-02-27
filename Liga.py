@@ -23,6 +23,7 @@ def presledki(niz):
 def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
     #'st_tekme' je št ZL(npr. pri ZL2, je to 2).
     #IP je vrednost tekme(1.2 pomeni, da je tekmo vredna 20 % več).
+
     if rezultatiTekme:
         def povprecje(seznam):
             #Vrne povprecje točk/časov v seznamu.
@@ -116,9 +117,11 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
             elif len(seznam)>=5:
                 stanjeLigeA[(x,y)]['sestevek']=sum(seznam[0:5])
                 stanjeLigeA[(x,y)]['povprecje']=round(sum(seznam[0:5])/5)
+                ##stanjeLigeA[(x,y)][0][1] = max(stanjeLigeA[(x,y)]['povprecje'],stanjeLigeA[(x,y)][0][1])
             else:
                 stanjeLigeA[(x,y)]['sestevek']=sum(seznam[0:len(seznam)])
                 stanjeLigeA[(x,y)]['povprecje']=round(sum(seznam[0:len(seznam)])/len(seznam))
+                ##stanjeLigeA[(x,y)][0][1] = max(stanjeLigeA[(x,y)]['povprecje'],stanjeLigeA[(x,y)][0][1])
     return stanjeLigeA
 
 
@@ -374,7 +377,7 @@ def rezultati(st_lige,stanjeLige):
                 if kategorija[0]== "A": ## will allow for multiple categories merged into A
                     if klub1 in ind:
                         klub1='ind.'       
-                    if (ime1,priimek1) not in stanjeLige['A']:
+                    if (ime1,priimek1) not in stanjeLige['A'].keys():
                         stanjeLige['A'][(ime1,priimek1)]={0:[0,500,True],'ime':ime,'priimek':priimek,'klub':klub1}
                     elif stanjeLige['A'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
                         stanjeLige['A'][(ime1,priimek1)]['klub']=klub1
@@ -438,7 +441,7 @@ def vCsv(stanjeLige,st_tekem, score = False):
                     elif stanjeLige[k][x,y].get(st_tekem,None)==None:
                         f.write(stanjeLige[k][x,y]['priimek']+';'+stanjeLige[k][x,y]['ime']+';'+str(stanjeLige[k][x,y]['klub'])+';'+k+';'+''+';'+''+';'+'')
                     elif stanjeLige[k][x,y][st_tekem][0] not in ['mp','dns']:
-                        if score and k != "C":
+                        if score: ## and k != "C":
                             cas = str(abs(stanjeLige[k][x,y][st_tekem][0][2]))
                         else:
                             cas=''
@@ -474,7 +477,7 @@ def vCsv(stanjeLige,st_tekem, score = False):
                     elif stanjeLige[k][x,y].get(st_tekem,None)==None:
                         f.write(stanjeLige[k][x,y]['priimek']+';'+stanjeLige[k][x,y]['ime']+';'+''+';'+k+';'+''+';'+''+';'+'')
                     elif stanjeLige[k][x,y][st_tekem][0]!='mp':
-                        if score and k != "C":
+                        if score: ## and k != "C":
                             cas = stanjeLige[k][x,y][st_tekem][0][2]
                         else:
                             cas=''

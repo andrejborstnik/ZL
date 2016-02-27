@@ -28,7 +28,7 @@ with open('zacetek.txt',encoding='utf-8') as f:
 st_tekem=0
 IP = 1
 for st_lige in range(1,22):
-    if st_lige == 21:
+    if st_lige == 20:
         IP = 1.1
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
         c,score = rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
