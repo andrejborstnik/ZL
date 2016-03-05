@@ -27,6 +27,7 @@ with open('zacetek.txt',encoding='utf-8') as f:
 #print(stanjeLigeA)
 st_tekem=0
 IP = 1
+
 for st_lige in range(1,22):
     if st_lige == 20:
         IP = 1.1
