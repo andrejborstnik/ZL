@@ -1,0 +1,101 @@
+﻿@SI
+First name;Surname;Time;Pl;Classifier;Cl.name;City;Short;km;m;Course controls;
+Matic;Blaž;0:39:42;1;0;OK Komenda;;A;5,45;;17
+Žan Luka;Šumečki;0:45:08;2;0;OK Tivoli;;A;5,45;;17
+Mark;Bogataj;0:46:48;3;0;OK Azimut;;A;5,45;;17
+Janez;Pretnar;0:47:09;4;0;Kamniški OK;;A;5,45;;17
+Tihomir;Salopek;0:51:38;5;0;OK Azimut;;A;5,45;;17
+Valentin;Eržen;0:52:28;6;0;OK Azimut;;A;5,45;;17
+Tjaž;Gantar;0:54:39;7;0;OK Azimut;;A;5,45;;17
+Mojca;Flerin;0:54:40;8;0;Kamniški OK;;A;5,45;;17
+Aleš;Poljanšek;0:55:00;9;0;OK Azimut;;A;5,45;;17
+Franc;Knap;0:56:01;10;0;OK Azimut;;A;5,45;;17
+Stanko;Čufer;0:57:10;11;0;PD Ajdovščina;;A;5,45;;17
+Rok;Močnik;1:01:24;12;0;OK Azimut;;A;5,45;;17
+Robert;Kunc;1:03:42;13;0;OK Tivoli;;A;5,45;;17
+Ambrož;Rupnik;1:03:42;14;0;OK Azimut;;A;5,45;;17
+Gregor;Pavlič;1:08:17;15;0;SSD-AŠZ GAJA;;A;5,45;;17
+Pako;Delgado;1:09:05;16;0;OK Variopintos ZG;;A;5,45;;17
+Tomaž;Kremžar;1:15:25;17;0;;;A;5,45;;17
+Zala;Zavrl;1:20:07;18;0;OK Komenda;;A;5,45;;17
+Ivo;Kete;1:28:56;19;0;PD Ajdovščina;;A;5,45;;17
+Alenka;Vuga Seljak;1:30:41;20;0;OK Komenda;;A;5,45;;17
+Eva;Jenko;;;1;;;A;5,45;;17
+Tajda;Bogataj;1:34:27;;3;OK Azimut;;A;5,45;;17
+Jure;Kavčič;0:28:33;1;0;OK Komenda;;B;2,99;;13
+Iztok;Hadalin;0:28:55;2;0;OK Azimut;;B;2,99;;13
+Borut;Seljak;0:32:28;3;0;OK Komenda;;B;2,99;;13
+Klemen;Kenda;0:34:10;4;0;OK Azimut;;B;2,99;;13
+Marko;Obid;0:34:11;5;0;OK Azimut;;B;2,99;;13
+Tomaž;Pust;0:35:09;6;0;OK Komenda;;B;2,99;;13
+Matevž;Kunc;0:35:34;7;0;OK Tivoli;;B;2,99;;13
+Matej;Vidič;0:36:06;8;0;OK Azimut;;B;2,99;;13
+Nika;Poljanšek;0:36:45;9;0;OK Azimut;;B;2,99;;13
+Teja;Tušar;0:36:47;10;0;OK Azimut;;B;2,99;;13
+Nejc;Domnik;0:36:49;11;0;OK Azimut;;B;2,99;;13
+Ana Pia;Pogačar;0:36:57;12;0;OK Komenda;;B;2,99;;13
+Nejc;Turk;0:37:56;13;0;OK Komenda;;B;2,99;;13
+Manja;Leban;0:38:22;14;0;OK Azimut;;B;2,99;;13
+Boštjan;Bogataj;0:39:08;15;0;OK Azimut;;B;2,99;;13
+Blaž;Grah;0:39:36;16;0;OK Azimut;;B;2,99;;13
+Tihon;Salopek;0:40:39;17;0;OK Azimut;;B;2,99;;13
+Andrej;Korelc;0:42:04;18;0;OK Komenda;;B;2,99;;13
+Nejc;Zorman;0:42:06;19;0;OK Komenda;;B;2,99;;13
+Janez;Zavrl;0:42:10;20;0;OK Komenda;;B;2,99;;13
+Lara;Gantar;0:42:27;21;0;OK Azimut;;B;2,99;;13
+Charles;Nelson;0:43:34;22;0;OK Azimut;;B;2,99;;13
+Mineja;Leban;0:43:36;23;0;OK Azimut;;B;2,99;;13
+Gregor;Kunc;0:43:38;24;0;OK Tivoli;;B;2,99;;13
+Vlado;Sedej;0:44:14;25;0;OK Azimut;;B;2,99;;13
+Barbara;Pavlinič;0:44:58;26;0;OK Komenda;;B;2,99;;13
+Roman;Sladič;0:45:47;27;0;ŠOK;;B;2,99;;13
+Suzana;Drevenšek;0:46:24;28;0;Kamniški OK;;B;2,99;;13
+Nika;Ravnikar;0:48:30;29;0;OK Komenda;;B;2,99;;13
+Nik;Gregorič;0:49:40;30;0;PD Ajdovščina;;B;2,99;;13
+Karin;Pust;0:49:51;31;0;OK Komenda;;B;2,99;;13
+Urban;Krkoč;0:53:16;32;0;PD Ajdovščina;;B;2,99;;13
+Marijan;Leban;0:54:53;33;0;OK Azimut;;B;2,99;;13
+Nataša;Bogataj;0:57:31;34;0;OK Azimut;;B;2,99;;13
+Tijana;Leban;0:57:35;35;0;OK Azimut;;B;2,99;;13
+Urban;Gregorc;0:59:31;36;0;;;B;2,99;;13
+Zala;Špenko;1:01:29;37;0;OK Komenda;;B;2,99;;13
+Samo;Vetrih;1:05:03;38;0;PD Ajdovščina;;B;2,99;;13
+Irma;Pretnar;1:05:37;39;0;Kamniški OK;;B;2,99;;13
+Saša;Bevk;1:06:28;40;0;OK Azimut;;B;2,99;;13
+Kristina;Ipavec;1:20:36;41;0;OK Azimut;;B;2,99;;13
+Dragan;Krivičić;1:37:22;42;0;OK Perkmandeljc;;B;2,99;;13
+Aljaž;Obid;1:37:24;43;0;OK Azimut;;B;2,99;;13
+Tilen;Žvanut;1:45:17;44;0;PD Ajdovščina;;B;2,99;;13
+Rok;Kern;0:45:52;;3;OK Komenda;;B;2,99;;13
+Žan;Ravnikar;0:22:32;;4;OK Komenda;;B;2,99;;13
+Luka;Seljak;0:24:22;1;0;OK Komenda;;C;2,64;;10
+Rok;Bogataj;0:26:02;2;0;OK Azimut;;C;2,64;;10
+Tit;Katarič;0:27:29;3;0;OK Azimut;;C;2,64;;10
+Lucija;Kavčič;0:30:01;4;0;OK Komenda;;C;2,64;;10
+Vita;Malus;0:42:05;5;0;OK Komenda;;C;2,64;;10
+Miklavž;Grum;0:43:57;6;0;OK Komenda;;C;2,64;;10
+Eva;Jenko;0:48:13;7;0;;;C;2,64;;10
+Domen;Leban;0:50:09;8;0;OK Azimut;;C;2,64;;10
+Zdenko;Pavlič;0:53:05;9;0;SSD-AŠZ GAJA;;C;2,64;;10
+Lucija;Kremžar;0:54:30;10;0;;;C;2,64;;10
+Nik;Lap;1:00:14;11;0;OK Komenda;;C;2,64;;10
+Natalija;Rešek Kunc;1:09:23;12;0;OK Tivoli;;C;2,64;;10
+GG RKJ 4;;;;1;RKJ Spodnja Idrija;;C;2,64;;10
+GG RKJ 3;;;;4;RKJ Spodnja Idrija;;C;2,64;;10
+GG RKJ 2;;;;4;RKJ Spodnja Idrija;;C;2,64;;10
+GG RKJ 1;;;;4;RKJ Spodnja Idrija;;C;2,64;;10
+Zala Mia;Švigelj;0:25:28;1;0;OK Komenda;;D;2,39;;11
+Nea;Eržen;0:26:30;2;0;OK Azimut;;D;2,39;;11
+Nejc;Trunk;0:27:04;3;0;OK Komenda;;D;2,39;;11
+Maja;Zarnik;0:31:43;4;0;OK Komenda;;D;2,39;;11
+Neža;Obid;0:33:33;5;0;OK Azimut;;D;2,39;;11
+Dorja;Salopek;0:34:04;6;0;OK Azimut;;D;2,39;;11
+Jaka;Seljak;0:35:18;7;0;OK Komenda;;D;2,39;;11
+Oskar;Rupnik;0:37:08;8;0;OK Azimut;;D;2,39;;11
+Mojca;Kunc;0:37:55;9;0;OK Tivoli;;D;2,39;;11
+Tia, Žan, Sašo;Jalšovec;0:39:53;10;0;OK Azimut;;D;2,39;;11
+Patricija;Kern;0:42:04;11;0;OK Komenda;;D;2,39;;11
+Naja;Lončar;0:42:05;12;0;OK Komenda;;D;2,39;;11
+Neja;Rupnik;0:46:19;13;0;OK Azimut;;D;2,39;;11
+Manca;Rupnik;;;1;OK Azimut;;D;2,39;;11
+Neža;Trunk;0:47:08;;3;OK Komenda;;D;2,39;;11
