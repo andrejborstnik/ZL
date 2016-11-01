@@ -1,29 +1,29 @@
 Surname;First name;City;Class;Time;Pl;Points;ZL1;ZL2;ZL3;ZL4;ZL5;ZL6;Sum;Average
-Kenda;Klemen;OK Azimut;A;0:41:31;5;1021;891;706;810;;1016;1021;4444;889
-Dovč;Jan;OK Tivoli;A;0:32:25;1;1132;;1139;1159;;;1132;3430;1143
-Zorman;Jernej;OK Komenda;A;mp;;;1095;1199;1130;;;-;3424;1141
-Šumečki;Žan Luka;OK Tivoli;A;0:34:30;2;1106;;1139;1159;;;1106;3404;1135
-Ravnikar;Monika;OK Komenda;A;0:54:44;8;861;767;859;868;;;861;3355;839
-Černe;Aljaž;OK Tivoli;A;;;;831;656;839;;873;;3199;800
-Blaž;Matic;OK Komenda;A;0:37:19;3;1072;1032;;955;;-;1072;3059;1020
-Kölner;Blaž;OK Komenda;A;0:40:26;4;1034;;941;1042;;;1034;3017;1006
-Kolman;Miran;OK Azimut;A;mp;;;896;1042;897;;;-;2835;945
-Kunc;Robert;OK Tivoli;A;0:47:01;6;954;-;919;693;;;954;2566;855
-Zupan;Gregor;OK Komenda;A;1:04:32;9;742;;941;810;;-;742;2493;831
-Škarabot;Miha;OK Polaris;A;;;;;1053;;;963;;2016;1008
+Kenda;Klemen;OK Azimut;A;0:41:31;5;1033;891;706;794;;1018;1033;4442;888
+Dovč;Jan;OK Tivoli;A;0:32:25;1;1143;;1139;1165;;;1143;3447;1149
+Zorman;Jernej;OK Komenda;A;mp;;;1095;1199;1134;;;-;3428;1143
+Šumečki;Žan Luka;OK Tivoli;A;0:34:30;2;1117;;1139;1165;;;1117;3421;1140
+Ravnikar;Monika;OK Komenda;A;0:54:44;8;874;767;859;856;;;874;3356;839
+Černe;Aljaž;OK Tivoli;A;;;;831;656;825;;882;;3194;798
+Blaž;Matic;OK Komenda;A;0:37:19;3;1084;1032;;949;;-;1084;3065;1022
+Kölner;Blaž;OK Komenda;A;0:40:26;4;1046;;941;1042;;;1046;3029;1010
+Kolman;Miran;OK Azimut;A;mp;;;896;1042;887;;;-;2825;942
+Kunc;Robert;OK Tivoli;A;0:47:01;6;967;-;919;670;;;967;2556;852
+Zupan;Gregor;OK Komenda;A;1:04:32;9;756;;941;794;;-;756;2491;830
+Škarabot;Miha;OK Polaris;A;;;;;1053;;;968;;2021;1010
 Čerin;Boštjan;OK Tivoli;A;;;;900;1093;;;;;1993;996
-Omejc;Srečko;ind.;A;;;;;1087;897;;;;1984;992
-Zavrl;Zala;OK Komenda;A;1:14:34;11;620;798;;548;;;620;1966;655
-Omejc;Matic;ind.;A;;;;;1086;839;;;;1925;962
-Foški;Valter;OK Polaris;A;;;;;994;868;;;;1862;931
-Ravnikar;Žan;OK Komenda;A;;;;;860;839;;;;1699;850
-Bogataj;Mark;OK Azimut;A;;;;;724;;;975;;1699;850
-Kete;Ivo;PD Ajdovščina;A;;;;782;;;;633;;1415;708
-Čufer;Stanko;PD Ajdovščina;A;;;;761;;;;637;;1398;699
+Omejc;Srečko;ind.;A;;;;;1087;887;;;;1974;987
+Zavrl;Zala;OK Komenda;A;1:14:34;11;635;798;;516;;;635;1949;650
+Omejc;Matic;ind.;A;;;;;1086;825;;;;1911;956
+Foški;Valter;OK Polaris;A;;;;;994;856;;;;1850;925
+Bogataj;Mark;OK Azimut;A;;;;;724;;;979;;1703;852
+Ravnikar;Žan;OK Komenda;A;;;;;860;825;;;;1685;842
+Kete;Ivo;PD Ajdovščina;A;;;;782;;;;655;;1437;718
+Čufer;Stanko;PD Ajdovščina;A;;;;761;;;;660;;1421;710
 Lapajne;Janko;OK Azimut;A;;;;583;724;;;;;1307;654
 Piltaver;Jaka;OK Brežice;A;;;;;1161;;;;;1161;1161
 Jevševar;Bojan;OK Brežice;A;;;;;1161;;;;;1161;1161
-Tušar;Peter;OK Azimut;A;;;;;;1130;;;;1130;1130
+Tušar;Peter;OK Azimut;A;;;;;;1134;;;;1134;1134
 Čerin;Matej;ind.;A;;;;;1093;;;;;1093;1093
 Bauman;Ivo;Mariborski OK;A;;;;;1053;;;;;1053;1053
 Pretnar;Janez;Kamniški OK;A;;;;;1042;;;;;1042;1042
@@ -39,7 +39,7 @@ Groff;Tomaž;OK Azimut;A;;;;;946;;;;;946;946
 Anderluh;Gregor;OK Polaris;A;;;;;922;;;;;922;922
 Praper;Tilen;OK Polaris;A;;;;;921;;;;;921;921
 Valič;Rok;ind.;A;;;;;919;;;;;919;919
-Kos;Janez Elija;OK Tivoli;A;0:53:13;7;879;;;;;;879;879;879
+Kos;Janez Elija;OK Tivoli;A;0:53:13;7;892;;;;;;892;892;892
 Gantar;Tjaž;OK Azimut;A;;;;876;;;;;;876;876
 Močnik;Matic;OK Azimut;A;;;;842;;;;;;842;842
 Čufer;David;PD Ajdovščina;A;;;;841;;;;;;841;841
@@ -58,12 +58,12 @@ Sušnik;Rok;OK Azimut;A;;;;;706;;;;;706;706
 Pretnar;Tanja;Kamniški OK;A;;;;;685;;;;;685;685
 Drevenšek;Suzana;Kamniški OK;A;;;;;685;;;;;685;685
 Kacin;Vojko;OK Azimut;A;;;;667;;;;;;667;667
+Kos;Virgil;OK Tivoli;A;1:12:22;10;662;;;;;;662;662;662
 Makuc;Mirjam;ŠD Pedal;A;;;;;660;;;;;660;660
 Makuc;Aleš;ŠD Pedal;A;;;;;660;;;;;660;660
 Strnad;Andreja;OK Tivoli;A;;;;;656;;;;;656;656
 Kobentar;Katja;Kamniški OK;A;;;;;653;;;;;653;653
 Kmetec;Barbara;Kamniški OK;A;;;;;653;;;;;653;653
-Kos;Virgil;OK Tivoli;A;1:12:22;10;647;;;;;;647;647;647
 Rupnik;Ambrož;OK Azimut;A;;;;640;;;;;;640;640
 Kuzmin;Anka;Semiperdo Orienteering Maniago;A;;;;635;;;;;;635;635
 Gerbec;Nuša;OK Azimut;A;;;;617;;;;;;617;617
