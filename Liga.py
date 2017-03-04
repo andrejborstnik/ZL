@@ -63,8 +63,12 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
         #Računamo točke(glej formulo na iof strani) in zapisujemo rezultat/tocke/mesto.
         ST=standardnaDeviacija(seznamCasov)
         SP=standardnaDeviacija(seznamTock)
+        if not SP:
+            SP = 1
         MT=povprecje(seznamCasov)
         MP=povprecje(seznamTock)
+        if not MP:
+            MP = 600
         #print(seznamCasov,MT)
         seznamCasov=[]
         for (x,y) in rezultatiTekme.keys():
@@ -277,7 +281,7 @@ def rezultati(st_lige,stanjeLige):
                         cas='dns'
                     else:
                         if not ':' in cas1:
-                            cas = [0,0,-abs(int(cas1))]
+                            cas = [0,0,-abs(float(cas1))]
                             if score == False:
                                 score = True
                                 print("Vklopljen score na tekmi {0}.".format(st_lige))
@@ -360,6 +364,8 @@ def rezultati(st_lige,stanjeLige):
                     klub1='OK Azimut'
                 elif ime1=='Ivo'and priimek1=='Kette':
                     priimek1='Kete'
+                if ime1 == "Anapia":
+                    ime1 = "Ana Pia"
 ##                elif priimek == "Kacin":
 ##                    print(klub)
 ##                elif priimek == "Plavčak":

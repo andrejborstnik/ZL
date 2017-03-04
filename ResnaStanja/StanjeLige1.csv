@@ -3,29 +3,29 @@ Blaž;Matic;OK Komenda;A;0:39:42;1;1200;1200;1200;1200
 Šumečki;Žan Luka;OK Tivoli;A;0:45:08;2;1109;1109;1109;1109
 Bogataj;Mark;OK Azimut;A;0:46:48;3;1081;1081;1081;1081
 Pretnar;Janez;Kamniški OK;A;0:47:09;4;1075;1075;1075;1075
-Salopek;Tihomir;ind.;A;0:51:38;5;1000;1000;1000;1000
-Eržen;Valentin;ind.;A;0:52:28;6;986;986;986;986
+Salopek;Tihomir;OK Azimut;A;0:51:38;5;1000;1000;1000;1000
+Eržen;Valentin;OK Azimut;A;0:52:28;6;986;986;986;986
 Gantar;Tjaž;OK Azimut;A;0:54:39;7;950;950;950;950
 Flerin;Mojca;Kamniški OK;A;0:54:40;8;949;949;949;949
 Poljanšek;Aleš;OK Azimut;A;0:55:00;9;944;944;944;944
-Knap;Franc;ind.;A;0:56:01;10;927;927;927;927
+Knap;Franc;OK Azimut;A;0:56:01;10;927;927;927;927
 Čufer;Stanko;PD Ajdovščina;A;0:57:10;11;908;908;908;908
-Močnik;Rok;ind.;A;1:01:24;12;837;837;837;837
+Močnik;Rok;OK Azimut;A;1:01:24;12;837;837;837;837
 Kunc;Robert;OK Tivoli;A;1:03:42;13;798;798;798;798
 Rupnik;Ambrož;OK Azimut;A;1:03:42;13;798;798;798;798
 Pavlič;Gregor;SSD Gaja  Sezione Orientamento;A;1:08:17;15;721;721;721;721
-Delgado;Pako;ind.;A;1:09:05;16;708;708;708;708
+Delgado;Pako;OK Variopintos ZG;A;1:09:05;16;708;708;708;708
 Kremžar;Tomaž;ind.;A;1:15:25;17;602;602;602;602
 Zavrl;Zala;OK Komenda;A;1:20:07;18;523;523;523;523
 Kete;Ivo;PD Ajdovščina;A;1:28:56;19;376;376;376;376
-Vuga Seljak;Alenka;ind.;A;1:30:41;20;346;346;346;346
+Vuga Seljak;Alenka;OK Komenda;A;1:30:41;20;346;346;346;346
 Bogataj;Tajda;OK Azimut;A;mp;;;-;0;0
 Jenko;Eva;ind.;A;mp;;;-;0;0
-Kavčič;Jure;ind.;B;0:28:33;1;432;432;432;432
-Hadalin;Iztok;ind.;B;0:28:55;2;425;425;425;425
+Kavčič;Jure;OK Komenda;B;0:28:33;1;432;432;432;432
+Hadalin;Iztok;OK Azimut;B;0:28:55;2;425;425;425;425
 Seljak;Borut;OK Komenda;B;0:32:28;3;390;390;390;390
 Kenda;Klemen;OK Azimut;B;0:34:10;4;374;374;374;374
-Obid;Marko;ind.;B;0:34:11;5;371;371;371;371
+Obid;Marko;OK Azimut;B;0:34:11;5;371;371;371;371
 Pust;Tomaž;OK Azimut;B;0:35:09;6;361;361;361;361
 Kunc;Matevž;OK Tivoli;B;0:35:34;7;355;355;355;355
 Vidič;Matej;OK Azimut;B;0:36:06;8;348;348;348;348
@@ -33,13 +33,13 @@ Poljanšek;Nika;OK Azimut;B;0:36:45;9;341;341;341;341
 Tušar;Teja;OK Azimut;B;0:36:47;10;338;338;338;338
 Domnik;Nejc;OK Azimut;B;0:36:49;11;335;335;335;335
 Pogačar;Ana Pia;OK Komenda;B;0:36:57;12;331;331;331;331
-Turk;Nejc;ind.;B;0:37:56;13;322;322;322;322
+Turk;Nejc;OK Komenda;B;0:37:56;13;322;322;322;322
 Leban;Manja;OK Azimut;B;0:38:22;14;316;316;316;316
 Bogataj;Boštjan;OK Azimut;B;0:39:08;15;309;309;309;309
-Grah;Blaž;ind.;B;0:39:36;16;303;303;303;303
-Salopek;Tihon;ind.;B;0:40:39;17;295;295;295;295
+Grah;Blaž;OK Azimut;B;0:39:36;16;303;303;303;303
+Salopek;Tihon;OK Azimut;B;0:40:39;17;295;295;295;295
 Korelc;Andrej;OK Komenda;B;0:42:04;18;285;285;285;285
-Zorman;Nejc;ind.;B;0:42:06;19;281;281;281;281
+Zorman;Nejc;OK Komenda;B;0:42:06;19;281;281;281;281
 Zavrl;Janez;OK Komenda;B;0:42:10;20;278;278;278;278
 Gantar;Lara;OK Azimut;B;0:42:27;21;274;274;274;274
 Nelson;Charles;OK Azimut;B;0:43:34;22;266;266;266;266
@@ -51,32 +51,32 @@ Sladič;Roman;OK Perkmandeljc Trbovlje;B;0:45:47;27;241;241;241;241
 Drevenšek;Suzana;Kamniški OK;B;0:46:24;28;236;236;236;236
 Ravnikar;Nika;OK Komenda;B;0:48:30;29;225;225;225;225
 Gregorič;Nik;PD Ajdovščina;B;0:49:40;30;217;217;217;217
-Pust;Karin;ind.;B;0:49:51;31;214;214;214;214
+Pust;Karin;OK Komenda;B;0:49:51;31;214;214;214;214
 Krkoč;Urban;PD Ajdovščina;B;0:53:16;32;200;200;200;200
 Leban;Marijan;OK Azimut;B;0:54:53;33;192;192;192;192
-Bogataj;Natasa;ind.;B;0:57:31;34;182;182;182;182
-Leban;Tijana;ind.;B;0:57:35;35;179;179;179;179
+Bogataj;Natasa;OK Azimut;B;0:57:31;34;182;182;182;182
+Leban;Tijana;OK Azimut;B;0:57:35;35;179;179;179;179
 Gregorc;Urban;ind.;B;0:59:31;36;171;171;171;171
 Špenko;Zala;OK Komenda;B;1:01:29;37;163;163;163;163
-Vetrih;Samo;ind.;B;1:05:03;38;153;153;153;153
+Vetrih;Samo;PD Ajdovščina;B;1:05:03;38;153;153;153;153
 Pretnar;Irma;Kamniški OK;B;1:05:37;39;149;149;149;149
-Bevk;Saša;ind.;B;1:06:28;40;144;144;144;144
-Ipavec;Kristina;ind.;B;1:20:36;41;118;118;118;118
-Krivičić;Dragan;ind.;B;1:37:22;42;97;97;97;97
-Obid;Aljaž;ind.;B;1:37:24;43;94;94;94;94
-Žvanut;Tilen;ind.;B;1:45:17;44;84;84;84;84
+Bevk;Saša;OK Azimut;B;1:06:28;40;144;144;144;144
+Ipavec;Kristina;OK Azimut;B;1:20:36;41;118;118;118;118
+Krivičić;Dragan;OK Perkmandeljc;B;1:37:22;42;97;97;97;97
+Obid;Aljaž;OK Azimut;B;1:37:24;43;94;94;94;94
+Žvanut;Tilen;PD Ajdovščina;B;1:45:17;44;84;84;84;84
 Ravnikar;Žan;OK Komenda;B;mp;;;-;0;0
-Kern;Rok;ind.;B;mp;;;-;0;0
+Kern;Rok;OK Komenda;B;mp;;;-;0;0
 Seljak;Luka;OK Komenda;C;0:24:22;1;112;112;112;112
 Bogataj;Rok;OK Azimut;C;0:26:02;2;105;105;105;105
-Katarič;Tit;ind.;C;0:27:29;3;99;99;99;99
-Kavčič;Lucija;ind.;C;0:30:01;4;90;90;90;90
-Malus;Vita;ind.;C;0:42:05;5;66;66;66;66
+Katarič;Tit;OK Azimut;C;0:27:29;3;99;99;99;99
+Kavčič;Lucija;OK Komenda;C;0:30:01;4;90;90;90;90
+Malus;Vita;OK Komenda;C;0:42:05;5;66;66;66;66
 Grum;Miklavž;OK Komenda;C;0:43:57;6;62;62;62;62
 Jenko;Eva;ind.;C;0:48:13;7;57;57;57;57
-Leban;Domen;ind.;C;0:50:09;8;54;54;54;54
-Pavlič;Zdenko;ind.;C;0:53:05;9;50;50;50;50
+Leban;Domen;OK Azimut;C;0:50:09;8;54;54;54;54
+Pavlič;Zdenko;SSDAŠZ GAJA;C;0:53:05;9;50;50;50;50
 Kremžar;Lucija;ind.;C;0:54:30;10;48;48;48;48
-Lap;Nik;ind.;C;1:00:14;11;42;42;42;42
-Rešek Kunc;Natalija;ind.;C;1:09:23;12;36;36;36;36
-;G G R K J;ind.;C;mp;;;-;0;0
+Lap;Nik;OK Komenda;C;1:00:14;11;42;42;42;42
+Rešek Kunc;Natalija;OK Tivoli;C;1:09:23;12;36;36;36;36
+;G G R K J;RKJ Spodnja Idrija;C;mp;;;-;0;0
