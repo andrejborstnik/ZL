@@ -46,7 +46,7 @@ for st_lige in range(1,22):
         vCsv(stanjeLige,st_tekem, score)
 
 if path.isfile('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv'):
-    g=open('ZL_2016_2017.csv','w+',encoding='utf-8')
+    g=open('ZL_2017_2018.csv','w+',encoding='utf-8')
     with open('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv','r+',encoding='utf-8') as f:
         for i in f.readlines():
             g.write(i)

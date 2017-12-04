@@ -1,4 +1,4 @@
-indeksi=[4,17]#V indeksi zapiši zaporedne številke tekem, pri katereih točke
+indeksi=[] #V indeksi zapiši zaporedne številke tekem, pri katereih točke
 #ne štejejo v povprečje za računanje novih rezultatov.
 
 def sumniki(niz):
@@ -235,8 +235,9 @@ def rezultati(st_lige,stanjeLige):
         reader=csv.reader(f)
         rownum=0
         for row in reader:
-            if rownum==1:
+            if rownum==0:
                 header=str(row[0]).split(';')
+                print(header)
             elif rownum==0:
                 pass
             else:
@@ -270,11 +271,17 @@ def rezultati(st_lige,stanjeLige):
                     else:
                         pass            
                     colnum+=1
+                # checking if ok exists
+                try:
+                    ok #try
+                except:
+                    ok = ""
+
                 if ok == "":
                     ok = 0
                 else:
                     ok=int(ok)
-                if cas1:
+                if 'cas1' in vars():
                     if ok in [2,3,4]:
                         cas='mp'
                     elif ok==1:
@@ -301,12 +308,16 @@ def rezultati(st_lige,stanjeLige):
                                 cas[0]=str(0)
                             cas=[int(cas[0]),int(cas[1]),int(cas[2])]
                 
-                if cas1 and cas not in ['mp','dns'] and len(cas) > 1:
+                if ('cas1' in vars()) and cas not in ['mp','dns'] and len(cas) > 1:
                     for i in range(2,0,-1):
                         if cas[i]>=60:
                             cas[i-1]=cas[i-1]+cas[i]//60
                             cas[i]=cas[i]%60
                 a=''
+                try:
+                    klub
+                except:
+                    klub = []
                 for i in klub:
                     if i.isalpha() or i==' ':
                         a+=i
@@ -314,6 +325,10 @@ def rezultati(st_lige,stanjeLige):
                 
                 a=''
                 b=0
+                try:
+                    ime
+                except:
+                    ime = []
                 for i in ime:
                     if i.isalpha():
                         if b==0:
@@ -333,6 +348,10 @@ def rezultati(st_lige,stanjeLige):
                 ime=a
                 a=''
                 b=0
+                try:
+                    priimek
+                except: 
+                    priimek = []
                 for i in priimek:
                     if i.isalpha():
                         if b==0:
@@ -351,6 +370,10 @@ def rezultati(st_lige,stanjeLige):
                     b+=1
                 priimek=a
                 a=''
+                try:
+                    kategorija
+                except:
+                    kategorija = []
                 for i in kategorija:
                     if i!='"':
                         a+=i

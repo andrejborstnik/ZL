@@ -5,3 +5,6 @@ Rezultate v CSV obliki naložimo v direktorij ```Rezultati```. CSV mora biti v f
 
 ## Začetno stanje
 Začetno stanje je zabeleženo v ```Zacetek.txt``` in določa osnovno vrednost tekmovalcev pred začetkom lige. Temelji na izračunu zadnje lige. Novo začetno datoteko pripravimo s pomočjo ```nova_sezona.py```. Rezultat, ki je v datoteki ```zacetek1.txt``` preimenujte v ```Zacetek.txt```.
+
+## Računanje
+Poženeš skripto prvič. V ```Stanja_racunana``` se naložijo rezultati. Skopiraš jih v ResnaStanja, če so OK in potem se naračuna še vse ostalo.
