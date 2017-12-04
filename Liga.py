@@ -237,7 +237,7 @@ def rezultati(st_lige,stanjeLige):
         for row in reader:
             if rownum==0:
                 header=str(row[0]).split(';')
-                print(header)
+                #print(header)
             elif rownum==0:
                 pass
             else:

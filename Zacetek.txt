@@ -31,7 +31,7 @@ Hvala;Gregor;OK Azimut;A;1114
 Kremžar;Tomaž;ind.;A;726
 Pribaković Borštnik;Ana;OK Tivoli;A;707
 Kete;Ivo;PD Ajdovščina;A;491
-Štanfel;Matjaž;OK Ris Delnice;A;1340
+Štanfel;Matjaž;OK Azimut;A;1340
 Dovč;Jan;OK Tivoli;A;1240
 Čufer;David;PD Ajdovščina;A;746
 Dudič;Marko;OK Slovenj Gradec;A;743
@@ -160,7 +160,7 @@ Obid;Marko;OK Azimut;B;216
 Logar;Erik;OK Azimut;B;132
 Sedej;Vlado;OK Azimut;B;118
 Korelc;Andrej;OK Komenda;B;116
-Poženel;Natan Maj;OK Azimut;B;193
+Poženel;Natan Maj;PD Tolmin;B;193
 Zupan;Tilen;OK Komenda;B;101
 Leban;Manja;OK Azimut;B;170
 Sladič;Roman;OK Perkmandeljc Trbovlje;B;95
@@ -240,7 +240,7 @@ Bizjak;Matej;OK Komenda;B;232
 Sylvester;Mark;uwc adriatic orienteering club;B;229
 Franz;Francesco;friuli mtb  orienteering asd;B;226
 Štekar;Jan;OK Azimut;B;221
-Čopi;Gašper;OK Azimut;B;221
+Čopi;Gašper;PD Tolmin;B;221
 Štrumbelj;Lana;OK Polaris;B;8
 Cescon;Karin;punto k orienteering asd;B;212
 Kremžar;Tomaž;ind.;B;209
