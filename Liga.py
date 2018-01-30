@@ -249,7 +249,7 @@ def rezultati(st_lige,stanjeLige):
                         break
                     if header[colnum]=='First name':
                         ime=col
-                    elif header[colnum]=='Surname':
+                    elif header[colnum]=='Surname' or header[colnum][1:] == "Surname":
                         priimek=col
                     elif header[colnum]=='Short':
                         kategorija=col
