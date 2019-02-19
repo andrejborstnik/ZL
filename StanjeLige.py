@@ -30,7 +30,7 @@ IP = 1
 
 for st_lige in range(1,21):
     print(st_lige)
-    if st_lige == 20:
+    if st_lige == 18:
         IP = 1.1
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
         c,score = rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
