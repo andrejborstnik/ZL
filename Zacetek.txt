@@ -384,7 +384,7 @@ De;Masellis Giovanna;ind.;C;-147
 Vascotto;Luca;ind.;C;-149
 Hacin Kölner;Irena;OK Komenda;C;-149
 Kölner;Brina Anže;OK Komenda;C;-149
-Cankar;Tinkara;OK Komenda;C;-150
+Cankar;Tinkara;ŠOK;C;-150
 Zupan;Romana;OK Komenda;C;-150
 Pobega Ogrin;David Maja;OK Komenda;C;-154
 Vodlan;Darja;OK Polaris;C;-155
