@@ -1,6 +1,6 @@
 Hvala;Gregor;OK Azimut;A;1393
 Škarabot;Miha;OK Polaris;A;854
-Kenda;Klemen;OK Azimut;A;827
+Kenda;Klemen;OK 46;A;827
 Piltaver;Jaka;OK Brežice;A;1333
 Eržen;Boris;OK Polaris;A;713
 Turk;Nejc;OK Komenda;A;932

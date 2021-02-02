@@ -7,7 +7,7 @@ stanjeLigeC={}
 with open('zacetek.txt',encoding='utf-8') as f:
     k=0
     for line in f:
-        if k!=0:                
+        if k!=0:
             a=line.split(';')
             ime=a[1]
             priimek=a[0]
@@ -46,7 +46,7 @@ for st_lige in range(1,21):
         vCsv(stanjeLige,st_tekem, score)
 
 if path.isfile('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv'):
-    g=open('ZL_2019_2020.csv','w+',encoding='utf-8')
+    g=open('ZL_2020_2021.csv','w+',encoding='utf-8')
     with open('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv','r+',encoding='utf-8') as f:
         for i in f.readlines():
             g.write(i)
