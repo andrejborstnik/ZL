@@ -1,0 +1,36 @@
+Surname;First name;Time;Pl;Classifier;Cl.name;City;Short;km;m;Course controls;
+Škarabot;Miha;0:55:15;1;0;OK Polaris;;A;5;150;22;
+Petrovič;Dušan;0:55:28;2;0;OK Polaris;;A;5;150;22
+Žnidaršič;Urban;1:07:27;3;0;ind.;;A;5;150;22
+Dudić;Marko;1:08:56;4;0;OK SG;;A;5;150;22
+Kreft;Tilen;1:11:09;5;0;ind.;;A;5;150;22
+Eržen;Boris;1:11:38;6;0;ŠOK;;A;5;150;22
+Pribaković Borštnik;Ana;1:20:00;7;0;OK Tivoli;;A;5;150;22
+Kupnik;Tomaž;1:29:44;8;0;OK 46;;A;5;150;22
+Pobega;Davor;1:52:00;9;0;OK Tivoli;;A;5;150;22
+Lampe;Ajda;1:55:22;10;0;OK Komenda;;A;5;150;22
+Sedej;David;2:44:48;11;0;OK Azimut;;A;5;150;22
+Sedej;Vlado;2:44:48;11;0;OK Azimut;;A;5;150;22
+Raj;Nastja;;;2;OK SG;;A;5;150;22
+Pust;Tomaž;;;3;OK Komenda;;A;5;150;22
+Kenda;Klemen;;;3;OK 46;;A;5;150;22
+Foški;Mojca;;;4;OK Polaris;;A;5;150;22
+Foški;Valter;;;4;OK Polaris;;A;5;150;22
+Osterman;Eneja;;;3;OK Polaris;;A;5;150;22
+Pust;Karin;;;4;OK Komenda;;A;5;150;22
+Igor;Bončina;;;4;OK Slovenske Konjice;;A;5;150;22
+Raj;Grega;0:36:19;1;0;OK SG;;B;3.2;100;14;
+Kunc;Robert;0:37:51;2;0;OK Tivoli;;B;3.2;100;14
+Kupnik;Tomaž;0:50:41;3;0;OK 46;;B;3.2;100;14
+Plavčak;Ana;1:03:00;4;0;ŠOK;;B;3.2;100;14
+Česnik;Jure;1:23:25;5;0;ind.;;B;3.2;100;14
+Herček;Ariela;1:23:25;5;0;ind.;;B;3.2;100;14
+Borštnik;Aleš;1:30:00;7;0;OK Tivoli;;B;3.2;100;14
+Sedej;Žiga;1:59:46;8;0;OK Azimut;;B;3.2;100;14
+Sedej;Rok;1:59:46;8;0;OK Azimut;;B;3.2;100;14
+Sedej;David;1:59:46;8;0;OK Azimut;;B;3.2;100;14
+Sedej;Vlado;1:59:46;8;0;OK Azimut;;B;3.2;100;14
+Lampe;Vlasta;2:08:08;12;0;ind.;;B;3.2;100;14
+Kenda*;Klemen;0:40:47;;0;OK 46;;B;3.2;100;14
+Podobnik;Primož;;;4;OK Azimut;;B;3.2;100;14
+Batič;Mojca;;;4;OK Azimut;;B;3.2;100;14
