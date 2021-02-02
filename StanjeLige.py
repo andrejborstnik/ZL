@@ -28,9 +28,9 @@ with open('zacetek.txt',encoding='utf-8') as f:
 st_tekem=0
 IP = 1
 
-for st_lige in range(1,22):
+for st_lige in range(1,21):
     print(st_lige)
-    if st_lige == 21:
+    if st_lige == 18:
         IP = 1.1
     if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
         c,score = rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
@@ -46,7 +46,7 @@ for st_lige in range(1,22):
         vCsv(stanjeLige,st_tekem, score)
 
 if path.isfile('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv'):
-    g=open('ZL_2017_2018.csv','w+',encoding='utf-8')
+    g=open('ZL_2019_2020.csv','w+',encoding='utf-8')
     with open('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv','r+',encoding='utf-8') as f:
         for i in f.readlines():
             g.write(i)

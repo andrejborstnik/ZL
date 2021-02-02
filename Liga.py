@@ -286,7 +286,9 @@ def rezultati(st_lige,stanjeLige):
                         cas='mp'
                     elif ok==1:
                         cas='dns'
-                    else:
+                    elif not cas1 == False:
+                        
+
                         if not ':' in cas1:
                             cas = [0,0,-abs(float(cas1))]
                             if score == False:
