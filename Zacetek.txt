@@ -54,13 +54,13 @@ Raj;Nastja;OK Slovenj Gradec;A;820
 Zupan;Gregor;OK Komenda;A;820
 Vovk;Peter;ind.;A;811
 Eržen;Valetin;OK Azimut;A;799
-Maj Poženel;Natan;ind.;A;784
+Maj Poženel;Natan;OK Komenda;A;784
 Pavlič;Gregor;SSDAŠZ GAJA;A;782
 Ferenc;Ales;OK Tivoli;A;773
 Škarabot;Matej;OK Polaris;A;769
 Šalamun;Miro;OK Polaris;A;767
 Foški;Mojca;OK Polaris;A;764
-Pia Pogačar;Ana;ind.;A;762
+Pia Pogačar;Ana;OK Komenda;A;762
 Foški;Valter;OK Polaris;A;731
 Poženel;Natan Maj;OK Komenda;A;716
 Černe;Aljaž;OK Tivoli;A;708
@@ -100,7 +100,7 @@ Sedej;David;OK Azimut;B;83
 Zupan;Romana;OK Komenda;B;-12
 Cankar;Uroš;ŠOK;B;77
 Lapajne;Janko;OK Azimut;B;56
-Kölner;Irena;ind.;B;54
+Kölner;Irena;OK Komenda;B;54
 Zavrl;Janez;OK Komenda;B;41
 Korenjak;Miha;OK Komenda;B;278
 Majdič;Špela;OK Azimut;B;18
@@ -149,9 +149,9 @@ Dudć;Marko;OK Slovenj Gradec;B;47
 Vodlan;Darja;OK Polaris;B;44
 Markelj;Jernej;OK Polaris;B;41
 Cafnik;Izak;OK Komenda;B;36
-Cokan;Grega;ind.;B;31
+Cokan;Grega;OK Slovenj Gradec;B;31
 Foški;Oskar;OK Polaris;B;30
-Bizjak;Bo Žo;ind.;B;30
+Bizjak;Božo;OK Azimut;B;30
 Škarabot;Mha;OK Polaris;B;28
 Šalamun;Eva;OK Polaris;B;26
 Anderluh;Ana Maja;OK Polaris;B;23
@@ -170,7 +170,7 @@ Istenič;Maja;OK Azimut;B;-15
 Anderluh;Maja;OK Polaris;B;-17
 Sedej;Matej;OK Azimut;B;-24
 Anderluh;Katarina;OK Polaris;B;-34
-Božo;Bizjak;ind.;B;-35
+Božo;Bizjak;OK Azimut;B;-35
 Mezga;Tanja;OK Slovenj Gradec;B;-39
 Gantar;Damjana;OK Azimut;B;-76
 Petra;Stojan;OK Azimut;B;-200
@@ -186,7 +186,7 @@ Jeraj;Ajda;OK Komenda;C;-104
 Jarc;Val;OK Komenda;C;-104
 Jeraj;Mija;OK Komenda;C;-106
 Eržen;Nika;OK Azimut;C;-108
-Ema Poženel;Leila;ind.;C;-128
+Ema Poženel;Leila;OK Komenda;C;-128
 Malus;Drejc;OK Komenda;C;-130
 Raj;Ema Pika;OK Slovenj Gradec;C;-69
 Kurinčič;Jakob;OK Komenda;C;-75
@@ -201,7 +201,7 @@ Lončar;Naja;ind.;C;-100
 Golmajer Škerjanec;Verenain Tamara;ind.;C;-104
 Kern;Patricija;OK Komenda;C;-110
 Čadež;Ana;OK Azimut;C;-110
-Kremžar;Florjan;ind.;C;-111
+Kremžar;Florjan;OK Komenda;C;-111
 Rojc;Žana;OK Polaris;C;-113
 Rojc;Urša;OK Polaris;C;-114
 Prezelj;Timeja;OK Azimut;C;-114
@@ -212,7 +212,7 @@ Zafošnik;Zala;ind.;C;-125
 Serjun;Mark;OK Azimut;C;-125
 Zupan;Lara;OK Komenda;C;-125
 Kremžar;Katarina;OK Komenda;C;-128
-Beno;Bizjak;ind.;C;-128
+Beno;Bizjak;OK Azimut;C;-128
 Stare;Urbanin Iztok;ind.;C;-129
 Frantar;Rokin Tomaž;ind.;C;-130
 Mlakar;Robi;OK Azimut;C;-132
@@ -235,3 +235,4 @@ Golmajer Škerjanec;Titin Matic;ind.;C;-167
 Hamberger;Silva;ind.;C;-167
 Hozjan;Matjaz;ind.;C;-168
 Mezga;Frida;OK Slovenj Gradec;C;-170
+Gavrilov;Igor;OK Komenda;A;0
