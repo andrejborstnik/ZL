@@ -236,3 +236,26 @@ Hamberger;Silva;ind.;C;-167
 Hozjan;Matjaz;ind.;C;-168
 Mezga;Frida;OK Slovenj Gradec;C;-170
 Gavrilov;Igor;OK Komenda;A;0
+Hvala;Gregor;OK Azimut;A;1350
+Osterman;Eneja;OK Polaris;A;1100
+Kurinčič;Simon;OK Komenda;A;0
+Ravnikar;Monika;OK Komenda;A;0
+Poljanšek;Aleš;OK Azimut;A;0
+Borštnik;Aleš;OK Tivoli;A;0
+Sedej;Vlado;OK Azimut;A;0
+Kupnik;Tomaž;OK 46;A;0
+Andrejc;David;OK Slovenj Gradec;A;0
+Kenda;Klemen;OK 46;B;0
+Gavrilov;Igor;OK Komenda;B;0
+Raj;Grega;OK Slovenj Gradec;B;0
+Kupnik;Tomaž;OK 46;B;0
+Kunc;Robert;OK Tivoli;B;0
+Ravnikar;Monika;OK Komenda;B;0
+Kurinčič;Simon;OK Komenda;B;0
+Obid;Marko;OK Azimut;B;0
+Podobnik;Primož;OK Azimut;B;0
+Borštnik;Aleš;OK Tivoli;B;0
+Sušnik;Rok;OK Azimut;B;0
+Sedej;Žiga;OK Azimut;B;0
+Smole;Enej;OK Tivoli;B;0
+Andrejc;Lenart;OK Slovenj Gradec;C;0
