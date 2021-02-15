@@ -49,7 +49,7 @@ Kunc;Robert;OK Tivoli;A;859
 Tušar;Peter;OK Azimut;A;851
 Kodrič;Nejc;OK Azimut;A;851
 Balažic;Petja;OK Slovenj Gradec;A;838
-Bončina;Igor;OK Azimut;A;832
+Bončina;Igor;OK Slovenske Konjice;A;832
 Raj;Nastja;OK Slovenj Gradec;A;820
 Zupan;Gregor;OK Komenda;A;820
 Vovk;Peter;ind.;A;811
@@ -66,7 +66,7 @@ Poženel;Natan Maj;OK Komenda;A;716
 Černe;Aljaž;OK Tivoli;A;708
 Maj;Natan;ind.;A;697
 Jerše;Damjana;OK Polaris;A;674
-Sladič;Roman;OK Perkmandeljc;A;629
+Sladič;Roman;ŠOK;A;629
 Kordiš Miheljak;Urška;OK Slovenj Gradec;A;546
 Cankar;Uroš;OK Azimut;A;278
 Razpet;Deja;OK Azimut;A;278
@@ -89,7 +89,7 @@ Bizjak;Božo;OK Azimut;B;40
 Kariž;Jan Patrick;ind.;B;152
 Pust;Tomaž;OK Azimut;B;146
 Anderluh;Luka;OK Polaris;B;142
-Boncina;Igor;OK Azimut;B;131
+Bončina;Igor;OK Slovenske Konjice;B;131
 Obid;Maja;OK Azimut;B;13
 Bogataj;Spela;OK Komenda;B;112
 Žižek;Saša;OK Azimut;B;112
@@ -125,7 +125,8 @@ Malus;Marta;OK Komenda;B;125
 Pust;Karin;OK Komenda;B;122
 Ravnikar;Nika;OK Komenda;B;120
 Miheljak;Tevž;OK Slovenj Gradec;B;118
-Sladič;Roman;OK Perkmandeljc Trbovlje;B;113
+Sladič;Roman;ŠOK;B;113
+Sladič;Irena;ŠOK;B;113
 Šuc;Enej;OK Komenda;B;113
 Kunc;Mojca;OK Tivoli;B;106
 Poljanšek;Aleš;OK Azimut;B;106
