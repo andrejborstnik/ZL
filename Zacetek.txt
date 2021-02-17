@@ -236,7 +236,7 @@ Golmajer Škerjanec;Titin Matic;ind.;C;-167
 Hamberger;Silva;ind.;C;-167
 Hozjan;Matjaz;ind.;C;-168
 Mezga;Frida;OK Slovenj Gradec;C;-170
-Gavrilov;Igor;OK Komenda;A;0
+Gavrilov;Igor;OK Komenda;A;1100
 Hvala;Gregor;OK Azimut;A;1350
 Osterman;Eneja;OK Polaris;A;1100
 Kurinčič;Simon;OK Komenda;A;0
@@ -260,3 +260,20 @@ Sušnik;Rok;OK Azimut;B;0
 Sedej;Žiga;OK Azimut;B;0
 Smole;Enej;OK Tivoli;B;0
 Andrejc;Lenart;OK Slovenj Gradec;C;0
+Andrejc;Gregor;OK Slovenj Gradec;A;0
+Raj;Grega;OK Slovenj Gradec;A;1000
+Šoster;Katka;OK Slovenj Gradec;A;0
+Andrejc;Hinko;OK Slovenj Gradec;A;0
+Pogorevčnik;Olga;OK Slovenj Gradec;A;0
+Balažič;Irena;OK Slovenj Gradec;A;0
+Pritržnik;Marko;OK Slovenj Gradec;A;0
+Petrovič;Dušan;OK Polaris;B;0
+Andrejc;Gregor;OK Slovenj Gradec;B;0
+Raj;Ema Pika;OK Slovenj Gradec;B;0
+Visinski Andrejc;Maja;OK Slovenj Gradec;B;0
+Markovič;Inga;OK Slovenj Gradec;C;0
+Bizjak;Matevž;OK Slovenj Gradec;C;0
+Raj;Ida Antonija;OK Slovenj Gradec;C;0
+Janšek Vodovnik;Gal;OK Slovenj Gradec;C;0
+Andrejc;Žiga;OK Slovenj Gradec;A;0
+Raj;Lili Ivana;OK Slovenj Gradec;B;0:
