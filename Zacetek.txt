@@ -276,4 +276,6 @@ Bizjak;Matevž;OK Slovenj Gradec;C;0
 Raj;Ida Antonija;OK Slovenj Gradec;C;0
 Janšek Vodovnik;Gal;OK Slovenj Gradec;C;0
 Andrejc;Žiga;OK Slovenj Gradec;A;0
-Raj;Lili Ivana;OK Slovenj Gradec;B;0:
+Raj;Lili Ivana;OK Slovenj Gradec;B;0
+Čufer;David;PD Ajdovščina;A;0
+Kete;Ivo;PD Ajdovščina;A;0
