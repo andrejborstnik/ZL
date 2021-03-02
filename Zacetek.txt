@@ -279,3 +279,13 @@ Andrejc;Žiga;OK Slovenj Gradec;A;0
 Raj;Lili Ivana;OK Slovenj Gradec;B;0
 Čufer;David;PD Ajdovščina;A;0
 Kete;Ivo;PD Ajdovščina;A;0
+Churkin;Sergey;OK Komenda;A;0
+Churkin;Sergey;OK Komenda;B;0
+Bačnar;Janko;OK Azimut;B;0
+Eržen;Boris;ŠOK;B;0
+Mikuž;Erik;OK Azimut;B;0
+Mikuž;Denis;OK Azimut;B;0
+Gnezda;Neža;OK Azimut;B;0
+Gnezda;Neža;OK Azimut;C;0
+Mlakar;Tomaž;OK Azimut;C;0
+Bačnar;Aljoša;OK Azimut;C;0

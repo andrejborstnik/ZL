@@ -1,0 +1,39 @@
+Surname;First name;Time;Pl;Classifier;Cl.name;City;Short;km;m;Course controls;
+Stanonik;Simon;0:30:23;1;0;OK Azimut;;A;3.6;;21
+Bogataj;Mark;0:33:51;2;0;OK Azimut;;A;3.6;;21
+Hvala;Gregor;0:33:59;3;0;OK Azimut;;A;3.6;;21
+Tušar;Peter;0:36:10;4;0;OK Azimut;;A;3.6;;21
+Gavrilov;Igor;0:42:42;5;0;OK Komenda;;A;3.6;;21
+Pust;Tomaž;0:43:28;6;0;OK Komenda;;A;3.6;;21
+Tušar;Teja;0:46:43;7;0;OK Azimut;;A;3.6;;21
+Razpet;Deja;0:55:50;8;0;OK Azimut;;A;3.6;;21
+Eržen;Valentin;0:57:44;9;0;OK Azimut;;A;3.6;;21
+Eržen;Boris;0:58:18;10;0;ŠOK;;A;3.6;;21
+Churkin;Sergey;1:02:33;11;0;OK Komenda;;A;3.6;;21
+Pribaković Borštnik;Ana;1:03:26;12;0;OK Tivoli;;A;3.6;;21
+Poljanšek;Nika;1:08:35;13;0;OK Azimut;;A;3.6;;21
+Sedej;Vlado;1:18:59;14;0;OK Azimut;;A;3.6;;21
+Borštnik;Aleš;1:22:00;15;0;OK Tivoli;;A;3.6;;21
+Čufer;Stanko;1:22:52;16;0;PD Ajdovščina;;A;3.6;;21
+Gavrilov;Igor;0:26:01;1;0;OK Komenda;;B;2.5;;17
+Churkin;Sergey;0:30:06;2;0;OK Komenda;;B;2.5;;17
+Bačnar;Janko;0:30:41;3;0;OK Azimut;;B;2.5;;17
+Eržen;Nea;0:31:51;4;0;OK Azimut;;B;2.5;;17
+Obid;Marko;0:32:08;5;0;OK Azimut;;B;2.5;;17
+Eržen;Boris;0:32:10;6;0;ŠOK;;B;2.5;;17
+Obid;Neža;0:33:05;7;0;OK Azimut;;B;2.5;;17
+Kenda;Klemen;0:36:40;8;0;OK 46;;B;2.5;;17
+Sedej;Vlado;0:41:47;9;0;OK Azimut;;B;2.5;;17
+Mikuž;Erik;0:46:38;10;0;OK Azimut;;B;2.5;;17
+Mikuž;Denis;0:48:47;11;0;OK Azimut;;B;2.5;;17
+Močnik;Jana;0:51:07;12;0;OK Azimut;;B;2.5;;17
+Razpet;Tajda;0:55:49;13;0;OK Azimut;;B;2.5;;17
+Bizjak;Božo;1:04:54;14;0;OK Azimut;;B;2.5;;17
+Mohorič;Lana;0:00:00;;2;OK Azimut;;B;2.5;;17
+Gnezda;Neža;0:00:00;;2;OK Azimut;;B;2.5;;17
+Gnezda;Neža;0:21:47;1;0;OK Azimut;;C;2;;10
+Mlakar;Tomaž;0:27:00;2;0;OK Azimut;;C;2;;10
+Eržen;Nika;0:29:18;3;0;OK Azimut;;C;2;;10
+Bačnar;Aljoša;0:29:31;4;0;OK Azimut;;C;2;;10
+Obid;Anže;0:30:15;5;0;OK Azimut;;C;2;;10
+Mlakar;Robi;0:39:16;6;0;OK Azimut;;C;2;;10
