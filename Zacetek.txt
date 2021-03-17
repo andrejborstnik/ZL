@@ -74,7 +74,7 @@ Poljanšek;Nika;OK Azimut;A;246
 Plavčak;Ana;ŠOK;A;192
 Gregor;Zupan;OK Komenda;A;-200
 Ugrin;Nikolina;OK Tivoli;A;-200
-Šuc;Timotej;Posameznikibrez kluba;B;108
+Šuc;Timotej;OK Komenda;B;108
 Obid;Neža;OK Azimut;B;169
 Eržen;Nea;OK Azimut;B;166
 Cokan;Jan;OK Komenda;B;204
@@ -175,12 +175,12 @@ Božo;Bizjak;OK Azimut;B;-35
 Mezga;Tanja;OK Slovenj Gradec;B;-39
 Gantar;Damjana;OK Azimut;B;-76
 Petra;Stojan;OK Azimut;B;-200
-Šuc;Enej;Posameznikibrez kluba;C;-80
+Šuc;Enej;OK Komenda;C;-80
 Kölner;Brina;OK Komenda;C;-92
 Kölner;Anže;OK Komenda;C;-101
 Šuc;Tin;OK Komenda;C;-135
 Jarc;Ajda;OK Komenda;C;-113
-Kremžar;Florijan;Posameznikibrez kluba;C;-76
+Kremžar;Florijan;OK Komenda;C;-76
 Malus;Ožbej;OK Komenda;C;-87
 Kerčmar;Kevin;OK Azimut;C;-101
 Jeraj;Ajda;OK Komenda;C;-104
@@ -289,3 +289,25 @@ Gnezda;Neža;OK Azimut;B;0
 Gnezda;Neža;OK Azimut;C;0
 Mlakar;Tomaž;OK Azimut;C;0
 Bačnar;Aljoša;OK Azimut;C;0
+Ravnikar;Andraž;OK Polaris;A;0
+Šuc;Timotej;OK Komenda;A;0
+Draksler;Matjaž;ŠOK;A;0
+Andrejc;David;OK Slovenj Gradec;B;0
+Eržen;Valentin;OK Azimut;B;0
+Andrejc;Hinko;OK Slovenj Gradec;B;0
+Andrejc;Suzana;OK Slovenj Gradec;B;0
+Zibelnik;Klemen;OK Polaris;B;0
+Bizjak;Tina;OK Polaris;B;0
+Drešček;Andraž;OK Azimut;B;0
+Draksler;Alja;ŠOK;B;0
+Andrejc;Aljoša;OK Slovenj Gradec;C;0
+Andrejc;Miša;OK Slovenj Gradec;C;0
+Gojčič;Samuel;OK Polaris;C;0
+Gojčič;Leon;OK Polaris;C;0
+Raj;Pika Ema;OK Slovenj Gradec;C;0
+Vodovnik;Tina;OK Slovenj Gradec;C;0
+Šuc;Teja;OK Komenda;C;0
+Mezga;Tanja;OK Slovenj Gradec;C;0
+Cankar;Tinkara;ŠOK;C;0
+Šuc;Timotej;OK Komenda;C;0
+Bogataj;Pia;OK Azimut;C;0
