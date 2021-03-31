@@ -311,3 +311,8 @@ Mezga;Tanja;OK Slovenj Gradec;C;0
 Cankar;Tinkara;ŠOK;C;0
 Šuc;Timotej;OK Komenda;C;0
 Bogataj;Pia;OK Azimut;C;0
+Bačnar;Janko;OK Azimut;A;0
+Osterman;Natan;OK Polaris;B;0
+Kremžar;Florijan;OK Komenda;B;0
+Gantar;Damjan;OK Azimut;B;0
+Bizjak;Beno;OK Azimut;C;0
