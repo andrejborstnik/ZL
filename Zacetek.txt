@@ -316,3 +316,5 @@ Osterman;Natan;OK Polaris;B;0
 Kremžar;Florijan;OK Komenda;B;0
 Gantar;Damjan;OK Azimut;B;0
 Bizjak;Beno;OK Azimut;C;0
+Gantar;Kristjan;OK Azimut;A;0
+Gantar;Brina;OK Azimut;C;0
