@@ -1,320 +1,143 @@
-Hvala;Gregor;OK Azimut;A;1393
-Škarabot;Miha;OK Polaris;A;854
-Kenda;Klemen;OK 46;A;827
-Piltaver;Jaka;OK Brežice;A;1333
-Eržen;Boris;OK Polaris;A;713
-Turk;Nejc;OK Komenda;A;932
-Obid;Marko;OK Azimut;A;821
-Kölner;Blaž;OK Komenda;A;1154
-Flerin Drevenšek;Mojca;Kamniški OK;A;1121
-Petrovič;Dušan;OK Polaris;A;1112
-Eržen;Valentin;OK Azimut;A;1072
-Blaž;Matic;OK Komenda;A;1494
-Pust;Tomaž;OK Komenda;A;911
-Kremžar;Tomaž;OK Komenda;A;906
-Zavrl;Zala;OK Komenda;A;839
-Tušar;Teja;OK Azimut;A;748
-Kolner;Blaz;ind.;A;1074
-Kmetec;Barbara;Kamniški OK;A;408
-Dudic;Marko;OK Slovenj Gradec;A;1007
-Babič;Katja;OK Komenda;A;985
-Kern;Tina;OK Komenda;A;964
-Babič;Silvo;OK Komenda;A;952
-Pust;Karin;OK Komenda;A;858
-Seljak;Luka;OK Komenda;A;836
-Pogačar;Ana Pia;OK Komenda;A;796
-Ravnikar;Nika;OK Komenda;A;776
-Malus;Franc;OK Komenda;A;676
-Matic;Blaž;OK Komenda;A;1535
-Zorman;Jernej;OK Komenda;A;1283
-Mojca;Flerin Drevenšek;Kamniški OK;A;1268
-Hvala;Grègor;ind.;A;1235
-Stanonik;Simon;OK Azimut;A;1228
-Bogataj;Mark;OK Azimut;A;1226
-Ravnikar;Žan;OK Komenda;A;1201
-Gantar;Lara;OK Azimut;A;1061
-Anderluh;Gregor;OK Polaris;A;1061
-Flerin;Mojca;ind.;A;1051
-Oleksandr;Ievstafiev;ind.;A;988
-Pribaković Borštnik;Ana;OK Tivoli;A;394
-Kunc;Matevž;OK Tivoli;A;922
-Smole;Dušan;OK Polaris;A;899
-Čufer;Stanko;PD Ajdovščina;A;880
-Ievstafiev;Oleksandr;ind.;A;876
-Pobega;Davor;OK Tivoli;A;337
-Gantar;Tjaž;OK Azimut;A;874
-Jezeršek;Polona;OK Komenda;A;871
-Zupan;Aleš;OK Polaris;A;863
-Kunc;Robert;OK Tivoli;A;859
-Tušar;Peter;OK Azimut;A;851
-Kodrič;Nejc;OK Azimut;A;851
-Balažic;Petja;OK Slovenj Gradec;A;838
-Bončina;Igor;OK Slovenske Konjice;A;832
-Raj;Nastja;OK Slovenj Gradec;A;820
-Zupan;Gregor;OK Komenda;A;820
-Vovk;Peter;ind.;A;811
-Eržen;Valetin;OK Azimut;A;799
-Maj Poženel;Natan;OK Komenda;A;784
-Pavlič;Gregor;SSDAŠZ GAJA;A;782
-Ferenc;Ales;OK Tivoli;A;773
-Škarabot;Matej;OK Polaris;A;769
-Šalamun;Miro;OK Polaris;A;767
-Foški;Mojca;OK Polaris;A;764
-Pia Pogačar;Ana;OK Komenda;A;762
-Foški;Valter;OK Polaris;A;731
-Poženel;Natan Maj;OK Komenda;A;716
-Černe;Aljaž;OK Tivoli;A;708
-Maj;Natan;ind.;A;697
-Jerše;Damjana;OK Polaris;A;674
-Sladič;Roman;ŠOK;A;629
-Kordiš Miheljak;Urška;OK Slovenj Gradec;A;546
-Cankar;Uroš;OK Azimut;A;278
-Razpet;Deja;OK Azimut;A;278
-Poljanšek;Nika;OK Azimut;A;246
-Plavčak;Ana;ŠOK;A;192
-Gregor;Zupan;OK Komenda;A;-200
-Ugrin;Nikolina;OK Tivoli;A;-200
-Šuc;Timotej;OK Komenda;B;108
-Obid;Neža;OK Azimut;B;169
-Eržen;Nea;OK Azimut;B;166
-Cokan;Jan;OK Komenda;B;204
-Sedej;Vlado;OK Azimut;B;28
-Kölner;Anže;OK Komenda;B;227
-Zupan;Tilen;OK Komenda;B;215
-Hacin Kölner;Irena;OK Komenda;B;66
-Kölner;Blaž;OK Komenda;B;182
-Močnik;Tina;OK Komenda;B;176
-Bogataj;Rok;OK Azimut;B;169
-Bizjak;Božo;OK Azimut;B;40
-Kariž;Jan Patrick;ind.;B;152
-Pust;Tomaž;OK Azimut;B;146
-Anderluh;Luka;OK Polaris;B;142
+Gavrilov;Igor;OK Komenda;A;1136
+Osterman;Eneja;OK Polaris;A;1122
+Petrovič;Dušan;OK Polaris;A;1110
+Pust;Tomaž;OK Komenda;A;1088
+Škarabot;Miha;OK Polaris;A;1038
+Bogataj;Mark;OK Azimut;A;1328
+Dudic;Marko;OK Slovenj Gradec;A;944
+Hvala;Gregor;OK Azimut;A;1228
+Tušar;Peter;OK Azimut;A;1201
+Flerin Drevenšek;Mojca;Kamniški OK;A;1134
+Eržen;Boris;OK Polaris;A;836
+Pribaković Borštnik;Ana;OK Tivoli;A;834
+Kunc;Robert;OK Tivoli;A;824
+Čufer;David;PD Ajdovščina;A;1031
+Stanonik;Simon;OK Azimut;A;1225
+Čufer;Stanko;PD Ajdovščina;A;625
+Kölner;Blaž;OK Komenda;A;1108
+Borštnik;Aleš;OK Tivoli;A;546
+Sedej;Vlado;OK Azimut;A;527
+Andrejc;Žiga;OK Slovenj Gradec;A;929
+Churkin;Sergey;OK Komenda;A;894
+Razpet;Deja;OK Azimut;A;854
+Kete;Ivo;PD Ajdovščina;A;546
+Ravnikar;Monika;OK Komenda;A;786
+Poljanšek;Nika;OK Azimut;A;700
+Andrejc;Hinko;OK Slovenj Gradec;A;691
+Foški;Mojca;OK Polaris;A;652
+Raj;Nastja;OK Slovenj Gradec;A;625
+Raj;Grega;OK Slovenj Gradec;A;1031
+Kurinčič;Simon;OK Komenda;A;1026
+Šoster;Katka;OK Slovenj Gradec;A;841
+Šuc;Timotej;OK Komenda;A;822
+Eržen;Valentin;OK Azimut;A;820
+Andrejc;Gregor;OK Slovenj Gradec;A;808
+Cankar;Uroš;OK Azimut;A;719
+Balažic;Petja;OK Slovenj Gradec;A;676
+Pogorevčnik;Olga;OK Slovenj Gradec;A;676
+Pobega;Davor;OK Tivoli;A;491
+Kremžar;Tomaž;OK Komenda;A;1072
+Tušar;Teja;OK Azimut;A;1039
+Zupan;Gregor;OK Komenda;A;1021
+Kunc;Matevž;OK Tivoli;A;1001
+Kenda;Klemen;OK 46;A;982
+Ravnikar;Andraž;OK Polaris;A;924
+Foški;Valter;OK Polaris;A;822
+Bačnar;Janko;OK Azimut;A;822
+Obid;Marko;OK Azimut;A;748
+Škarabot;Matej;OK Polaris;A;738
+Žnidaršič;Urban;ind.;A;731
+Gantar;Kristjan;OK Azimut;A;701
+Poljanšek;Aleš;OK Azimut;A;671
+Kreft;Tilen;ind.;A;634
+Bončina;Igor;OK Slovenske Konjice;A;598
+Andrejc;David;OK Slovenj Gradec;A;157
+Balažič;Irena;OK Slovenj Gradec;A;245
+Kupnik;Tomaž;OK 46;A;146
+Smole;Dušan;OK Polaris;A;136
+Česnik;Jure;ind.;A;-194
+Gavrilov;Igor;OK Komenda;B;210
+Kenda;Klemen;OK 46;B;128
+Kupnik;Tomaž;OK 46;B;94
+Obid;Neža;OK Azimut;B;78
+Sedej;Vlado;OK Azimut;B;36
+Eržen;Nea;OK Azimut;B;94
+Churkin;Sergey;OK Komenda;B;160
 Bončina;Igor;OK Slovenske Konjice;B;131
-Obid;Maja;OK Azimut;B;13
-Bogataj;Spela;OK Komenda;B;112
-Žižek;Saša;OK Azimut;B;112
-Boncina;Abigael Vanessa;OK Slovenske Konjice;B;0
-Paradiž;Petra;OK Komenda;B;98
-Plavčak;Ana;ŠOK;B;94
-Sedej;David;OK Azimut;B;83
-Zupan;Romana;OK Komenda;B;-12
-Cankar;Uroš;ŠOK;B;77
-Lapajne;Janko;OK Azimut;B;56
-Kölner;Irena;OK Komenda;B;54
-Zavrl;Janez;OK Komenda;B;41
-Korenjak;Miha;OK Komenda;B;278
-Majdič;Špela;OK Azimut;B;18
-Ferenc;Ales;OK Tivoli;B;229
-Hvala;Gregor;OK Azimut;B;221
-Gantar;Lara;OK Azimut;B;206
-Obid;Aljaž;OK Azimut;B;206
-Stanfel;Ursa;OK Azimut;B;204
-Seljak;Luka;OK Komenda;B;188
-Rojc;Iztok;OK Polaris;B;188
-Gombač Šuc;Elena;OK Komenda;B;-6
-Škarabot;Alenka;OK Polaris;B;-6
-Malus;Vita;OK Komenda;B;181
-Babič;Silvo;OK Komenda;B;180
-Rajer;Sandi;ind.;B;176
-Škarabot;Anja;OK Polaris;B;150
-Sedej;Katarina;OK Azimut;B;-27
-Cigoj;Rok;PD Ajdovščina;B;140
-Mohorič;Lana;OK Azimut;B;139
-Vuga Seljak;Alenka;OK Komenda;B;136
-Malus;Marta;OK Komenda;B;125
-Pust;Karin;OK Komenda;B;122
-Ravnikar;Nika;OK Komenda;B;120
-Miheljak;Tevž;OK Slovenj Gradec;B;118
-Sladič;Roman;ŠOK;B;113
-Sladič;Irena;ŠOK;B;113
-Šuc;Enej;OK Komenda;B;113
-Kunc;Mojca;OK Tivoli;B;106
-Poljanšek;Aleš;OK Azimut;B;106
-Stojan;Petra;OK Komenda;B;-48
-Mamič;Hana;PD Ajdovščina;B;92
-Anderluh;Marija;OK Polaris;B;91
-Korelc;Andrej;OK Komenda;B;78
-Bratož;Matej;PD Ajdovščina;B;72
-Petrovič;Blaž;OK Polaris;B;70
-Radovan;Dalibor;OK Polaris;B;67
-Gantar;Primož;OK Azimut;B;66
-Močnik;Jana;OK Azimut;B;66
-Kerševan;Aljaž;PD Ajdovščina;B;65
-Soteskar;Slavljenec;OK Polaris;B;64
-Nelson;Charles;OK Azimut;B;62
-Petrovič;Gašper;OK Polaris;B;59
-Lozar;Zala;PD Ajdovščina;B;58
-Kölner;Brina;OK Komenda;B;53
-Ugrin;Nikolina;OK Tivoli;B;47
-Dudć;Marko;OK Slovenj Gradec;B;47
-Vodlan;Darja;OK Polaris;B;44
-Markelj;Jernej;OK Polaris;B;41
-Cafnik;Izak;OK Komenda;B;36
-Cokan;Grega;OK Slovenj Gradec;B;31
-Foški;Oskar;OK Polaris;B;30
-Bizjak;Božo;OK Azimut;B;30
-Škarabot;Mha;OK Polaris;B;28
-Šalamun;Eva;OK Polaris;B;26
-Anderluh;Ana Maja;OK Polaris;B;23
-Razpet;Tajda;OK Azimut;B;16
-Dobravec;Nejc;OK Tivoli;B;14
-Anderluh;Katarina Eva;OK Polaris;B;14
-Seljak;Jaka;OK Komenda;B;10
-Sedej;Rok;OK Azimut;B;6
-Gantar;Kristjan;OK Azimut;B;4
-Gantar;Borut;OK Azimut;B;4
-Pavlič;Zdenko;aŠz  ssd gaja;B;-2
-Golmajer;Verena;OK Komenda;B;-4
-Golmajer;Tamara;OK Komenda;B;-4
-Zupan;Lara;OK Komenda;B;-12
-Istenič;Maja;OK Azimut;B;-15
-Anderluh;Maja;OK Polaris;B;-17
-Sedej;Matej;OK Azimut;B;-24
-Anderluh;Katarina;OK Polaris;B;-34
-Božo;Bizjak;OK Azimut;B;-35
-Mezga;Tanja;OK Slovenj Gradec;B;-39
-Gantar;Damjana;OK Azimut;B;-76
-Petra;Stojan;OK Azimut;B;-200
-Šuc;Enej;OK Komenda;C;-80
-Kölner;Brina;OK Komenda;C;-92
-Kölner;Anže;OK Komenda;C;-101
-Šuc;Tin;OK Komenda;C;-135
-Jarc;Ajda;OK Komenda;C;-113
-Kremžar;Florijan;OK Komenda;C;-76
-Malus;Ožbej;OK Komenda;C;-87
-Kerčmar;Kevin;OK Azimut;C;-101
-Jeraj;Ajda;OK Komenda;C;-104
-Jarc;Val;OK Komenda;C;-104
-Jeraj;Mija;OK Komenda;C;-106
-Eržen;Nika;OK Azimut;C;-108
-Ema Poženel;Leila;OK Komenda;C;-128
-Malus;Drejc;OK Komenda;C;-130
-Raj;Ema Pika;OK Slovenj Gradec;C;-69
-Kurinčič;Jakob;OK Komenda;C;-75
-Celestina;Jurij;OK Azimut;C;-76
-Boštjan;Eremita;ind.;C;-76
-Miheljak;Andraž;OK Slovenj Gradec;C;-80
-Gašper;Pančur;ind.;C;-81
-Sedej;Rok;OK Azimut;C;-92
-Raj;Lili Ivana;OK Slovenj Gradec;C;-92
-Štor;Neža;PD Ajdovščina;C;-95
-Lončar;Naja;ind.;C;-100
-Golmajer Škerjanec;Verenain Tamara;ind.;C;-104
-Kern;Patricija;OK Komenda;C;-110
-Čadež;Ana;OK Azimut;C;-110
-Kremžar;Florjan;OK Komenda;C;-111
-Rojc;Žana;OK Polaris;C;-113
-Rojc;Urša;OK Polaris;C;-114
-Prezelj;Timeja;OK Azimut;C;-114
-Obid;Anze;OK Azimut;C;-118
-Poženel;Leila Ema;OK Komenda;C;-120
-Prezelj;Mihej;OK Azimut;C;-122
-Zafošnik;Zala;ind.;C;-125
-Serjun;Mark;OK Azimut;C;-125
-Zupan;Lara;OK Komenda;C;-125
-Kremžar;Katarina;OK Komenda;C;-128
-Beno;Bizjak;OK Azimut;C;-128
-Stare;Urbanin Iztok;ind.;C;-129
-Frantar;Rokin Tomaž;ind.;C;-130
+Obid;Marko;OK Azimut;B;98
+Bizjak;Božo;OK Azimut;B;14
+Bogataj;Rok;OK Azimut;B;152
+Eržen;Boris;ŠOK;B;124
+Andrejc;David;OK Slovenj Gradec;B;-3
+Močnik;Jana;OK Azimut;B;-5
+Kölner;Brina;OK Komenda;B;89
+Andrejc;Gregor;OK Slovenj Gradec;B;76
+Osterman;Natan;OK Polaris;B;61
+Kölner;Anže;OK Komenda;B;28
+Šuc;Timotej;OK Komenda;B;25
+Raj;Grega;OK Slovenj Gradec;B;206
+Visinski Andrejc;Maja;OK Slovenj Gradec;B;-3
+Razpet;Tajda;OK Azimut;B;-4
+Kunc;Robert;OK Tivoli;B;188
+Petrovič;Dušan;OK Polaris;B;181
+Raj;Lili Ivana;OK Slovenj Gradec;B;-23
+Bačnar;Janko;OK Azimut;B;148
+Ravnikar;Monika;OK Komenda;B;125
+Kurinčič;Simon;OK Komenda;B;120
+Gnezda;Neža;OK Azimut;B;-44
+Podobnik;Primož;OK Azimut;B;97
+Sušnik;Rok;OK Azimut;B;-51
+Eržen;Valentin;OK Azimut;B;92
+Korelc;Andrej;OK Komenda;B;-62
+Sedej;Rok;OK Azimut;B;-65
+Sedej;David;OK Azimut;B;-65
+Gantar;Damjana;OK Azimut;B;62
+Paradiž;Petra;OK Komenda;B;60
+Gantar;Borut;OK Azimut;B;46
+Plavčak;Ana;ŠOK;B;40
+Andrejc;Hinko;OK Slovenj Gradec;B;26
+Mikuž;Erik;OK Azimut;B;18
+Andrejc;Suzana;OK Slovenj Gradec;B;17
+Majdič;Špela;OK Azimut;B;11
+Mikuž;Denis;OK Azimut;B;6
+Šuc;Enej;OK Komenda;B;5
+Hacin Kölner;Irena;OK Komenda;B;0
+Raj;Ema Pika;OK Slovenj Gradec;B;-3
+Česnik;Jure;ind.;B;-17
+Herček;Ariela;ind.;B;-17
+Borštnik;Aleš;OK Tivoli;B;-33
+Zibelnik;Klemen;OK Polaris;B;-38
+Kremžar;Florijan;OK Komenda;B;-72
+Bizjak;Tina;OK Polaris;B;-80
+Sedej;Žiga;OK Azimut;B;-83
+Lampe;Vlasta;ind.;B;-94
+Smole;Enej;OK Tivoli;B;-94
+Cankar;Uroš;ŠOK;B;-99
+Vodlan;Darja;OK Polaris;B;-100
+Pavlič;Zdenko;aŠz  ssd gaja;B;-200
+Andrejc;Lenart;OK Slovenj Gradec;C;-113
+Gnezda;Neža;OK Azimut;C;-72
+Andrejc;Aljoša;OK Slovenj Gradec;C;-116
+Andrejc;Miša;OK Slovenj Gradec;C;-119
+Gojčič;Samuel;OK Polaris;C;-74
+Gojčič;Leon;OK Polaris;C;-74
+Raj;Pika Ema;OK Slovenj Gradec;C;-75
+Kurinčič;Jerca;OK Komenda;C;-75
+Markovič;Inga;OK Slovenj Gradec;C;-76
+Sedej;Žiga;OK Azimut;C;-137
+Bizjak;Beno;OK Azimut;C;-77
+Janšek Vodovnik;Gal;OK Slovenj Gradec;C;-138
+Kremžar;Katarina;OK Komenda;C;-78
+Mlakar;Tomaž;OK Azimut;C;-96
+Bizjak;Matevž;OK Slovenj Gradec;C;-96
+Kurinčič;Jakob;OK Komenda;C;-96
+Eržen;Nika;OK Azimut;C;-106
+Bačnar;Aljoša;OK Azimut;C;-107
+Obid;Anze;OK Azimut;C;-111
+Raj;Ida Antonija;OK Slovenj Gradec;C;-126
+Gantar;Brina;OK Azimut;C;-131
 Mlakar;Robi;OK Azimut;C;-132
-Frantar;Olgain Brina;OK Komenda;C;-134
-Ogrinc;Pia;ind.;C;-136
-Kovac;Marija;PD Ajdovščina;C;-136
-Zafošnik;Miha;ind.;C;-140
-Ogrinc;Piain Jakob;OK Komenda;C;-141
-Rajer;Sandi;ind.;C;-143
-Maja;Ugrin;OK Tivoli;C;-144
-Kremžar;Klara;OK Komenda;C;-144
-Sedej;Žiga;OK Azimut;C;-149
-Eržen Plavcak;Izabela;ŠOK;C;-153
-Malič;Rok;ind.;C;-155
-Kurinčič;Jerca;OK Komenda;C;-159
-Pančuh;Staša;OK Komenda;C;-162
-Malič;Lana;ind.;C;-164
-Plavčak Izabela;Eržen;ind.;C;-165
-Golmajer Škerjanec;Titin Matic;ind.;C;-167
-Hamberger;Silva;ind.;C;-167
-Hozjan;Matjaz;ind.;C;-168
-Mezga;Frida;OK Slovenj Gradec;C;-170
-Gavrilov;Igor;OK Komenda;A;1100
-Hvala;Gregor;OK Azimut;A;1350
-Osterman;Eneja;OK Polaris;A;1100
-Kurinčič;Simon;OK Komenda;A;0
-Ravnikar;Monika;OK Komenda;A;0
-Poljanšek;Aleš;OK Azimut;A;0
-Borštnik;Aleš;OK Tivoli;A;0
-Sedej;Vlado;OK Azimut;A;0
-Kupnik;Tomaž;OK 46;A;0
-Andrejc;David;OK Slovenj Gradec;A;0
-Kenda;Klemen;OK 46;B;0
-Gavrilov;Igor;OK Komenda;B;0
-Raj;Grega;OK Slovenj Gradec;B;0
-Kupnik;Tomaž;OK 46;B;0
-Kunc;Robert;OK Tivoli;B;0
-Ravnikar;Monika;OK Komenda;B;0
-Kurinčič;Simon;OK Komenda;B;0
-Obid;Marko;OK Azimut;B;0
-Podobnik;Primož;OK Azimut;B;0
-Borštnik;Aleš;OK Tivoli;B;0
-Sušnik;Rok;OK Azimut;B;0
-Sedej;Žiga;OK Azimut;B;0
-Smole;Enej;OK Tivoli;B;0
-Andrejc;Lenart;OK Slovenj Gradec;C;0
-Andrejc;Gregor;OK Slovenj Gradec;A;0
-Raj;Grega;OK Slovenj Gradec;A;1000
-Šoster;Katka;OK Slovenj Gradec;A;0
-Andrejc;Hinko;OK Slovenj Gradec;A;0
-Pogorevčnik;Olga;OK Slovenj Gradec;A;0
-Balažič;Irena;OK Slovenj Gradec;A;0
-Pritržnik;Marko;OK Slovenj Gradec;A;0
-Petrovič;Dušan;OK Polaris;B;0
-Andrejc;Gregor;OK Slovenj Gradec;B;0
-Raj;Ema Pika;OK Slovenj Gradec;B;0
-Visinski Andrejc;Maja;OK Slovenj Gradec;B;0
-Markovič;Inga;OK Slovenj Gradec;C;0
-Bizjak;Matevž;OK Slovenj Gradec;C;0
-Raj;Ida Antonija;OK Slovenj Gradec;C;0
-Janšek Vodovnik;Gal;OK Slovenj Gradec;C;0
-Andrejc;Žiga;OK Slovenj Gradec;A;0
-Raj;Lili Ivana;OK Slovenj Gradec;B;0
-Čufer;David;PD Ajdovščina;A;0
-Kete;Ivo;PD Ajdovščina;A;0
-Churkin;Sergey;OK Komenda;A;0
-Churkin;Sergey;OK Komenda;B;0
-Bačnar;Janko;OK Azimut;B;0
-Eržen;Boris;ŠOK;B;0
-Mikuž;Erik;OK Azimut;B;0
-Mikuž;Denis;OK Azimut;B;0
-Gnezda;Neža;OK Azimut;B;0
-Gnezda;Neža;OK Azimut;C;0
-Mlakar;Tomaž;OK Azimut;C;0
-Bačnar;Aljoša;OK Azimut;C;0
-Ravnikar;Andraž;OK Polaris;A;0
-Šuc;Timotej;OK Komenda;A;0
-Draksler;Matjaž;ŠOK;A;0
-Andrejc;David;OK Slovenj Gradec;B;0
-Eržen;Valentin;OK Azimut;B;0
-Andrejc;Hinko;OK Slovenj Gradec;B;0
-Andrejc;Suzana;OK Slovenj Gradec;B;0
-Zibelnik;Klemen;OK Polaris;B;0
-Bizjak;Tina;OK Polaris;B;0
-Drešček;Andraž;OK Azimut;B;0
-Draksler;Alja;ŠOK;B;0
-Andrejc;Aljoša;OK Slovenj Gradec;C;0
-Andrejc;Miša;OK Slovenj Gradec;C;0
-Gojčič;Samuel;OK Polaris;C;0
-Gojčič;Leon;OK Polaris;C;0
-Raj;Pika Ema;OK Slovenj Gradec;C;0
-Vodovnik;Tina;OK Slovenj Gradec;C;0
-Šuc;Teja;OK Komenda;C;0
-Mezga;Tanja;OK Slovenj Gradec;C;0
-Cankar;Tinkara;ŠOK;C;0
-Šuc;Timotej;OK Komenda;C;0
-Bogataj;Pia;OK Azimut;C;0
-Bačnar;Janko;OK Azimut;A;1000
-Osterman;Natan;OK Polaris;B;0
-Kremžar;Florijan;OK Komenda;B;0
-Gantar;Damjan;OK Azimut;B;0
-Bizjak;Beno;OK Azimut;C;0
-Gantar;Kristjan;OK Azimut;A;0
-Gantar;Brina;OK Azimut;C;0
+Vodovnik;Tina;OK Slovenj Gradec;C;-141
+Šuc;Teja;OK Komenda;C;-142
+Mezga;Tanja;OK Slovenj Gradec;C;-149
+Šuc;Tin;OK Komenda;C;-153
