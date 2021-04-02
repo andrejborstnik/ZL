@@ -4,7 +4,7 @@ import csv
 stanjeLigeA={}
 stanjeLigeB={}
 stanjeLigeC={}
-with open('zacetek.txt',encoding='utf-8') as f:
+with open('zacetek.csv',encoding='utf-8') as f:
     k=0
     for line in f:
         if k!=0:
