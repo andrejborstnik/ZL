@@ -40,7 +40,7 @@ Kremžar;Tomaž;OK Komenda;A;1072
 Tušar;Teja;OK Azimut;A;1039
 Zupan;Gregor;OK Komenda;A;1021
 Kunc;Matevž;OK Tivoli;A;1001
-Kenda;Klemen;OK 46;A;982
+Kenda;Klemen;OK Azimut;A;982
 Ravnikar;Andraž;OK Polaris;A;924
 Foški;Valter;OK Polaris;A;822
 Bačnar;Janko;OK Azimut;A;822
