@@ -35,7 +35,7 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
                 return povprecje
             else:
                 return 0
-        
+
         def standardnaDeviacija(seznam):
             #Iz seznama točk/časov tekmovalccev izračuna standardno deviacijo.
             if seznam:
@@ -47,7 +47,7 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
                 return standardnaDeviacija
             else:
                 return 0
-            
+
         #Sestavljamo seznam z časi in točkami.
         seznamCasov=[]
         seznamTock=[]
@@ -88,8 +88,8 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
                 stanjeLigeA[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],round(RP),mesto]
             else:
                 stanjeLigeA[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],'-']
-            
-            
+
+
             if stanjeLigeA[(sumniki(x),sumniki(y))][0][2]:#Naj ostanejo točke iz začetka leta, če obstajajo (tam je true/false), sicer zračunamo povprečje.
                 #k=0
                 l=0
@@ -107,7 +107,7 @@ def izracunLigeA(rezultatiTekme,st_tekme,stanjeLigeA,IP=1):
                 if l!=0:
                     stanjeLigeA[(sumniki(x),sumniki(y))][0]=[0,round(vsota2/l),True]
 
-            
+
         #Računamo skupni seštevek lige.
         for x,y in stanjeLigeA:
             seznam=[]
@@ -135,7 +135,7 @@ def izracunLigeB(rezultatiTekme,st_tekme,stanjeLigeB={},IP=1):
         #Sestavljamo seznam z časi.
         seznamCasov=[]
         for (x,y) in rezultatiTekme.keys():
-            if rezultatiTekme[(x,y)]not in ['mp','dns']:                  
+            if rezultatiTekme[(x,y)]not in ['mp','dns']:
                 seznamCasov.append((rezultatiTekme[(x,y)][0])*3600+(rezultatiTekme[(x,y)][1])*60+rezultatiTekme[(x,y)][2])
         casNajboljsega=min(seznamCasov)
         seznamCasov.sort()
@@ -155,7 +155,7 @@ def izracunLigeB(rezultatiTekme,st_tekme,stanjeLigeB={},IP=1):
                                                                 round(3*((len(seznamCasov)-mesto+1+100*thisRez)*IP)),mesto]
             else:
                 stanjeLigeB[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],'-']
-                
+
         #Računamo skupni seštevek lige.
         stanjeLigeA=stanjeLigeB
         for x,y in stanjeLigeA:
@@ -199,7 +199,7 @@ def izracunLigeC(rezultatiTekme,st_tekme,stanjeLigeC={},IP=1):
                 stanjeLigeB[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],round((len(seznamCasov)-mesto+1+100*casNajboljsega/((rezultatiTekme[(x,y)][0])*3600+(rezultatiTekme[(x,y)][1])*60+rezultatiTekme[(x,y)][2]))*IP),mesto]
             else:
                 stanjeLigeB[(sumniki(x),sumniki(y))][st_tekme]=[rezultatiTekme[(x,y)],'-']
-                
+
         #Računamo skupni seštevek lige.
         stanjeLigeA=stanjeLigeB
         for x,y in stanjeLigeA:
@@ -231,7 +231,7 @@ def rezultati(st_lige,stanjeLige):
     import csv
     kodiranje='utf-8'
     score = False
-    with open('./Rezultati/ZL'+str(st_lige)+'.csv',encoding=kodiranje) as f:
+    with open('./Rezultati/OLP'+str(st_lige)+'.csv',encoding=kodiranje) as f:
         reader=csv.reader(f)
         rownum=0
         for row in reader:
@@ -269,7 +269,7 @@ def rezultati(st_lige,stanjeLige):
                     elif header[colnum]=='Classifier':
                         ok=col
                     else:
-                        pass            
+                        pass
                     colnum+=1
                 # checking if ok exists
                 try:
@@ -287,7 +287,7 @@ def rezultati(st_lige,stanjeLige):
                     elif ok==1:
                         cas='dns'
                     elif not cas1 == False:
-                        
+
 
                         if not ':' in cas1:
                             cas = [0,0,-abs(float(cas1))]
@@ -309,7 +309,7 @@ def rezultati(st_lige,stanjeLige):
                                 cas[1]=cas[0]
                                 cas[0]=str(0)
                             cas=[int(cas[0]),int(cas[1]),int(cas[2])]
-                
+
                 if ('cas1' in vars()) and cas not in ['mp','dns'] and len(cas) > 1:
                     for i in range(2,0,-1):
                         if cas[i]>=60:
@@ -324,7 +324,7 @@ def rezultati(st_lige,stanjeLige):
                     if i.isalpha() or i==' ':
                         a+=i
                 klub=a
-                
+
                 a=''
                 b=0
                 try:
@@ -352,7 +352,7 @@ def rezultati(st_lige,stanjeLige):
                 b=0
                 try:
                     priimek
-                except: 
+                except:
                     priimek = []
                 for i in priimek:
                     if i.isalpha():
@@ -407,7 +407,7 @@ def rezultati(st_lige,stanjeLige):
                             break
                 if kategorija[0]== "A": ## will allow for multiple categories merged into A
                     if klub1 in ind:
-                        klub1='ind.'       
+                        klub1='ind.'
                     if (ime1,priimek1) not in stanjeLige['A'].keys():
                         stanjeLige['A'][(ime1,priimek1)]={0:[0,500,True],'ime':ime,'priimek':priimek,'klub':klub1}
                     elif stanjeLige['A'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
@@ -438,7 +438,7 @@ def rezultati(st_lige,stanjeLige):
                         klub1='ind.'
                     if (ime1,priimek1) not in stanjeLige['C']:
                         stanjeLige['C'][(ime1,priimek1)]={'ime':ime,'priimek':priimek,'klub':klub1}
-                    elif stanjeLige['C'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']: 
+                    elif stanjeLige['C'][(ime1,priimek1)].get('klub',1)in [1,' ','','ind','ind.']:
                         stanjeLige['C'][(ime1,priimek1)]['klub']=klub1
                     if cas!='dns':
                         rezultatiTekmeC[(ime1,priimek1)]=cas
