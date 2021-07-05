@@ -4,10 +4,10 @@ import csv
 stanjeLigeA={}
 stanjeLigeB={}
 stanjeLigeC={}
-with open('zacetek.txt',encoding='utf-8') as f:
+with open('zacetek.csv',encoding='utf-8') as f:
     k=0
     for line in f:
-        if k!=0:                
+        if k!=0:
             a=line.split(';')
             ime=a[1]
             priimek=a[0]
@@ -32,7 +32,7 @@ for st_lige in range(1,21):
     print(st_lige)
     if st_lige == 18:
         IP = 1.1
-    if path.isfile('./Rezultati/ZL'+str(st_lige)+'.csv'):
+    if path.isfile('./Rezultati/OLP'+str(st_lige)+'.csv'):
         c,score = rezultati(st_lige,{'A':stanjeLigeA,'B':stanjeLigeB,'C':stanjeLigeC})
         for rezultati_kat in c['A'].values():
             stanjeLigeA=izracunLigeA(rezultati_kat,st_lige,stanjeLigeA, IP)
@@ -46,7 +46,7 @@ for st_lige in range(1,21):
         vCsv(stanjeLige,st_tekem, score)
 
 if path.isfile('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv'):
-    g=open('ZL_2019_2020.csv','w+',encoding='utf-8')
+    g=open('OLP_2021.csv','w+',encoding='utf-8')
     with open('./ResnaStanja/StanjeLige'+str(st_tekem)+'.csv','r+',encoding='utf-8') as f:
         for i in f.readlines():
             g.write(i)
